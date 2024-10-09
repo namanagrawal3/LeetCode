@@ -72,6 +72,7 @@
 | [0676-implement-magic-dictionary](https://github.com/namanagrawal3/LeetCode/tree/master/0676-implement-magic-dictionary) |
 | [0720-longest-word-in-dictionary](https://github.com/namanagrawal3/LeetCode/tree/master/0720-longest-word-in-dictionary) |
 | [0827-expressive-words](https://github.com/namanagrawal3/LeetCode/tree/master/0827-expressive-words) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/namanagrawal3/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1923-sentence-similarity-iii](https://github.com/namanagrawal3/LeetCode/tree/master/1923-sentence-similarity-iii) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/namanagrawal3/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/namanagrawal3/LeetCode/tree/master/2494-sum-of-prefix-scores-of-strings) |
@@ -111,6 +112,7 @@
 |  |
 | ------- |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/namanagrawal3/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/namanagrawal3/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1824-maximum-number-of-eaten-apples](https://github.com/namanagrawal3/LeetCode/tree/master/1824-maximum-number-of-eaten-apples) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/namanagrawal3/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Sliding Window
@@ -200,6 +202,7 @@
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/namanagrawal3/LeetCode/tree/master/0143-reorder-list) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/namanagrawal3/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/namanagrawal3/LeetCode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/namanagrawal3/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/namanagrawal3/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
