@@ -82,12 +82,14 @@
 | [2755-extra-characters-in-a-string](https://github.com/namanagrawal3/LeetCode/tree/master/2755-extra-characters-in-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/namanagrawal3/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/namanagrawal3/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3584-find-the-lexicographically-smallest-valid-sequence](https://github.com/namanagrawal3/LeetCode/tree/master/3584-find-the-lexicographically-smallest-valid-sequence) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0091-decode-ways](https://github.com/namanagrawal3/LeetCode/tree/master/0091-decode-ways) |
 | [0474-ones-and-zeroes](https://github.com/namanagrawal3/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [2755-extra-characters-in-a-string](https://github.com/namanagrawal3/LeetCode/tree/master/2755-extra-characters-in-a-string) |
+| [3584-find-the-lexicographically-smallest-valid-sequence](https://github.com/namanagrawal3/LeetCode/tree/master/3584-find-the-lexicographically-smallest-valid-sequence) |
 ## Binary Search
 |  |
 | ------- |
@@ -119,6 +121,7 @@
 | [1824-maximum-number-of-eaten-apples](https://github.com/namanagrawal3/LeetCode/tree/master/1824-maximum-number-of-eaten-apples) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/namanagrawal3/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [3510-maximize-the-total-height-of-unique-towers](https://github.com/namanagrawal3/LeetCode/tree/master/3510-maximize-the-total-height-of-unique-towers) |
+| [3584-find-the-lexicographically-smallest-valid-sequence](https://github.com/namanagrawal3/LeetCode/tree/master/3584-find-the-lexicographically-smallest-valid-sequence) |
 ## Sliding Window
 |  |
 | ------- |
@@ -181,6 +184,7 @@
 | [1923-sentence-similarity-iii](https://github.com/namanagrawal3/LeetCode/tree/master/1923-sentence-similarity-iii) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/namanagrawal3/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/namanagrawal3/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [3584-find-the-lexicographically-smallest-valid-sequence](https://github.com/namanagrawal3/LeetCode/tree/master/3584-find-the-lexicographically-smallest-valid-sequence) |
 ## Union Find
 |  |
 | ------- |
