@@ -29,6 +29,7 @@
 | [1497-design-a-stack-with-increment-operation](https://github.com/namanagrawal3/LeetCode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/namanagrawal3/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/namanagrawal3/LeetCode/tree/master/1694-make-sum-divisible-by-p) |
+| [1706-min-cost-to-connect-all-points](https://github.com/namanagrawal3/LeetCode/tree/master/1706-min-cost-to-connect-all-points) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/namanagrawal3/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1824-maximum-number-of-eaten-apples](https://github.com/namanagrawal3/LeetCode/tree/master/1824-maximum-number-of-eaten-apples) |
 | [1829-maximum-units-on-a-truck](https://github.com/namanagrawal3/LeetCode/tree/master/1829-maximum-units-on-a-truck) |
@@ -214,6 +215,7 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/namanagrawal3/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [1706-min-cost-to-connect-all-points](https://github.com/namanagrawal3/LeetCode/tree/master/1706-min-cost-to-connect-all-points) |
 ## Math
 |  |
 | ------- |
@@ -265,4 +267,12 @@
 |  |
 | ------- |
 | [1002-maximum-width-ramp](https://github.com/namanagrawal3/LeetCode/tree/master/1002-maximum-width-ramp) |
+## Graph
+|  |
+| ------- |
+| [1706-min-cost-to-connect-all-points](https://github.com/namanagrawal3/LeetCode/tree/master/1706-min-cost-to-connect-all-points) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1706-min-cost-to-connect-all-points](https://github.com/namanagrawal3/LeetCode/tree/master/1706-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
