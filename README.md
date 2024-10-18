@@ -288,6 +288,7 @@
 | [1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/namanagrawal3/LeetCode/tree/master/1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1661-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/namanagrawal3/LeetCode/tree/master/1661-minimum-number-of-vertices-to-reach-all-nodes) |
 | [1706-min-cost-to-connect-all-points](https://github.com/namanagrawal3/LeetCode/tree/master/1706-min-cost-to-connect-all-points) |
+| [1738-maximal-network-rank](https://github.com/namanagrawal3/LeetCode/tree/master/1738-maximal-network-rank) |
 ## Minimum Spanning Tree
 |  |
 | ------- |
