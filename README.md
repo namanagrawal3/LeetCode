@@ -90,6 +90,7 @@
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/namanagrawal3/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1250-longest-common-subsequence](https://github.com/namanagrawal3/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1304-longest-happy-string](https://github.com/namanagrawal3/LeetCode/tree/master/1304-longest-happy-string) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/namanagrawal3/LeetCode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1923-sentence-similarity-iii](https://github.com/namanagrawal3/LeetCode/tree/master/1923-sentence-similarity-iii) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/namanagrawal3/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/namanagrawal3/LeetCode/tree/master/2494-sum-of-prefix-scores-of-strings) |
@@ -262,6 +263,7 @@
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/namanagrawal3/LeetCode/tree/master/0143-reorder-list) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/namanagrawal3/LeetCode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/namanagrawal3/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Prefix Sum
 |  |
@@ -271,6 +273,7 @@
 ## Simulation
 |  |
 | ------- |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/namanagrawal3/LeetCode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/namanagrawal3/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/namanagrawal3/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Bit Manipulation
