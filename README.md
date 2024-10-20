@@ -200,6 +200,7 @@
 |  |
 | ------- |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/namanagrawal3/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [2568-minimum-fuel-cost-to-report-to-the-capital](https://github.com/namanagrawal3/LeetCode/tree/master/2568-minimum-fuel-cost-to-report-to-the-capital) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -207,12 +208,14 @@
 | [0744-network-delay-time](https://github.com/namanagrawal3/LeetCode/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/namanagrawal3/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/namanagrawal3/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [2568-minimum-fuel-cost-to-report-to-the-capital](https://github.com/namanagrawal3/LeetCode/tree/master/2568-minimum-fuel-cost-to-report-to-the-capital) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0744-network-delay-time](https://github.com/namanagrawal3/LeetCode/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/namanagrawal3/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/namanagrawal3/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [2568-minimum-fuel-cost-to-report-to-the-capital](https://github.com/namanagrawal3/LeetCode/tree/master/2568-minimum-fuel-cost-to-report-to-the-capital) |
 ## Binary Tree
 |  |
 | ------- |
@@ -320,6 +323,7 @@
 | [1661-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/namanagrawal3/LeetCode/tree/master/1661-minimum-number-of-vertices-to-reach-all-nodes) |
 | [1706-min-cost-to-connect-all-points](https://github.com/namanagrawal3/LeetCode/tree/master/1706-min-cost-to-connect-all-points) |
 | [1738-maximal-network-rank](https://github.com/namanagrawal3/LeetCode/tree/master/1738-maximal-network-rank) |
+| [2568-minimum-fuel-cost-to-report-to-the-capital](https://github.com/namanagrawal3/LeetCode/tree/master/2568-minimum-fuel-cost-to-report-to-the-capital) |
 ## Minimum Spanning Tree
 |  |
 | ------- |
