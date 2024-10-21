@@ -29,6 +29,7 @@
 | [0827-expressive-words](https://github.com/namanagrawal3/LeetCode/tree/master/0827-expressive-words) |
 | [1002-maximum-width-ramp](https://github.com/namanagrawal3/LeetCode/tree/master/1002-maximum-width-ramp) |
 | [1105-uncrossed-lines](https://github.com/namanagrawal3/LeetCode/tree/master/1105-uncrossed-lines) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/namanagrawal3/LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1249-snapshot-array](https://github.com/namanagrawal3/LeetCode/tree/master/1249-snapshot-array) |
 | [1256-rank-transform-of-an-array](https://github.com/namanagrawal3/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/namanagrawal3/LeetCode/tree/master/1497-design-a-stack-with-increment-operation) |
@@ -218,6 +219,7 @@
 | [0744-network-delay-time](https://github.com/namanagrawal3/LeetCode/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/namanagrawal3/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/namanagrawal3/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/namanagrawal3/LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [2568-minimum-fuel-cost-to-report-to-the-capital](https://github.com/namanagrawal3/LeetCode/tree/master/2568-minimum-fuel-cost-to-report-to-the-capital) |
 ## Binary Tree
 |  |
@@ -352,4 +354,8 @@
 | ------- |
 | [0744-network-delay-time](https://github.com/namanagrawal3/LeetCode/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/namanagrawal3/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
+## Matrix
+|  |
+| ------- |
+| [1171-shortest-path-in-binary-matrix](https://github.com/namanagrawal3/LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
 <!---LeetCode Topics End-->
