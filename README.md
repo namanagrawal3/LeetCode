@@ -87,6 +87,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/namanagrawal3/LeetCode/tree/master/0049-group-anagrams) |
+| [0072-edit-distance](https://github.com/namanagrawal3/LeetCode/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/namanagrawal3/LeetCode/tree/master/0091-decode-ways) |
 | [0242-valid-anagram](https://github.com/namanagrawal3/LeetCode/tree/master/0242-valid-anagram) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/namanagrawal3/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -117,6 +118,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0072-edit-distance](https://github.com/namanagrawal3/LeetCode/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/namanagrawal3/LeetCode/tree/master/0091-decode-ways) |
 | [0300-longest-increasing-subsequence](https://github.com/namanagrawal3/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0403-frog-jump](https://github.com/namanagrawal3/LeetCode/tree/master/0403-frog-jump) |
