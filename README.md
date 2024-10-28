@@ -54,6 +54,7 @@
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/namanagrawal3/LeetCode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/namanagrawal3/LeetCode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/namanagrawal3/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2586-longest-square-streak-in-an-array](https://github.com/namanagrawal3/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/namanagrawal3/LeetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2755-extra-characters-in-a-string](https://github.com/namanagrawal3/LeetCode/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/namanagrawal3/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -84,6 +85,7 @@
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/namanagrawal3/LeetCode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2331-intersection-of-multiple-arrays](https://github.com/namanagrawal3/LeetCode/tree/master/2331-intersection-of-multiple-arrays) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/namanagrawal3/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2586-longest-square-streak-in-an-array](https://github.com/namanagrawal3/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2605-count-anagrams](https://github.com/namanagrawal3/LeetCode/tree/master/2605-count-anagrams) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/namanagrawal3/LeetCode/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2755-extra-characters-in-a-string](https://github.com/namanagrawal3/LeetCode/tree/master/2755-extra-characters-in-a-string) |
@@ -143,6 +145,7 @@
 | [1402-count-square-submatrices-with-all-ones](https://github.com/namanagrawal3/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/namanagrawal3/LeetCode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2262-solving-questions-with-brainpower](https://github.com/namanagrawal3/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
+| [2586-longest-square-streak-in-an-array](https://github.com/namanagrawal3/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2755-extra-characters-in-a-string](https://github.com/namanagrawal3/LeetCode/tree/master/2755-extra-characters-in-a-string) |
 | [3584-find-the-lexicographically-smallest-valid-sequence](https://github.com/namanagrawal3/LeetCode/tree/master/3584-find-the-lexicographically-smallest-valid-sequence) |
 ## Binary Search
@@ -156,6 +159,7 @@
 | [0729-my-calendar-i](https://github.com/namanagrawal3/LeetCode/tree/master/0729-my-calendar-i) |
 | [1023-time-based-key-value-store](https://github.com/namanagrawal3/LeetCode/tree/master/1023-time-based-key-value-store) |
 | [1249-snapshot-array](https://github.com/namanagrawal3/LeetCode/tree/master/1249-snapshot-array) |
+| [2586-longest-square-streak-in-an-array](https://github.com/namanagrawal3/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 ## Sorting
 |  |
 | ------- |
@@ -177,6 +181,7 @@
 | [2331-intersection-of-multiple-arrays](https://github.com/namanagrawal3/LeetCode/tree/master/2331-intersection-of-multiple-arrays) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/namanagrawal3/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/namanagrawal3/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2586-longest-square-streak-in-an-array](https://github.com/namanagrawal3/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/namanagrawal3/LeetCode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [3510-maximize-the-total-height-of-unique-towers](https://github.com/namanagrawal3/LeetCode/tree/master/3510-maximize-the-total-height-of-unique-towers) |
 ## Greedy
