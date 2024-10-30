@@ -259,6 +259,7 @@
 | [1663-detect-cycles-in-2d-grid](https://github.com/namanagrawal3/LeetCode/tree/master/1663-detect-cycles-in-2d-grid) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/namanagrawal3/LeetCode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2568-minimum-fuel-cost-to-report-to-the-capital](https://github.com/namanagrawal3/LeetCode/tree/master/2568-minimum-fuel-cost-to-report-to-the-capital) |
+| [2582-minimum-score-of-a-path-between-two-cities](https://github.com/namanagrawal3/LeetCode/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 | [2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/namanagrawal3/LeetCode/tree/master/2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/namanagrawal3/LeetCode/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Breadth-First Search
@@ -272,6 +273,7 @@
 | [1663-detect-cycles-in-2d-grid](https://github.com/namanagrawal3/LeetCode/tree/master/1663-detect-cycles-in-2d-grid) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/namanagrawal3/LeetCode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2568-minimum-fuel-cost-to-report-to-the-capital](https://github.com/namanagrawal3/LeetCode/tree/master/2568-minimum-fuel-cost-to-report-to-the-capital) |
+| [2582-minimum-score-of-a-path-between-two-cities](https://github.com/namanagrawal3/LeetCode/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 | [2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/namanagrawal3/LeetCode/tree/master/2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/namanagrawal3/LeetCode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/namanagrawal3/LeetCode/tree/master/2677-cousins-in-binary-tree-ii) |
@@ -324,6 +326,7 @@
 | [1663-detect-cycles-in-2d-grid](https://github.com/namanagrawal3/LeetCode/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1706-min-cost-to-connect-all-points](https://github.com/namanagrawal3/LeetCode/tree/master/1706-min-cost-to-connect-all-points) |
 | [2198-process-restricted-friend-requests](https://github.com/namanagrawal3/LeetCode/tree/master/2198-process-restricted-friend-requests) |
+| [2582-minimum-score-of-a-path-between-two-cities](https://github.com/namanagrawal3/LeetCode/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 ## Math
 |  |
 | ------- |
@@ -395,6 +398,7 @@
 | [1738-maximal-network-rank](https://github.com/namanagrawal3/LeetCode/tree/master/1738-maximal-network-rank) |
 | [2198-process-restricted-friend-requests](https://github.com/namanagrawal3/LeetCode/tree/master/2198-process-restricted-friend-requests) |
 | [2568-minimum-fuel-cost-to-report-to-the-capital](https://github.com/namanagrawal3/LeetCode/tree/master/2568-minimum-fuel-cost-to-report-to-the-capital) |
+| [2582-minimum-score-of-a-path-between-two-cities](https://github.com/namanagrawal3/LeetCode/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 ## Minimum Spanning Tree
 |  |
 | ------- |
