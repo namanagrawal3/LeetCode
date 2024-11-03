@@ -114,6 +114,7 @@
 | [0676-implement-magic-dictionary](https://github.com/namanagrawal3/LeetCode/tree/master/0676-implement-magic-dictionary) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/namanagrawal3/LeetCode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0720-longest-word-in-dictionary](https://github.com/namanagrawal3/LeetCode/tree/master/0720-longest-word-in-dictionary) |
+| [0812-rotate-string](https://github.com/namanagrawal3/LeetCode/tree/master/0812-rotate-string) |
 | [0827-expressive-words](https://github.com/namanagrawal3/LeetCode/tree/master/0827-expressive-words) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/namanagrawal3/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1023-time-based-key-value-store](https://github.com/namanagrawal3/LeetCode/tree/master/1023-time-based-key-value-store) |
@@ -440,4 +441,8 @@
 | [1663-detect-cycles-in-2d-grid](https://github.com/namanagrawal3/LeetCode/tree/master/1663-detect-cycles-in-2d-grid) |
 | [2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/namanagrawal3/LeetCode/tree/master/2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/namanagrawal3/LeetCode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/namanagrawal3/LeetCode/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
