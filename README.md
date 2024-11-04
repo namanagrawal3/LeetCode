@@ -37,6 +37,7 @@
 | [1325-path-with-maximum-probability](https://github.com/namanagrawal3/LeetCode/tree/master/1325-path-with-maximum-probability) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/namanagrawal3/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/namanagrawal3/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1447-jump-game-iv](https://github.com/namanagrawal3/LeetCode/tree/master/1447-jump-game-iv) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/namanagrawal3/LeetCode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/namanagrawal3/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/namanagrawal3/LeetCode/tree/master/1663-detect-cycles-in-2d-grid) |
@@ -85,6 +86,7 @@
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/namanagrawal3/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1249-snapshot-array](https://github.com/namanagrawal3/LeetCode/tree/master/1249-snapshot-array) |
 | [1256-rank-transform-of-an-array](https://github.com/namanagrawal3/LeetCode/tree/master/1256-rank-transform-of-an-array) |
+| [1447-jump-game-iv](https://github.com/namanagrawal3/LeetCode/tree/master/1447-jump-game-iv) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/namanagrawal3/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/namanagrawal3/LeetCode/tree/master/1694-make-sum-divisible-by-p) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/namanagrawal3/LeetCode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
@@ -279,6 +281,7 @@
 | [0813-all-paths-from-source-to-target](https://github.com/namanagrawal3/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/namanagrawal3/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/namanagrawal3/LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1447-jump-game-iv](https://github.com/namanagrawal3/LeetCode/tree/master/1447-jump-game-iv) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/namanagrawal3/LeetCode/tree/master/1663-detect-cycles-in-2d-grid) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/namanagrawal3/LeetCode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2568-minimum-fuel-cost-to-report-to-the-capital](https://github.com/namanagrawal3/LeetCode/tree/master/2568-minimum-fuel-cost-to-report-to-the-capital) |
