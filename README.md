@@ -64,6 +64,7 @@
 | [2586-longest-square-streak-in-an-array](https://github.com/namanagrawal3/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/namanagrawal3/LeetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/namanagrawal3/LeetCode/tree/master/2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
+| [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/namanagrawal3/LeetCode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2755-extra-characters-in-a-string](https://github.com/namanagrawal3/LeetCode/tree/master/2755-extra-characters-in-a-string) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/namanagrawal3/LeetCode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/namanagrawal3/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -251,6 +252,7 @@
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/namanagrawal3/LeetCode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/namanagrawal3/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/namanagrawal3/LeetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/namanagrawal3/LeetCode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/namanagrawal3/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Counting
 |  |
@@ -301,6 +303,7 @@
 | [2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/namanagrawal3/LeetCode/tree/master/2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/namanagrawal3/LeetCode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/namanagrawal3/LeetCode/tree/master/2677-cousins-in-binary-tree-ii) |
+| [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/namanagrawal3/LeetCode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 ## Binary Tree
 |  |
 | ------- |
@@ -423,6 +426,7 @@
 | [2198-process-restricted-friend-requests](https://github.com/namanagrawal3/LeetCode/tree/master/2198-process-restricted-friend-requests) |
 | [2568-minimum-fuel-cost-to-report-to-the-capital](https://github.com/namanagrawal3/LeetCode/tree/master/2568-minimum-fuel-cost-to-report-to-the-capital) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/namanagrawal3/LeetCode/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
+| [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/namanagrawal3/LeetCode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/namanagrawal3/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Minimum Spanning Tree
 |  |
@@ -450,6 +454,7 @@
 | [0803-cheapest-flights-within-k-stops](https://github.com/namanagrawal3/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1325-path-with-maximum-probability](https://github.com/namanagrawal3/LeetCode/tree/master/1325-path-with-maximum-probability) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/namanagrawal3/LeetCode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/namanagrawal3/LeetCode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/namanagrawal3/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Matrix
 |  |
@@ -458,6 +463,7 @@
 | [1402-count-square-submatrices-with-all-ones](https://github.com/namanagrawal3/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/namanagrawal3/LeetCode/tree/master/1663-detect-cycles-in-2d-grid) |
 | [2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/namanagrawal3/LeetCode/tree/master/2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
+| [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/namanagrawal3/LeetCode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/namanagrawal3/LeetCode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/namanagrawal3/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## String Matching
