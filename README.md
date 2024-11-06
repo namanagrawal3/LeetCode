@@ -73,6 +73,7 @@
 | [3510-maximize-the-total-height-of-unique-towers](https://github.com/namanagrawal3/LeetCode/tree/master/3510-maximize-the-total-height-of-unique-towers) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/namanagrawal3/LeetCode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/namanagrawal3/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/namanagrawal3/LeetCode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -258,6 +259,7 @@
 | [2616-maximal-score-after-applying-k-operations](https://github.com/namanagrawal3/LeetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/namanagrawal3/LeetCode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/namanagrawal3/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/namanagrawal3/LeetCode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Counting
 |  |
 | ------- |
@@ -435,6 +437,7 @@
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/namanagrawal3/LeetCode/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/namanagrawal3/LeetCode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/namanagrawal3/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/namanagrawal3/LeetCode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Minimum Spanning Tree
 |  |
 | ------- |
@@ -463,6 +466,7 @@
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/namanagrawal3/LeetCode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/namanagrawal3/LeetCode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/namanagrawal3/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/namanagrawal3/LeetCode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -473,6 +477,7 @@
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/namanagrawal3/LeetCode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/namanagrawal3/LeetCode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/namanagrawal3/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/namanagrawal3/LeetCode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## String Matching
 |  |
 | ------- |
