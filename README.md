@@ -137,6 +137,7 @@
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/namanagrawal3/LeetCode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/namanagrawal3/LeetCode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1923-sentence-similarity-iii](https://github.com/namanagrawal3/LeetCode/tree/master/1923-sentence-similarity-iii) |
+| [1967-longest-substring-of-all-vowels-in-order](https://github.com/namanagrawal3/LeetCode/tree/master/1967-longest-substring-of-all-vowels-in-order) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/namanagrawal3/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/namanagrawal3/LeetCode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2580-circular-sentence](https://github.com/namanagrawal3/LeetCode/tree/master/2580-circular-sentence) |
@@ -242,6 +243,7 @@
 | [0567-permutation-in-string](https://github.com/namanagrawal3/LeetCode/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/namanagrawal3/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1755-defuse-the-bomb](https://github.com/namanagrawal3/LeetCode/tree/master/1755-defuse-the-bomb) |
+| [1967-longest-substring-of-all-vowels-in-order](https://github.com/namanagrawal3/LeetCode/tree/master/1967-longest-substring-of-all-vowels-in-order) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/namanagrawal3/LeetCode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/namanagrawal3/LeetCode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3570-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/namanagrawal3/LeetCode/tree/master/3570-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
