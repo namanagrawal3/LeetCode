@@ -20,6 +20,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/namanagrawal3/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/namanagrawal3/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0354-russian-doll-envelopes](https://github.com/namanagrawal3/LeetCode/tree/master/0354-russian-doll-envelopes) |
+| [0399-evaluate-division](https://github.com/namanagrawal3/LeetCode/tree/master/0399-evaluate-division) |
 | [0403-frog-jump](https://github.com/namanagrawal3/LeetCode/tree/master/0403-frog-jump) |
 | [0436-find-right-interval](https://github.com/namanagrawal3/LeetCode/tree/master/0436-find-right-interval) |
 | [0474-ones-and-zeroes](https://github.com/namanagrawal3/LeetCode/tree/master/0474-ones-and-zeroes) |
@@ -121,6 +122,7 @@
 | [0072-edit-distance](https://github.com/namanagrawal3/LeetCode/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/namanagrawal3/LeetCode/tree/master/0091-decode-ways) |
 | [0242-valid-anagram](https://github.com/namanagrawal3/LeetCode/tree/master/0242-valid-anagram) |
+| [0399-evaluate-division](https://github.com/namanagrawal3/LeetCode/tree/master/0399-evaluate-division) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/namanagrawal3/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0474-ones-and-zeroes](https://github.com/namanagrawal3/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0516-longest-palindromic-subsequence](https://github.com/namanagrawal3/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
@@ -293,6 +295,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/namanagrawal3/LeetCode/tree/master/0399-evaluate-division) |
 | [0676-implement-magic-dictionary](https://github.com/namanagrawal3/LeetCode/tree/master/0676-implement-magic-dictionary) |
 | [0744-network-delay-time](https://github.com/namanagrawal3/LeetCode/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/namanagrawal3/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -310,6 +313,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/namanagrawal3/LeetCode/tree/master/0399-evaluate-division) |
 | [0744-network-delay-time](https://github.com/namanagrawal3/LeetCode/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/namanagrawal3/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0813-all-paths-from-source-to-target](https://github.com/namanagrawal3/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
@@ -371,6 +375,7 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/namanagrawal3/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0399-evaluate-division](https://github.com/namanagrawal3/LeetCode/tree/master/0399-evaluate-division) |
 | [1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/namanagrawal3/LeetCode/tree/master/1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/namanagrawal3/LeetCode/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1706-min-cost-to-connect-all-points](https://github.com/namanagrawal3/LeetCode/tree/master/1706-min-cost-to-connect-all-points) |
@@ -440,6 +445,7 @@
 ## Graph
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/namanagrawal3/LeetCode/tree/master/0399-evaluate-division) |
 | [0744-network-delay-time](https://github.com/namanagrawal3/LeetCode/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/namanagrawal3/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0813-all-paths-from-source-to-target](https://github.com/namanagrawal3/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
@@ -478,6 +484,7 @@
 ## Shortest Path
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/namanagrawal3/LeetCode/tree/master/0399-evaluate-division) |
 | [0744-network-delay-time](https://github.com/namanagrawal3/LeetCode/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/namanagrawal3/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1325-path-with-maximum-probability](https://github.com/namanagrawal3/LeetCode/tree/master/1325-path-with-maximum-probability) |
