@@ -2,29 +2,20 @@ class Solution {
     public int maxUncrossedLines(int[] nums1, int[] nums2) {
         // similar to 'longest common subsequence' problem
 
-        int[][] dp = new int[nums1.length][nums2.length];
-        for (int[] r : dp) {
-            Arrays.fill(r, -1);
+        int[][] dp = new int[nums1.length+1][nums2.length+1];
+
+        for (int i = 1; i < dp.length; i++) {
+            for (int j = 1; j < dp[0].length; j++) {
+                if (nums1[i-1] == nums2[j-1])
+                    dp[i][j] = 1 + dp[i-1][j-1];
+                else {
+                    int one = dp[i-1][j];
+                    int two = dp[i][j-1];
+                    dp[i][j] = Math.max(one, two);
+                }
+            }
         }
 
-        return lcsFun(nums1, nums2, 0, 0, dp);
-    }
-    public int lcsFun(int[] nums1, int[] nums2, int i, int j, int[][] dp) {
-        if (i == nums1.length || j == nums2.length)
-            return 0;
-
-        if (dp[i][j] != -1)
-            return dp[i][j];
-
-        int count = 0;
-        if (nums1[i] == nums2[j]) 
-            count = 1 + lcsFun(nums1, nums2, i+1, j+1, dp);
-        else {
-            int first = lcsFun(nums1, nums2, i+1, j, dp);
-            int second = lcsFun(nums1, nums2, i, j+1, dp);
-            count = Math.max(first, second);
-        }
-
-        return dp[i][j] = count;
+        return dp[dp.length-1][dp[0].length-1];
     }
 }
