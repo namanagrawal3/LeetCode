@@ -30,6 +30,7 @@
 | [0436-find-right-interval](https://github.com/namanagrawal3/LeetCode/tree/master/0436-find-right-interval) |
 | [0474-ones-and-zeroes](https://github.com/namanagrawal3/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0477-total-hamming-distance](https://github.com/namanagrawal3/LeetCode/tree/master/0477-total-hamming-distance) |
+| [0494-target-sum](https://github.com/namanagrawal3/LeetCode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/namanagrawal3/LeetCode/tree/master/0518-coin-change-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/namanagrawal3/LeetCode/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/namanagrawal3/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -190,6 +191,7 @@
 | [0403-frog-jump](https://github.com/namanagrawal3/LeetCode/tree/master/0403-frog-jump) |
 | [0416-partition-equal-subset-sum](https://github.com/namanagrawal3/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/namanagrawal3/LeetCode/tree/master/0474-ones-and-zeroes) |
+| [0494-target-sum](https://github.com/namanagrawal3/LeetCode/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/namanagrawal3/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/namanagrawal3/LeetCode/tree/master/0518-coin-change-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/namanagrawal3/LeetCode/tree/master/0583-delete-operation-for-two-strings) |
@@ -519,6 +521,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0494-target-sum](https://github.com/namanagrawal3/LeetCode/tree/master/0494-target-sum) |
 | [0813-all-paths-from-source-to-target](https://github.com/namanagrawal3/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/namanagrawal3/LeetCode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/namanagrawal3/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
