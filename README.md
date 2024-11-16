@@ -91,6 +91,7 @@
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/namanagrawal3/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/namanagrawal3/LeetCode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3510-maximize-the-total-height-of-unique-towers](https://github.com/namanagrawal3/LeetCode/tree/master/3510-maximize-the-total-height-of-unique-towers) |
+| [3522-find-the-power-of-k-size-subarrays-i](https://github.com/namanagrawal3/LeetCode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/namanagrawal3/LeetCode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/namanagrawal3/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/namanagrawal3/LeetCode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
@@ -291,6 +292,7 @@
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/namanagrawal3/LeetCode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/namanagrawal3/LeetCode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3502-count-substrings-with-k-frequency-characters-i](https://github.com/namanagrawal3/LeetCode/tree/master/3502-count-substrings-with-k-frequency-characters-i) |
+| [3522-find-the-power-of-k-size-subarrays-i](https://github.com/namanagrawal3/LeetCode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/namanagrawal3/LeetCode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3570-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/namanagrawal3/LeetCode/tree/master/3570-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
 ## Heap (Priority Queue)
