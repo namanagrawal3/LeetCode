@@ -31,6 +31,7 @@
 | [0436-find-right-interval](https://github.com/namanagrawal3/LeetCode/tree/master/0436-find-right-interval) |
 | [0474-ones-and-zeroes](https://github.com/namanagrawal3/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0477-total-hamming-distance](https://github.com/namanagrawal3/LeetCode/tree/master/0477-total-hamming-distance) |
+| [0486-predict-the-winner](https://github.com/namanagrawal3/LeetCode/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/namanagrawal3/LeetCode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/namanagrawal3/LeetCode/tree/master/0518-coin-change-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/namanagrawal3/LeetCode/tree/master/0524-longest-word-in-dictionary-through-deleting) |
@@ -198,6 +199,7 @@
 | [0403-frog-jump](https://github.com/namanagrawal3/LeetCode/tree/master/0403-frog-jump) |
 | [0416-partition-equal-subset-sum](https://github.com/namanagrawal3/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/namanagrawal3/LeetCode/tree/master/0474-ones-and-zeroes) |
+| [0486-predict-the-winner](https://github.com/namanagrawal3/LeetCode/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/namanagrawal3/LeetCode/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/namanagrawal3/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/namanagrawal3/LeetCode/tree/master/0518-coin-change-ii) |
@@ -438,6 +440,7 @@
 |  |
 | ------- |
 | [0477-total-hamming-distance](https://github.com/namanagrawal3/LeetCode/tree/master/0477-total-hamming-distance) |
+| [0486-predict-the-winner](https://github.com/namanagrawal3/LeetCode/tree/master/0486-predict-the-winner) |
 | [0670-maximum-swap](https://github.com/namanagrawal3/LeetCode/tree/master/0670-maximum-swap) |
 | [2605-count-anagrams](https://github.com/namanagrawal3/LeetCode/tree/master/2605-count-anagrams) |
 | [2716-prime-subtraction-operation](https://github.com/namanagrawal3/LeetCode/tree/master/2716-prime-subtraction-operation) |
@@ -471,6 +474,7 @@
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/namanagrawal3/LeetCode/tree/master/0143-reorder-list) |
+| [0486-predict-the-winner](https://github.com/namanagrawal3/LeetCode/tree/master/0486-predict-the-winner) |
 | [1197-parsing-a-boolean-expression](https://github.com/namanagrawal3/LeetCode/tree/master/1197-parsing-a-boolean-expression) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/namanagrawal3/LeetCode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/namanagrawal3/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -587,4 +591,8 @@
 |  |
 | ------- |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/namanagrawal3/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/namanagrawal3/LeetCode/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
