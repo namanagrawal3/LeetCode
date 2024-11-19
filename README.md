@@ -78,6 +78,7 @@
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/namanagrawal3/LeetCode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2508-maximum-sum-of-an-hourglass](https://github.com/namanagrawal3/LeetCode/tree/master/2508-maximum-sum-of-an-hourglass) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/namanagrawal3/LeetCode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/namanagrawal3/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2554-minimum-total-distance-traveled](https://github.com/namanagrawal3/LeetCode/tree/master/2554-minimum-total-distance-traveled) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/namanagrawal3/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/namanagrawal3/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
@@ -124,6 +125,7 @@
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/namanagrawal3/LeetCode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2331-intersection-of-multiple-arrays](https://github.com/namanagrawal3/LeetCode/tree/master/2331-intersection-of-multiple-arrays) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/namanagrawal3/LeetCode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/namanagrawal3/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/namanagrawal3/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/namanagrawal3/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/namanagrawal3/LeetCode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
@@ -294,6 +296,7 @@
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/namanagrawal3/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1755-defuse-the-bomb](https://github.com/namanagrawal3/LeetCode/tree/master/1755-defuse-the-bomb) |
 | [1967-longest-substring-of-all-vowels-in-order](https://github.com/namanagrawal3/LeetCode/tree/master/1967-longest-substring-of-all-vowels-in-order) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/namanagrawal3/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/namanagrawal3/LeetCode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/namanagrawal3/LeetCode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3502-count-substrings-with-k-frequency-characters-i](https://github.com/namanagrawal3/LeetCode/tree/master/3502-count-substrings-with-k-frequency-characters-i) |
