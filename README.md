@@ -208,6 +208,7 @@
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/namanagrawal3/LeetCode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0747-min-cost-climbing-stairs](https://github.com/namanagrawal3/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/namanagrawal3/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0806-domino-and-tromino-tiling](https://github.com/namanagrawal3/LeetCode/tree/master/0806-domino-and-tromino-tiling) |
 | [1025-minimum-cost-for-tickets](https://github.com/namanagrawal3/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
 | [1105-uncrossed-lines](https://github.com/namanagrawal3/LeetCode/tree/master/1105-uncrossed-lines) |
 | [1250-longest-common-subsequence](https://github.com/namanagrawal3/LeetCode/tree/master/1250-longest-common-subsequence) |
