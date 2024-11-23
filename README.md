@@ -228,6 +228,7 @@
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/namanagrawal3/LeetCode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/namanagrawal3/LeetCode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/namanagrawal3/LeetCode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
+| [2031-egg-drop-with-2-eggs-and-n-floors](https://github.com/namanagrawal3/LeetCode/tree/master/2031-egg-drop-with-2-eggs-and-n-floors) |
 | [2262-solving-questions-with-brainpower](https://github.com/namanagrawal3/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
 | [2554-minimum-total-distance-traveled](https://github.com/namanagrawal3/LeetCode/tree/master/2554-minimum-total-distance-traveled) |
 | [2586-longest-square-streak-in-an-array](https://github.com/namanagrawal3/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
@@ -456,6 +457,7 @@
 | [0477-total-hamming-distance](https://github.com/namanagrawal3/LeetCode/tree/master/0477-total-hamming-distance) |
 | [0486-predict-the-winner](https://github.com/namanagrawal3/LeetCode/tree/master/0486-predict-the-winner) |
 | [0670-maximum-swap](https://github.com/namanagrawal3/LeetCode/tree/master/0670-maximum-swap) |
+| [2031-egg-drop-with-2-eggs-and-n-floors](https://github.com/namanagrawal3/LeetCode/tree/master/2031-egg-drop-with-2-eggs-and-n-floors) |
 | [2605-count-anagrams](https://github.com/namanagrawal3/LeetCode/tree/master/2605-count-anagrams) |
 | [2716-prime-subtraction-operation](https://github.com/namanagrawal3/LeetCode/tree/master/2716-prime-subtraction-operation) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/namanagrawal3/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
