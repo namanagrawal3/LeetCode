@@ -1,7 +1,7 @@
 class Solution {
     public int twoEggDrop(int n) {
         int k = 2;     // eggs          
-        int[][] dp = new int[k+1][n+1];         // Egg Drop Problem
+        int[][] dp = new int[k+1][n+1];     // Egg Drop Problem (MCM with Binary Search)
         for (int[] r : dp) {
             Arrays.fill(r, -1);
         }
@@ -18,24 +18,19 @@ class Solution {
             return dp[eggs][floors];
 
         int minTrials = Integer.MAX_VALUE;
-        for (int k = 1; k <= floors; k++) {
-            int breaks = -1, not_break = -1;
-            if (dp[eggs-1][k-1] != -1)
-                breaks = dp[eggs-1][k-1];
-            else {
-                breaks = trialFun1(eggs-1, k-1, dp);
-                dp[eggs-1][k-1] = breaks;
-            }
+        int si = 1, ei = floors;
+        while (si <= ei) {
+            int mid = si + (ei-si)/2;
 
-            if (dp[eggs][floors-k] != -1)
-                not_break = dp[eggs][floors-k];
-            else {
-                not_break = trialFun1(eggs, floors-k, dp);
-                dp[eggs][floors-k] = not_break;
-            }
-
+            int breaks = trialFun1(eggs-1, mid-1, dp);          // going left (downwards)
+            int not_break = trialFun1(eggs, floors-mid, dp);    // going right (topwards)
             int trials = 1 + Math.max(breaks, not_break);
             minTrials = Math.min(minTrials, trials);
+
+            if (breaks < not_break)
+                si = mid + 1;
+            else
+                ei = mid - 1;
         }
 
         return dp[eggs][floors] = minTrials;
