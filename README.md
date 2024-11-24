@@ -72,6 +72,7 @@
 | [1923-sentence-similarity-iii](https://github.com/namanagrawal3/LeetCode/tree/master/1923-sentence-similarity-iii) |
 | [1972-rotating-the-box](https://github.com/namanagrawal3/LeetCode/tree/master/1972-rotating-the-box) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/namanagrawal3/LeetCode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2089-maximum-matrix-sum](https://github.com/namanagrawal3/LeetCode/tree/master/2089-maximum-matrix-sum) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/namanagrawal3/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/namanagrawal3/LeetCode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/namanagrawal3/LeetCode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
@@ -304,6 +305,7 @@
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/namanagrawal3/LeetCode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1824-maximum-number-of-eaten-apples](https://github.com/namanagrawal3/LeetCode/tree/master/1824-maximum-number-of-eaten-apples) |
 | [1829-maximum-units-on-a-truck](https://github.com/namanagrawal3/LeetCode/tree/master/1829-maximum-units-on-a-truck) |
+| [2089-maximum-matrix-sum](https://github.com/namanagrawal3/LeetCode/tree/master/2089-maximum-matrix-sum) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/namanagrawal3/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/namanagrawal3/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/namanagrawal3/LeetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
@@ -595,6 +597,7 @@
 | [1663-detect-cycles-in-2d-grid](https://github.com/namanagrawal3/LeetCode/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1753-path-with-minimum-effort](https://github.com/namanagrawal3/LeetCode/tree/master/1753-path-with-minimum-effort) |
 | [1972-rotating-the-box](https://github.com/namanagrawal3/LeetCode/tree/master/1972-rotating-the-box) |
+| [2089-maximum-matrix-sum](https://github.com/namanagrawal3/LeetCode/tree/master/2089-maximum-matrix-sum) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/namanagrawal3/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2508-maximum-sum-of-an-hourglass](https://github.com/namanagrawal3/LeetCode/tree/master/2508-maximum-sum-of-an-hourglass) |
 | [2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/namanagrawal3/LeetCode/tree/master/2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
