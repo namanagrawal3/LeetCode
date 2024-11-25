@@ -44,6 +44,7 @@
 | [0720-longest-word-in-dictionary](https://github.com/namanagrawal3/LeetCode/tree/master/0720-longest-word-in-dictionary) |
 | [0729-my-calendar-i](https://github.com/namanagrawal3/LeetCode/tree/master/0729-my-calendar-i) |
 | [0747-min-cost-climbing-stairs](https://github.com/namanagrawal3/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
+| [0787-sliding-puzzle](https://github.com/namanagrawal3/LeetCode/tree/master/0787-sliding-puzzle) |
 | [0827-expressive-words](https://github.com/namanagrawal3/LeetCode/tree/master/0827-expressive-words) |
 | [0833-bus-routes](https://github.com/namanagrawal3/LeetCode/tree/master/0833-bus-routes) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/namanagrawal3/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
@@ -395,6 +396,7 @@
 | [0322-coin-change](https://github.com/namanagrawal3/LeetCode/tree/master/0322-coin-change) |
 | [0399-evaluate-division](https://github.com/namanagrawal3/LeetCode/tree/master/0399-evaluate-division) |
 | [0744-network-delay-time](https://github.com/namanagrawal3/LeetCode/tree/master/0744-network-delay-time) |
+| [0787-sliding-puzzle](https://github.com/namanagrawal3/LeetCode/tree/master/0787-sliding-puzzle) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/namanagrawal3/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0813-all-paths-from-source-to-target](https://github.com/namanagrawal3/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
 | [0833-bus-routes](https://github.com/namanagrawal3/LeetCode/tree/master/0833-bus-routes) |
@@ -599,6 +601,7 @@
 | ------- |
 | [0221-maximal-square](https://github.com/namanagrawal3/LeetCode/tree/master/0221-maximal-square) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/namanagrawal3/LeetCode/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
+| [0787-sliding-puzzle](https://github.com/namanagrawal3/LeetCode/tree/master/0787-sliding-puzzle) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/namanagrawal3/LeetCode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/namanagrawal3/LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/namanagrawal3/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
