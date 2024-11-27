@@ -158,6 +158,7 @@
 ## String
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/namanagrawal3/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0049-group-anagrams](https://github.com/namanagrawal3/LeetCode/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/namanagrawal3/LeetCode/tree/master/0072-edit-distance) |
 | [0087-scramble-string](https://github.com/namanagrawal3/LeetCode/tree/master/0087-scramble-string) |
@@ -210,6 +211,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/namanagrawal3/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0064-minimum-path-sum](https://github.com/namanagrawal3/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/namanagrawal3/LeetCode/tree/master/0072-edit-distance) |
 | [0087-scramble-string](https://github.com/namanagrawal3/LeetCode/tree/master/0087-scramble-string) |
@@ -524,6 +526,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/namanagrawal3/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0143-reorder-list](https://github.com/namanagrawal3/LeetCode/tree/master/0143-reorder-list) |
 | [0486-predict-the-winner](https://github.com/namanagrawal3/LeetCode/tree/master/0486-predict-the-winner) |
 | [1197-parsing-a-boolean-expression](https://github.com/namanagrawal3/LeetCode/tree/master/1197-parsing-a-boolean-expression) |
