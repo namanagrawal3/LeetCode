@@ -75,6 +75,7 @@
 | [1755-defuse-the-bomb](https://github.com/namanagrawal3/LeetCode/tree/master/1755-defuse-the-bomb) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/namanagrawal3/LeetCode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/namanagrawal3/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
+| [1814-jump-game-vi](https://github.com/namanagrawal3/LeetCode/tree/master/1814-jump-game-vi) |
 | [1824-maximum-number-of-eaten-apples](https://github.com/namanagrawal3/LeetCode/tree/master/1824-maximum-number-of-eaten-apples) |
 | [1829-maximum-units-on-a-truck](https://github.com/namanagrawal3/LeetCode/tree/master/1829-maximum-units-on-a-truck) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/namanagrawal3/LeetCode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
@@ -251,6 +252,7 @@
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/namanagrawal3/LeetCode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/namanagrawal3/LeetCode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/namanagrawal3/LeetCode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
+| [1814-jump-game-vi](https://github.com/namanagrawal3/LeetCode/tree/master/1814-jump-game-vi) |
 | [2031-egg-drop-with-2-eggs-and-n-floors](https://github.com/namanagrawal3/LeetCode/tree/master/2031-egg-drop-with-2-eggs-and-n-floors) |
 | [2262-solving-questions-with-brainpower](https://github.com/namanagrawal3/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
 | [2554-minimum-total-distance-traveled](https://github.com/namanagrawal3/LeetCode/tree/master/2554-minimum-total-distance-traveled) |
@@ -359,6 +361,7 @@
 | [1304-longest-happy-string](https://github.com/namanagrawal3/LeetCode/tree/master/1304-longest-happy-string) |
 | [1325-path-with-maximum-probability](https://github.com/namanagrawal3/LeetCode/tree/master/1325-path-with-maximum-probability) |
 | [1753-path-with-minimum-effort](https://github.com/namanagrawal3/LeetCode/tree/master/1753-path-with-minimum-effort) |
+| [1814-jump-game-vi](https://github.com/namanagrawal3/LeetCode/tree/master/1814-jump-game-vi) |
 | [1824-maximum-number-of-eaten-apples](https://github.com/namanagrawal3/LeetCode/tree/master/1824-maximum-number-of-eaten-apples) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/namanagrawal3/LeetCode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/namanagrawal3/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -644,10 +647,12 @@
 |  |
 | ------- |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/namanagrawal3/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [1814-jump-game-vi](https://github.com/namanagrawal3/LeetCode/tree/master/1814-jump-game-vi) |
 ## Monotonic Queue
 |  |
 | ------- |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/namanagrawal3/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [1814-jump-game-vi](https://github.com/namanagrawal3/LeetCode/tree/master/1814-jump-game-vi) |
 ## Game Theory
 |  |
 | ------- |
