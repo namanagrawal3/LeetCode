@@ -159,6 +159,7 @@
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/namanagrawal3/LeetCode/tree/master/0010-regular-expression-matching) |
+| [0044-wildcard-matching](https://github.com/namanagrawal3/LeetCode/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/namanagrawal3/LeetCode/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/namanagrawal3/LeetCode/tree/master/0072-edit-distance) |
 | [0087-scramble-string](https://github.com/namanagrawal3/LeetCode/tree/master/0087-scramble-string) |
@@ -212,6 +213,7 @@
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/namanagrawal3/LeetCode/tree/master/0010-regular-expression-matching) |
+| [0044-wildcard-matching](https://github.com/namanagrawal3/LeetCode/tree/master/0044-wildcard-matching) |
 | [0064-minimum-path-sum](https://github.com/namanagrawal3/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/namanagrawal3/LeetCode/tree/master/0072-edit-distance) |
 | [0087-scramble-string](https://github.com/namanagrawal3/LeetCode/tree/master/0087-scramble-string) |
@@ -318,6 +320,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/namanagrawal3/LeetCode/tree/master/0044-wildcard-matching) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/namanagrawal3/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/namanagrawal3/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/namanagrawal3/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -527,6 +530,7 @@
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/namanagrawal3/LeetCode/tree/master/0010-regular-expression-matching) |
+| [0044-wildcard-matching](https://github.com/namanagrawal3/LeetCode/tree/master/0044-wildcard-matching) |
 | [0143-reorder-list](https://github.com/namanagrawal3/LeetCode/tree/master/0143-reorder-list) |
 | [0486-predict-the-winner](https://github.com/namanagrawal3/LeetCode/tree/master/0486-predict-the-winner) |
 | [1197-parsing-a-boolean-expression](https://github.com/namanagrawal3/LeetCode/tree/master/1197-parsing-a-boolean-expression) |
