@@ -498,6 +498,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/namanagrawal3/LeetCode/tree/master/0009-palindrome-number) |
 | [0477-total-hamming-distance](https://github.com/namanagrawal3/LeetCode/tree/master/0477-total-hamming-distance) |
 | [0486-predict-the-winner](https://github.com/namanagrawal3/LeetCode/tree/master/0486-predict-the-winner) |
 | [0670-maximum-swap](https://github.com/namanagrawal3/LeetCode/tree/master/0670-maximum-swap) |
