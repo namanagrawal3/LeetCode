@@ -1,18 +1,22 @@
 class Solution {
     public String addSpaces(String s, int[] spaces) {
-        int n = s.length();
-        HashSet<Integer> set = new HashSet<>();
-        for (int spc : spaces) {
-            set.add(spc);
-        }
-
         StringBuilder ans = new StringBuilder();
-        for (int i = 0; i < n; i++) {
-            if (set.contains(i))
-                ans.append(' ');
-            ans.append(s.charAt(i));
-        }
+        int n = s.length();             // spaces are given in increasing order
 
+        int i = 0, j = 0;
+        while (j < spaces.length) {
+            if (i == spaces[j]) {
+                ans.append(" ");
+                j++;
+            }
+            ans.append(s.charAt(i));
+            i++;
+        }
+        while (i < n) {
+            ans.append(s.charAt(i));
+            i++;
+        }
+        
         return ans.toString();
     }
 }
