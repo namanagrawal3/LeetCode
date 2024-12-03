@@ -45,6 +45,7 @@
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/namanagrawal3/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0646-maximum-length-of-pair-chain](https://github.com/namanagrawal3/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/namanagrawal3/LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0690-employee-importance](https://github.com/namanagrawal3/LeetCode/tree/master/0690-employee-importance) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/namanagrawal3/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0720-longest-word-in-dictionary](https://github.com/namanagrawal3/LeetCode/tree/master/0720-longest-word-in-dictionary) |
 | [0729-my-calendar-i](https://github.com/namanagrawal3/LeetCode/tree/master/0729-my-calendar-i) |
@@ -133,6 +134,7 @@
 | [0567-permutation-in-string](https://github.com/namanagrawal3/LeetCode/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/namanagrawal3/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0676-implement-magic-dictionary](https://github.com/namanagrawal3/LeetCode/tree/master/0676-implement-magic-dictionary) |
+| [0690-employee-importance](https://github.com/namanagrawal3/LeetCode/tree/master/0690-employee-importance) |
 | [0720-longest-word-in-dictionary](https://github.com/namanagrawal3/LeetCode/tree/master/0720-longest-word-in-dictionary) |
 | [0833-bus-routes](https://github.com/namanagrawal3/LeetCode/tree/master/0833-bus-routes) |
 | [1023-time-based-key-value-store](https://github.com/namanagrawal3/LeetCode/tree/master/1023-time-based-key-value-store) |
@@ -398,6 +400,7 @@
 |  |
 | ------- |
 | [0508-most-frequent-subtree-sum](https://github.com/namanagrawal3/LeetCode/tree/master/0508-most-frequent-subtree-sum) |
+| [0690-employee-importance](https://github.com/namanagrawal3/LeetCode/tree/master/0690-employee-importance) |
 | [0988-flip-equivalent-binary-trees](https://github.com/namanagrawal3/LeetCode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/namanagrawal3/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/namanagrawal3/LeetCode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
@@ -410,6 +413,7 @@
 | [0399-evaluate-division](https://github.com/namanagrawal3/LeetCode/tree/master/0399-evaluate-division) |
 | [0508-most-frequent-subtree-sum](https://github.com/namanagrawal3/LeetCode/tree/master/0508-most-frequent-subtree-sum) |
 | [0676-implement-magic-dictionary](https://github.com/namanagrawal3/LeetCode/tree/master/0676-implement-magic-dictionary) |
+| [0690-employee-importance](https://github.com/namanagrawal3/LeetCode/tree/master/0690-employee-importance) |
 | [0744-network-delay-time](https://github.com/namanagrawal3/LeetCode/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/namanagrawal3/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0813-all-paths-from-source-to-target](https://github.com/namanagrawal3/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
@@ -429,6 +433,7 @@
 | ------- |
 | [0322-coin-change](https://github.com/namanagrawal3/LeetCode/tree/master/0322-coin-change) |
 | [0399-evaluate-division](https://github.com/namanagrawal3/LeetCode/tree/master/0399-evaluate-division) |
+| [0690-employee-importance](https://github.com/namanagrawal3/LeetCode/tree/master/0690-employee-importance) |
 | [0744-network-delay-time](https://github.com/namanagrawal3/LeetCode/tree/master/0744-network-delay-time) |
 | [0787-sliding-puzzle](https://github.com/namanagrawal3/LeetCode/tree/master/0787-sliding-puzzle) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/namanagrawal3/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
