@@ -144,6 +144,7 @@
 | [0676-implement-magic-dictionary](https://github.com/namanagrawal3/LeetCode/tree/master/0676-implement-magic-dictionary) |
 | [0690-employee-importance](https://github.com/namanagrawal3/LeetCode/tree/master/0690-employee-importance) |
 | [0720-longest-word-in-dictionary](https://github.com/namanagrawal3/LeetCode/tree/master/0720-longest-word-in-dictionary) |
+| [0726-number-of-atoms](https://github.com/namanagrawal3/LeetCode/tree/master/0726-number-of-atoms) |
 | [0833-bus-routes](https://github.com/namanagrawal3/LeetCode/tree/master/0833-bus-routes) |
 | [1023-time-based-key-value-store](https://github.com/namanagrawal3/LeetCode/tree/master/1023-time-based-key-value-store) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/namanagrawal3/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -195,6 +196,7 @@
 | [0676-implement-magic-dictionary](https://github.com/namanagrawal3/LeetCode/tree/master/0676-implement-magic-dictionary) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/namanagrawal3/LeetCode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0720-longest-word-in-dictionary](https://github.com/namanagrawal3/LeetCode/tree/master/0720-longest-word-in-dictionary) |
+| [0726-number-of-atoms](https://github.com/namanagrawal3/LeetCode/tree/master/0726-number-of-atoms) |
 | [0812-rotate-string](https://github.com/namanagrawal3/LeetCode/tree/master/0812-rotate-string) |
 | [0827-expressive-words](https://github.com/namanagrawal3/LeetCode/tree/master/0827-expressive-words) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/namanagrawal3/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -332,6 +334,7 @@
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/namanagrawal3/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0646-maximum-length-of-pair-chain](https://github.com/namanagrawal3/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0720-longest-word-in-dictionary](https://github.com/namanagrawal3/LeetCode/tree/master/0720-longest-word-in-dictionary) |
+| [0726-number-of-atoms](https://github.com/namanagrawal3/LeetCode/tree/master/0726-number-of-atoms) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/namanagrawal3/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1256-rank-transform-of-an-array](https://github.com/namanagrawal3/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/namanagrawal3/LeetCode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
@@ -581,6 +584,7 @@
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/namanagrawal3/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0143-reorder-list](https://github.com/namanagrawal3/LeetCode/tree/master/0143-reorder-list) |
+| [0726-number-of-atoms](https://github.com/namanagrawal3/LeetCode/tree/master/0726-number-of-atoms) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/namanagrawal3/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/namanagrawal3/LeetCode/tree/master/1002-maximum-width-ramp) |
 | [1197-parsing-a-boolean-expression](https://github.com/namanagrawal3/LeetCode/tree/master/1197-parsing-a-boolean-expression) |
