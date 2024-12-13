@@ -18,6 +18,7 @@
 | [0049-group-anagrams](https://github.com/namanagrawal3/LeetCode/tree/master/0049-group-anagrams) |
 | [0064-minimum-path-sum](https://github.com/namanagrawal3/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0084-largest-rectangle-in-histogram](https://github.com/namanagrawal3/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0118-pascals-triangle](https://github.com/namanagrawal3/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/namanagrawal3/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/namanagrawal3/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/namanagrawal3/LeetCode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -247,6 +248,7 @@
 | [0087-scramble-string](https://github.com/namanagrawal3/LeetCode/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/namanagrawal3/LeetCode/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/namanagrawal3/LeetCode/tree/master/0115-distinct-subsequences) |
+| [0118-pascals-triangle](https://github.com/namanagrawal3/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/namanagrawal3/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/namanagrawal3/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/namanagrawal3/LeetCode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
