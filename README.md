@@ -130,6 +130,7 @@
 | [3510-maximize-the-total-height-of-unique-towers](https://github.com/namanagrawal3/LeetCode/tree/master/3510-maximize-the-total-height-of-unique-towers) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/namanagrawal3/LeetCode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/namanagrawal3/LeetCode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/namanagrawal3/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/namanagrawal3/LeetCode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/namanagrawal3/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/namanagrawal3/LeetCode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
@@ -433,6 +434,7 @@
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/namanagrawal3/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/namanagrawal3/LeetCode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2868-continuous-subarrays](https://github.com/namanagrawal3/LeetCode/tree/master/2868-continuous-subarrays) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/namanagrawal3/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/namanagrawal3/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/namanagrawal3/LeetCode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Counting
@@ -580,6 +582,7 @@
 | [2481-strictly-palindromic-number](https://github.com/namanagrawal3/LeetCode/tree/master/2481-strictly-palindromic-number) |
 | [2605-count-anagrams](https://github.com/namanagrawal3/LeetCode/tree/master/2605-count-anagrams) |
 | [2716-prime-subtraction-operation](https://github.com/namanagrawal3/LeetCode/tree/master/2716-prime-subtraction-operation) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/namanagrawal3/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/namanagrawal3/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/namanagrawal3/LeetCode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 ## Combinatorics
@@ -638,6 +641,7 @@
 | [2692-take-gifts-from-the-richest-pile](https://github.com/namanagrawal3/LeetCode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/namanagrawal3/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/namanagrawal3/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/namanagrawal3/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/namanagrawal3/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Bit Manipulation
 |  |
