@@ -54,6 +54,7 @@
 | [0720-longest-word-in-dictionary](https://github.com/namanagrawal3/LeetCode/tree/master/0720-longest-word-in-dictionary) |
 | [0729-my-calendar-i](https://github.com/namanagrawal3/LeetCode/tree/master/0729-my-calendar-i) |
 | [0747-min-cost-climbing-stairs](https://github.com/namanagrawal3/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
+| [0780-max-chunks-to-make-sorted](https://github.com/namanagrawal3/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0787-sliding-puzzle](https://github.com/namanagrawal3/LeetCode/tree/master/0787-sliding-puzzle) |
 | [0827-expressive-words](https://github.com/namanagrawal3/LeetCode/tree/master/0827-expressive-words) |
 | [0833-bus-routes](https://github.com/namanagrawal3/LeetCode/tree/master/0833-bus-routes) |
@@ -348,6 +349,7 @@
 | [0646-maximum-length-of-pair-chain](https://github.com/namanagrawal3/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0720-longest-word-in-dictionary](https://github.com/namanagrawal3/LeetCode/tree/master/0720-longest-word-in-dictionary) |
 | [0726-number-of-atoms](https://github.com/namanagrawal3/LeetCode/tree/master/0726-number-of-atoms) |
+| [0780-max-chunks-to-make-sorted](https://github.com/namanagrawal3/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/namanagrawal3/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1256-rank-transform-of-an-array](https://github.com/namanagrawal3/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/namanagrawal3/LeetCode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
@@ -380,6 +382,7 @@
 | [0646-maximum-length-of-pair-chain](https://github.com/namanagrawal3/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0670-maximum-swap](https://github.com/namanagrawal3/LeetCode/tree/master/0670-maximum-swap) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/namanagrawal3/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0780-max-chunks-to-make-sorted](https://github.com/namanagrawal3/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/namanagrawal3/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1304-longest-happy-string](https://github.com/namanagrawal3/LeetCode/tree/master/1304-longest-happy-string) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/namanagrawal3/LeetCode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
@@ -614,6 +617,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/namanagrawal3/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0143-reorder-list](https://github.com/namanagrawal3/LeetCode/tree/master/0143-reorder-list) |
 | [0726-number-of-atoms](https://github.com/namanagrawal3/LeetCode/tree/master/0726-number-of-atoms) |
+| [0780-max-chunks-to-make-sorted](https://github.com/namanagrawal3/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0886-score-of-parentheses](https://github.com/namanagrawal3/LeetCode/tree/master/0886-score-of-parentheses) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/namanagrawal3/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/namanagrawal3/LeetCode/tree/master/1002-maximum-width-ramp) |
@@ -669,6 +673,7 @@
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/namanagrawal3/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0780-max-chunks-to-make-sorted](https://github.com/namanagrawal3/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1002-maximum-width-ramp](https://github.com/namanagrawal3/LeetCode/tree/master/1002-maximum-width-ramp) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/namanagrawal3/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/namanagrawal3/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
