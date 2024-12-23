@@ -15,21 +15,23 @@
  */
 class Solution {
     public TreeNode reverseOddLevels(TreeNode root) {
-        levelTraverse(root.left, root.right, 0);
+        if (root == null)
+            return null;
+
+        solveFun(root.left, root.right, 1);         // just like "Mirror Image"
         return root;
     }
-
-    private void levelTraverse(TreeNode node1, TreeNode node2, int level) {
-        if (node1 == null || node2 == null)
+    public void solveFun(TreeNode leftNode, TreeNode rightNode, int level) {
+        if (leftNode == null)
             return;
-        
-        if (level % 2 == 0) {
-            int val = node1.val;
-            node1.val = node2.val;
-            node2.val = val;
+
+        if (level % 2 == 1) {
+            int temp = leftNode.val;
+            leftNode.val = rightNode.val;
+            rightNode.val = temp;
         }
 
-        levelTraverse(node1.left, node2.right, level + 1);
-        levelTraverse(node1.right, node2.left, level + 1);
+        solveFun(leftNode.left, rightNode.right, level+1);
+        solveFun(leftNode.right, rightNode.left, level+1);   
     }
 }
