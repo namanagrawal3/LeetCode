@@ -66,6 +66,7 @@
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/namanagrawal3/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0926-find-and-replace-pattern](https://github.com/namanagrawal3/LeetCode/tree/master/0926-find-and-replace-pattern) |
 | [0952-word-subsets](https://github.com/namanagrawal3/LeetCode/tree/master/0952-word-subsets) |
+| [0954-maximum-sum-circular-subarray](https://github.com/namanagrawal3/LeetCode/tree/master/0954-maximum-sum-circular-subarray) |
 | [1002-maximum-width-ramp](https://github.com/namanagrawal3/LeetCode/tree/master/1002-maximum-width-ramp) |
 | [1025-minimum-cost-for-tickets](https://github.com/namanagrawal3/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/namanagrawal3/LeetCode/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
@@ -330,6 +331,7 @@
 | [0803-cheapest-flights-within-k-stops](https://github.com/namanagrawal3/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0806-domino-and-tromino-tiling](https://github.com/namanagrawal3/LeetCode/tree/master/0806-domino-and-tromino-tiling) |
 | [0923-super-egg-drop](https://github.com/namanagrawal3/LeetCode/tree/master/0923-super-egg-drop) |
+| [0954-maximum-sum-circular-subarray](https://github.com/namanagrawal3/LeetCode/tree/master/0954-maximum-sum-circular-subarray) |
 | [0977-distinct-subsequences-ii](https://github.com/namanagrawal3/LeetCode/tree/master/0977-distinct-subsequences-ii) |
 | [1025-minimum-cost-for-tickets](https://github.com/namanagrawal3/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/namanagrawal3/LeetCode/tree/master/1063-best-sightseeing-pair) |
@@ -860,12 +862,14 @@
 |  |
 | ------- |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/namanagrawal3/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [0954-maximum-sum-circular-subarray](https://github.com/namanagrawal3/LeetCode/tree/master/0954-maximum-sum-circular-subarray) |
 | [1814-jump-game-vi](https://github.com/namanagrawal3/LeetCode/tree/master/1814-jump-game-vi) |
 | [2868-continuous-subarrays](https://github.com/namanagrawal3/LeetCode/tree/master/2868-continuous-subarrays) |
 ## Monotonic Queue
 |  |
 | ------- |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/namanagrawal3/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [0954-maximum-sum-circular-subarray](https://github.com/namanagrawal3/LeetCode/tree/master/0954-maximum-sum-circular-subarray) |
 | [1814-jump-game-vi](https://github.com/namanagrawal3/LeetCode/tree/master/1814-jump-game-vi) |
 | [2868-continuous-subarrays](https://github.com/namanagrawal3/LeetCode/tree/master/2868-continuous-subarrays) |
 ## Game Theory
@@ -893,4 +897,8 @@
 |  |
 | ------- |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/namanagrawal3/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0954-maximum-sum-circular-subarray](https://github.com/namanagrawal3/LeetCode/tree/master/0954-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
