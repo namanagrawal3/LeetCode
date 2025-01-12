@@ -39,6 +39,7 @@
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/namanagrawal3/LeetCode/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0399-evaluate-division](https://github.com/namanagrawal3/LeetCode/tree/master/0399-evaluate-division) |
 | [0403-frog-jump](https://github.com/namanagrawal3/LeetCode/tree/master/0403-frog-jump) |
+| [0410-split-array-largest-sum](https://github.com/namanagrawal3/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/namanagrawal3/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0436-find-right-interval](https://github.com/namanagrawal3/LeetCode/tree/master/0436-find-right-interval) |
 | [0455-assign-cookies](https://github.com/namanagrawal3/LeetCode/tree/master/0455-assign-cookies) |
@@ -314,6 +315,7 @@
 | [0322-coin-change](https://github.com/namanagrawal3/LeetCode/tree/master/0322-coin-change) |
 | [0354-russian-doll-envelopes](https://github.com/namanagrawal3/LeetCode/tree/master/0354-russian-doll-envelopes) |
 | [0403-frog-jump](https://github.com/namanagrawal3/LeetCode/tree/master/0403-frog-jump) |
+| [0410-split-array-largest-sum](https://github.com/namanagrawal3/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/namanagrawal3/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/namanagrawal3/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0486-predict-the-winner](https://github.com/namanagrawal3/LeetCode/tree/master/0486-predict-the-winner) |
@@ -364,6 +366,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/namanagrawal3/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0354-russian-doll-envelopes](https://github.com/namanagrawal3/LeetCode/tree/master/0354-russian-doll-envelopes) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/namanagrawal3/LeetCode/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
+| [0410-split-array-largest-sum](https://github.com/namanagrawal3/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0436-find-right-interval](https://github.com/namanagrawal3/LeetCode/tree/master/0436-find-right-interval) |
 | [0729-my-calendar-i](https://github.com/namanagrawal3/LeetCode/tree/master/0729-my-calendar-i) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/namanagrawal3/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
@@ -430,6 +433,7 @@
 | [0044-wildcard-matching](https://github.com/namanagrawal3/LeetCode/tree/master/0044-wildcard-matching) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/namanagrawal3/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/namanagrawal3/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
+| [0410-split-array-largest-sum](https://github.com/namanagrawal3/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/namanagrawal3/LeetCode/tree/master/0455-assign-cookies) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/namanagrawal3/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0646-maximum-length-of-pair-chain](https://github.com/namanagrawal3/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
@@ -716,6 +720,7 @@
 |  |
 | ------- |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/namanagrawal3/LeetCode/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
+| [0410-split-array-largest-sum](https://github.com/namanagrawal3/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0724-find-pivot-index](https://github.com/namanagrawal3/LeetCode/tree/master/0724-find-pivot-index) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/namanagrawal3/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/namanagrawal3/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
