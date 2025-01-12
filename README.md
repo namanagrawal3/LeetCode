@@ -64,6 +64,7 @@
 | [0787-sliding-puzzle](https://github.com/namanagrawal3/LeetCode/tree/master/0787-sliding-puzzle) |
 | [0827-expressive-words](https://github.com/namanagrawal3/LeetCode/tree/master/0827-expressive-words) |
 | [0833-bus-routes](https://github.com/namanagrawal3/LeetCode/tree/master/0833-bus-routes) |
+| [0890-lemonade-change](https://github.com/namanagrawal3/LeetCode/tree/master/0890-lemonade-change) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/namanagrawal3/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0926-find-and-replace-pattern](https://github.com/namanagrawal3/LeetCode/tree/master/0926-find-and-replace-pattern) |
 | [0952-word-subsets](https://github.com/namanagrawal3/LeetCode/tree/master/0952-word-subsets) |
@@ -441,6 +442,7 @@
 | [0670-maximum-swap](https://github.com/namanagrawal3/LeetCode/tree/master/0670-maximum-swap) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/namanagrawal3/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0780-max-chunks-to-make-sorted](https://github.com/namanagrawal3/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
+| [0890-lemonade-change](https://github.com/namanagrawal3/LeetCode/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/namanagrawal3/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/namanagrawal3/LeetCode/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1304-longest-happy-string](https://github.com/namanagrawal3/LeetCode/tree/master/1304-longest-happy-string) |
