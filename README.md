@@ -71,6 +71,7 @@
 | [0954-maximum-sum-circular-subarray](https://github.com/namanagrawal3/LeetCode/tree/master/0954-maximum-sum-circular-subarray) |
 | [1002-maximum-width-ramp](https://github.com/namanagrawal3/LeetCode/tree/master/1002-maximum-width-ramp) |
 | [1025-minimum-cost-for-tickets](https://github.com/namanagrawal3/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/namanagrawal3/LeetCode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/namanagrawal3/LeetCode/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1063-best-sightseeing-pair](https://github.com/namanagrawal3/LeetCode/tree/master/1063-best-sightseeing-pair) |
 | [1105-uncrossed-lines](https://github.com/namanagrawal3/LeetCode/tree/master/1105-uncrossed-lines) |
@@ -376,6 +377,7 @@
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/namanagrawal3/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0923-super-egg-drop](https://github.com/namanagrawal3/LeetCode/tree/master/0923-super-egg-drop) |
 | [1023-time-based-key-value-store](https://github.com/namanagrawal3/LeetCode/tree/master/1023-time-based-key-value-store) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/namanagrawal3/LeetCode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1249-snapshot-array](https://github.com/namanagrawal3/LeetCode/tree/master/1249-snapshot-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/namanagrawal3/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/namanagrawal3/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
