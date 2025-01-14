@@ -90,6 +90,7 @@
 | [1497-design-a-stack-with-increment-operation](https://github.com/namanagrawal3/LeetCode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1524-string-matching-in-an-array](https://github.com/namanagrawal3/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/namanagrawal3/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/namanagrawal3/LeetCode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/namanagrawal3/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/namanagrawal3/LeetCode/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/namanagrawal3/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -385,6 +386,7 @@
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/namanagrawal3/LeetCode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1249-snapshot-array](https://github.com/namanagrawal3/LeetCode/tree/master/1249-snapshot-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/namanagrawal3/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/namanagrawal3/LeetCode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/namanagrawal3/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1753-path-with-minimum-effort](https://github.com/namanagrawal3/LeetCode/tree/master/1753-path-with-minimum-effort) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/namanagrawal3/LeetCode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
