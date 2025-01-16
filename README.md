@@ -569,6 +569,7 @@
 | [0676-implement-magic-dictionary](https://github.com/namanagrawal3/LeetCode/tree/master/0676-implement-magic-dictionary) |
 | [0690-employee-importance](https://github.com/namanagrawal3/LeetCode/tree/master/0690-employee-importance) |
 | [0744-network-delay-time](https://github.com/namanagrawal3/LeetCode/tree/master/0744-network-delay-time) |
+| [0801-is-graph-bipartite](https://github.com/namanagrawal3/LeetCode/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/namanagrawal3/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0813-all-paths-from-source-to-target](https://github.com/namanagrawal3/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
 | [0988-flip-equivalent-binary-trees](https://github.com/namanagrawal3/LeetCode/tree/master/0988-flip-equivalent-binary-trees) |
@@ -597,6 +598,7 @@
 | [0690-employee-importance](https://github.com/namanagrawal3/LeetCode/tree/master/0690-employee-importance) |
 | [0744-network-delay-time](https://github.com/namanagrawal3/LeetCode/tree/master/0744-network-delay-time) |
 | [0787-sliding-puzzle](https://github.com/namanagrawal3/LeetCode/tree/master/0787-sliding-puzzle) |
+| [0801-is-graph-bipartite](https://github.com/namanagrawal3/LeetCode/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/namanagrawal3/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0813-all-paths-from-source-to-target](https://github.com/namanagrawal3/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
 | [0833-bus-routes](https://github.com/namanagrawal3/LeetCode/tree/master/0833-bus-routes) |
@@ -685,6 +687,7 @@
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/namanagrawal3/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0399-evaluate-division](https://github.com/namanagrawal3/LeetCode/tree/master/0399-evaluate-division) |
+| [0801-is-graph-bipartite](https://github.com/namanagrawal3/LeetCode/tree/master/0801-is-graph-bipartite) |
 | [1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/namanagrawal3/LeetCode/tree/master/1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/namanagrawal3/LeetCode/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1706-min-cost-to-connect-all-points](https://github.com/namanagrawal3/LeetCode/tree/master/1706-min-cost-to-connect-all-points) |
@@ -811,6 +814,7 @@
 | ------- |
 | [0399-evaluate-division](https://github.com/namanagrawal3/LeetCode/tree/master/0399-evaluate-division) |
 | [0744-network-delay-time](https://github.com/namanagrawal3/LeetCode/tree/master/0744-network-delay-time) |
+| [0801-is-graph-bipartite](https://github.com/namanagrawal3/LeetCode/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/namanagrawal3/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0813-all-paths-from-source-to-target](https://github.com/namanagrawal3/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
 | [1325-path-with-maximum-probability](https://github.com/namanagrawal3/LeetCode/tree/master/1325-path-with-maximum-probability) |
