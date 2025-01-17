@@ -379,6 +379,7 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/namanagrawal3/LeetCode/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/namanagrawal3/LeetCode/tree/master/0069-sqrtx) |
 | [0300-longest-increasing-subsequence](https://github.com/namanagrawal3/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/namanagrawal3/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/namanagrawal3/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -698,6 +699,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/namanagrawal3/LeetCode/tree/master/0009-palindrome-number) |
+| [0069-sqrtx](https://github.com/namanagrawal3/LeetCode/tree/master/0069-sqrtx) |
 | [0477-total-hamming-distance](https://github.com/namanagrawal3/LeetCode/tree/master/0477-total-hamming-distance) |
 | [0486-predict-the-winner](https://github.com/namanagrawal3/LeetCode/tree/master/0486-predict-the-winner) |
 | [0670-maximum-swap](https://github.com/namanagrawal3/LeetCode/tree/master/0670-maximum-swap) |
