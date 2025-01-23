@@ -85,6 +85,7 @@
 | [1288-maximum-subarray-sum-with-one-deletion](https://github.com/namanagrawal3/LeetCode/tree/master/1288-maximum-subarray-sum-with-one-deletion) |
 | [1325-path-with-maximum-probability](https://github.com/namanagrawal3/LeetCode/tree/master/1325-path-with-maximum-probability) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/namanagrawal3/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1396-count-servers-that-communicate](https://github.com/namanagrawal3/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/namanagrawal3/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1418-fair-distribution-of-cookies](https://github.com/namanagrawal3/LeetCode/tree/master/1418-fair-distribution-of-cookies) |
 | [1447-jump-game-iv](https://github.com/namanagrawal3/LeetCode/tree/master/1447-jump-game-iv) |
@@ -546,6 +547,7 @@
 ## Counting
 |  |
 | ------- |
+| [1396-count-servers-that-communicate](https://github.com/namanagrawal3/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/namanagrawal3/LeetCode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1502-construct-k-palindrome-strings](https://github.com/namanagrawal3/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/namanagrawal3/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -592,6 +594,7 @@
 | [1021-distribute-coins-in-binary-tree](https://github.com/namanagrawal3/LeetCode/tree/master/1021-distribute-coins-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/namanagrawal3/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/namanagrawal3/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1396-count-servers-that-communicate](https://github.com/namanagrawal3/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/namanagrawal3/LeetCode/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/namanagrawal3/LeetCode/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1753-path-with-minimum-effort](https://github.com/namanagrawal3/LeetCode/tree/master/1753-path-with-minimum-effort) |
@@ -623,6 +626,7 @@
 | [0833-bus-routes](https://github.com/namanagrawal3/LeetCode/tree/master/0833-bus-routes) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/namanagrawal3/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/namanagrawal3/LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1396-count-servers-that-communicate](https://github.com/namanagrawal3/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1447-jump-game-iv](https://github.com/namanagrawal3/LeetCode/tree/master/1447-jump-game-iv) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/namanagrawal3/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/namanagrawal3/LeetCode/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
@@ -709,6 +713,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/namanagrawal3/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0399-evaluate-division](https://github.com/namanagrawal3/LeetCode/tree/master/0399-evaluate-division) |
 | [0801-is-graph-bipartite](https://github.com/namanagrawal3/LeetCode/tree/master/0801-is-graph-bipartite) |
+| [1396-count-servers-that-communicate](https://github.com/namanagrawal3/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/namanagrawal3/LeetCode/tree/master/1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/namanagrawal3/LeetCode/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1706-min-cost-to-connect-all-points](https://github.com/namanagrawal3/LeetCode/tree/master/1706-min-cost-to-connect-all-points) |
@@ -912,6 +917,7 @@
 | [0787-sliding-puzzle](https://github.com/namanagrawal3/LeetCode/tree/master/0787-sliding-puzzle) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/namanagrawal3/LeetCode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/namanagrawal3/LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1396-count-servers-that-communicate](https://github.com/namanagrawal3/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/namanagrawal3/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/namanagrawal3/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/namanagrawal3/LeetCode/tree/master/1663-detect-cycles-in-2d-grid) |
