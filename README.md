@@ -602,6 +602,7 @@
 | [1663-detect-cycles-in-2d-grid](https://github.com/namanagrawal3/LeetCode/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1753-path-with-minimum-effort](https://github.com/namanagrawal3/LeetCode/tree/master/1753-path-with-minimum-effort) |
 | [2201-valid-arrangement-of-pairs](https://github.com/namanagrawal3/LeetCode/tree/master/2201-valid-arrangement-of-pairs) |
+| [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/namanagrawal3/LeetCode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/namanagrawal3/LeetCode/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/namanagrawal3/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/namanagrawal3/LeetCode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
@@ -862,6 +863,7 @@
 | [1738-maximal-network-rank](https://github.com/namanagrawal3/LeetCode/tree/master/1738-maximal-network-rank) |
 | [2198-process-restricted-friend-requests](https://github.com/namanagrawal3/LeetCode/tree/master/2198-process-restricted-friend-requests) |
 | [2201-valid-arrangement-of-pairs](https://github.com/namanagrawal3/LeetCode/tree/master/2201-valid-arrangement-of-pairs) |
+| [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/namanagrawal3/LeetCode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/namanagrawal3/LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/namanagrawal3/LeetCode/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2568-minimum-fuel-cost-to-report-to-the-capital](https://github.com/namanagrawal3/LeetCode/tree/master/2568-minimum-fuel-cost-to-report-to-the-capital) |
@@ -1014,6 +1016,7 @@
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/namanagrawal3/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0820-find-eventual-safe-states](https://github.com/namanagrawal3/LeetCode/tree/master/0820-find-eventual-safe-states) |
+| [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/namanagrawal3/LeetCode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/namanagrawal3/LeetCode/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 ## Memoization
 |  |
