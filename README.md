@@ -599,6 +599,7 @@
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/namanagrawal3/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1396-count-servers-that-communicate](https://github.com/namanagrawal3/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/namanagrawal3/LeetCode/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
+| [1558-course-schedule-iv](https://github.com/namanagrawal3/LeetCode/tree/master/1558-course-schedule-iv) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/namanagrawal3/LeetCode/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1753-path-with-minimum-effort](https://github.com/namanagrawal3/LeetCode/tree/master/1753-path-with-minimum-effort) |
 | [2201-valid-arrangement-of-pairs](https://github.com/namanagrawal3/LeetCode/tree/master/2201-valid-arrangement-of-pairs) |
@@ -635,6 +636,7 @@
 | [1447-jump-game-iv](https://github.com/namanagrawal3/LeetCode/tree/master/1447-jump-game-iv) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/namanagrawal3/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/namanagrawal3/LeetCode/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
+| [1558-course-schedule-iv](https://github.com/namanagrawal3/LeetCode/tree/master/1558-course-schedule-iv) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/namanagrawal3/LeetCode/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1753-path-with-minimum-effort](https://github.com/namanagrawal3/LeetCode/tree/master/1753-path-with-minimum-effort) |
 | [1876-map-of-highest-peak](https://github.com/namanagrawal3/LeetCode/tree/master/1876-map-of-highest-peak) |
@@ -857,6 +859,7 @@
 | [1325-path-with-maximum-probability](https://github.com/namanagrawal3/LeetCode/tree/master/1325-path-with-maximum-probability) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/namanagrawal3/LeetCode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/namanagrawal3/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1558-course-schedule-iv](https://github.com/namanagrawal3/LeetCode/tree/master/1558-course-schedule-iv) |
 | [1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/namanagrawal3/LeetCode/tree/master/1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1661-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/namanagrawal3/LeetCode/tree/master/1661-minimum-number-of-vertices-to-reach-all-nodes) |
 | [1706-min-cost-to-connect-all-points](https://github.com/namanagrawal3/LeetCode/tree/master/1706-min-cost-to-connect-all-points) |
@@ -1016,6 +1019,7 @@
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/namanagrawal3/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0820-find-eventual-safe-states](https://github.com/namanagrawal3/LeetCode/tree/master/0820-find-eventual-safe-states) |
+| [1558-course-schedule-iv](https://github.com/namanagrawal3/LeetCode/tree/master/1558-course-schedule-iv) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/namanagrawal3/LeetCode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/namanagrawal3/LeetCode/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 ## Memoization
