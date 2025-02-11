@@ -602,6 +602,7 @@
 | [0988-flip-equivalent-binary-trees](https://github.com/namanagrawal3/LeetCode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1021-distribute-coins-in-binary-tree](https://github.com/namanagrawal3/LeetCode/tree/master/1021-distribute-coins-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/namanagrawal3/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1040-maximum-binary-tree-ii](https://github.com/namanagrawal3/LeetCode/tree/master/1040-maximum-binary-tree-ii) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/namanagrawal3/LeetCode/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/namanagrawal3/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/namanagrawal3/LeetCode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
@@ -707,6 +708,7 @@
 | [0988-flip-equivalent-binary-trees](https://github.com/namanagrawal3/LeetCode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1021-distribute-coins-in-binary-tree](https://github.com/namanagrawal3/LeetCode/tree/master/1021-distribute-coins-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/namanagrawal3/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1040-maximum-binary-tree-ii](https://github.com/namanagrawal3/LeetCode/tree/master/1040-maximum-binary-tree-ii) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/namanagrawal3/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/namanagrawal3/LeetCode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/namanagrawal3/LeetCode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
