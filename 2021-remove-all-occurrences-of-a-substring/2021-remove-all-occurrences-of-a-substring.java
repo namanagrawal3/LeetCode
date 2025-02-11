@@ -11,7 +11,7 @@ class Solution {
 
             if (st.length() >= p && ch == pLastChar) {
                 if (st.substring(st.length()-p).equals(part))
-                    st.replace(st.length()-p, st.length(), "");
+                    st.delete(st.length()-p, st.length());
             }
         }
 
