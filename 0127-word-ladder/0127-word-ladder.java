@@ -9,11 +9,9 @@ class Solution {
         }
 
         Queue<String> q = new ArrayDeque<>();
-        HashSet<String> visited = new HashSet<>();
         q.add(beginWord);
-        visited.add(beginWord);
-
         int level = 0;
+
         while (!q.isEmpty()) {
             int size = q.size();
             while (size-- > 0) {
@@ -26,9 +24,10 @@ class Solution {
                         if (ch == rv.charAt(i))
                             continue;
                         String next = rv.substring(0, i) + ch + rv.substring(i+1);
-                        if (set.contains(next) && !visited.contains(next)) {
+
+                        if (set.contains(next)) {
                             q.add(next);
-                            visited.add(next);
+                            set.remove(next);
                         }
                     }
                 }
