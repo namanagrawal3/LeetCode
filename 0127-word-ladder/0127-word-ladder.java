@@ -8,6 +8,9 @@ class Solution {
             set.add(word);
         }
 
+        if (!set.contains(endWord))
+            return 0;
+
         Queue<String> q = new ArrayDeque<>();
         q.add(beginWord);
         int level = 0;
