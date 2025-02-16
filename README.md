@@ -116,6 +116,7 @@
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/namanagrawal3/LeetCode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/namanagrawal3/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1814-jump-game-vi](https://github.com/namanagrawal3/LeetCode/tree/master/1814-jump-game-vi) |
+| [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/namanagrawal3/LeetCode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1824-maximum-number-of-eaten-apples](https://github.com/namanagrawal3/LeetCode/tree/master/1824-maximum-number-of-eaten-apples) |
 | [1829-maximum-units-on-a-truck](https://github.com/namanagrawal3/LeetCode/tree/master/1829-maximum-units-on-a-truck) |
 | [1876-map-of-highest-peak](https://github.com/namanagrawal3/LeetCode/tree/master/1876-map-of-highest-peak) |
@@ -991,6 +992,7 @@
 | [1418-fair-distribution-of-cookies](https://github.com/namanagrawal3/LeetCode/tree/master/1418-fair-distribution-of-cookies) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/namanagrawal3/LeetCode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1723-maximum-number-of-achievable-transfer-requests](https://github.com/namanagrawal3/LeetCode/tree/master/1723-maximum-number-of-achievable-transfer-requests) |
+| [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/namanagrawal3/LeetCode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/namanagrawal3/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/namanagrawal3/LeetCode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Enumeration
