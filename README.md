@@ -309,6 +309,7 @@
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/namanagrawal3/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/namanagrawal3/LeetCode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1502-construct-k-palindrome-strings](https://github.com/namanagrawal3/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
+| [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/namanagrawal3/LeetCode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1524-string-matching-in-an-array](https://github.com/namanagrawal3/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/namanagrawal3/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/namanagrawal3/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
@@ -997,6 +998,7 @@
 | [0813-all-paths-from-source-to-target](https://github.com/namanagrawal3/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
 | [1160-letter-tile-possibilities](https://github.com/namanagrawal3/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1418-fair-distribution-of-cookies](https://github.com/namanagrawal3/LeetCode/tree/master/1418-fair-distribution-of-cookies) |
+| [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/namanagrawal3/LeetCode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/namanagrawal3/LeetCode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1723-maximum-number-of-achievable-transfer-requests](https://github.com/namanagrawal3/LeetCode/tree/master/1723-maximum-number-of-achievable-transfer-requests) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/namanagrawal3/LeetCode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
