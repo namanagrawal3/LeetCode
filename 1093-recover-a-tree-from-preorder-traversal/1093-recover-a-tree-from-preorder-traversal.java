@@ -14,32 +14,31 @@
  * }
  */
 class Solution {
-    int maxIdx;
+    int idx;
     public TreeNode recoverFromPreorder(String traversal) {
-        maxIdx = 0;
-        return consTree(traversal, 0, 0);
+        idx = 0;
+        return consTree(traversal, 0);
     }
-    public TreeNode consTree(String trav, int i, int currD) {
-        int j = i;
+    public TreeNode consTree(String trav, int currD) {
+        int j = idx;
         while (j < trav.length() && trav.charAt(j) == '-') {
             j++;
         }
 
-        if (j-i != currD)
+        if (j-idx != currD)
             return null;
 
-        StringBuilder val = new StringBuilder();
-        while (j < trav.length() && trav.charAt(j) != '-') {
-            val.append(trav.charAt(j));
-            j++;
+        int val = 0;
+        idx = j;
+        while (idx < trav.length() && trav.charAt(idx) != '-') {
+            val = val*10 + (trav.charAt(idx)-'0');
+            idx++;
         }
 
-        TreeNode root = new TreeNode(Integer.parseInt(val.toString()));
-        
-        maxIdx = Math.max(maxIdx, j);
-        root.left = consTree(trav, j, currD + 1);
-        root.right = consTree(trav, maxIdx, currD + 1);
+        TreeNode root = new TreeNode(val);
+        root.left = consTree(trav, currD + 1);
+        root.right = consTree(trav, currD + 1);
 
-        return root;    
+        return root;      
     }
 }
