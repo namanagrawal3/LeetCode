@@ -1,11 +1,25 @@
 class Solution {
     public int numOfSubarrays(int[] arr) {
-        long oddCount = 0, prefixSum = 0;
-        for (int a : arr) {
-            prefixSum += a;
-            oddCount += prefixSum % 2;
+    // Similar to 'Count Subarrays sum target' (using prefix-sum with Hashmap)
+    // Note : "even + ODD = odd" & "odd + ODD = even"
+
+        int even = 1, odd = 0;          // similar to map.put(0, 1)
+        int mod = 1000000007;
+        long count = 0;
+        int currSum = 0;
+
+        for (int num : arr) {
+            currSum += num;
+            if (currSum % 2 == 0) {
+                count += odd;
+                even++;
+            }
+            else {
+                count += even;
+                odd++;
+            }
         }
-        oddCount += (arr.length - oddCount) * oddCount;
-        return (int)(oddCount % 1_000_000_007);    
+
+        return (int)(count % mod);  
     }
 }
