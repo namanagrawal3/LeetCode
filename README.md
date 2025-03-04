@@ -54,6 +54,7 @@
 | [0494-target-sum](https://github.com/namanagrawal3/LeetCode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/namanagrawal3/LeetCode/tree/master/0518-coin-change-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/namanagrawal3/LeetCode/tree/master/0524-longest-word-in-dictionary-through-deleting) |
+| [0529-minesweeper](https://github.com/namanagrawal3/LeetCode/tree/master/0529-minesweeper) |
 | [0542-01-matrix](https://github.com/namanagrawal3/LeetCode/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/namanagrawal3/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0630-course-schedule-iii](https://github.com/namanagrawal3/LeetCode/tree/master/0630-course-schedule-iii) |
@@ -678,6 +679,7 @@
 | [0419-battleships-in-a-board](https://github.com/namanagrawal3/LeetCode/tree/master/0419-battleships-in-a-board) |
 | [0508-most-frequent-subtree-sum](https://github.com/namanagrawal3/LeetCode/tree/master/0508-most-frequent-subtree-sum) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/namanagrawal3/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0529-minesweeper](https://github.com/namanagrawal3/LeetCode/tree/master/0529-minesweeper) |
 | [0676-implement-magic-dictionary](https://github.com/namanagrawal3/LeetCode/tree/master/0676-implement-magic-dictionary) |
 | [0684-redundant-connection](https://github.com/namanagrawal3/LeetCode/tree/master/0684-redundant-connection) |
 | [0690-employee-importance](https://github.com/namanagrawal3/LeetCode/tree/master/0690-employee-importance) |
@@ -724,6 +726,7 @@
 | [0399-evaluate-division](https://github.com/namanagrawal3/LeetCode/tree/master/0399-evaluate-division) |
 | [0407-trapping-rain-water-ii](https://github.com/namanagrawal3/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/namanagrawal3/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0529-minesweeper](https://github.com/namanagrawal3/LeetCode/tree/master/0529-minesweeper) |
 | [0542-01-matrix](https://github.com/namanagrawal3/LeetCode/tree/master/0542-01-matrix) |
 | [0684-redundant-connection](https://github.com/namanagrawal3/LeetCode/tree/master/0684-redundant-connection) |
 | [0690-employee-importance](https://github.com/namanagrawal3/LeetCode/tree/master/0690-employee-importance) |
@@ -1100,6 +1103,7 @@
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/namanagrawal3/LeetCode/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0407-trapping-rain-water-ii](https://github.com/namanagrawal3/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0419-battleships-in-a-board](https://github.com/namanagrawal3/LeetCode/tree/master/0419-battleships-in-a-board) |
+| [0529-minesweeper](https://github.com/namanagrawal3/LeetCode/tree/master/0529-minesweeper) |
 | [0542-01-matrix](https://github.com/namanagrawal3/LeetCode/tree/master/0542-01-matrix) |
 | [0787-sliding-puzzle](https://github.com/namanagrawal3/LeetCode/tree/master/0787-sliding-puzzle) |
 | [0794-swim-in-rising-water](https://github.com/namanagrawal3/LeetCode/tree/master/0794-swim-in-rising-water) |
