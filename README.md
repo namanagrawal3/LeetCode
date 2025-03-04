@@ -868,6 +868,7 @@
 | [0923-super-egg-drop](https://github.com/namanagrawal3/LeetCode/tree/master/0923-super-egg-drop) |
 | [1477-product-of-the-last-k-numbers](https://github.com/namanagrawal3/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/namanagrawal3/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/namanagrawal3/LeetCode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1963-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/namanagrawal3/LeetCode/tree/master/1963-find-xor-sum-of-all-pairs-bitwise-and) |
 | [2031-egg-drop-with-2-eggs-and-n-floors](https://github.com/namanagrawal3/LeetCode/tree/master/2031-egg-drop-with-2-eggs-and-n-floors) |
 | [2448-count-number-of-bad-pairs](https://github.com/namanagrawal3/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
