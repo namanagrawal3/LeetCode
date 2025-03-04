@@ -4,6 +4,7 @@
 ## Trie
 |  |
 | ------- |
+| [0386-lexicographical-numbers](https://github.com/namanagrawal3/LeetCode/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/namanagrawal3/LeetCode/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [0676-implement-magic-dictionary](https://github.com/namanagrawal3/LeetCode/tree/master/0676-implement-magic-dictionary) |
 | [0720-longest-word-in-dictionary](https://github.com/namanagrawal3/LeetCode/tree/master/0720-longest-word-in-dictionary) |
@@ -678,6 +679,7 @@
 | [0207-course-schedule](https://github.com/namanagrawal3/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/namanagrawal3/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/namanagrawal3/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0386-lexicographical-numbers](https://github.com/namanagrawal3/LeetCode/tree/master/0386-lexicographical-numbers) |
 | [0399-evaluate-division](https://github.com/namanagrawal3/LeetCode/tree/master/0399-evaluate-division) |
 | [0419-battleships-in-a-board](https://github.com/namanagrawal3/LeetCode/tree/master/0419-battleships-in-a-board) |
 | [0508-most-frequent-subtree-sum](https://github.com/namanagrawal3/LeetCode/tree/master/0508-most-frequent-subtree-sum) |
