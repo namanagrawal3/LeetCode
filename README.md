@@ -296,6 +296,7 @@
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/namanagrawal3/LeetCode/tree/master/0010-regular-expression-matching) |
+| [0022-generate-parentheses](https://github.com/namanagrawal3/LeetCode/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/namanagrawal3/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0044-wildcard-matching](https://github.com/namanagrawal3/LeetCode/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/namanagrawal3/LeetCode/tree/master/0049-group-anagrams) |
@@ -385,6 +386,7 @@
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/namanagrawal3/LeetCode/tree/master/0010-regular-expression-matching) |
+| [0022-generate-parentheses](https://github.com/namanagrawal3/LeetCode/tree/master/0022-generate-parentheses) |
 | [0044-wildcard-matching](https://github.com/namanagrawal3/LeetCode/tree/master/0044-wildcard-matching) |
 | [0064-minimum-path-sum](https://github.com/namanagrawal3/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/namanagrawal3/LeetCode/tree/master/0072-edit-distance) |
@@ -1064,6 +1066,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/namanagrawal3/LeetCode/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/namanagrawal3/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/namanagrawal3/LeetCode/tree/master/0090-subsets-ii) |
 | [0494-target-sum](https://github.com/namanagrawal3/LeetCode/tree/master/0494-target-sum) |
