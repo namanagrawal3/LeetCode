@@ -149,6 +149,7 @@
 | [2176-parallel-courses-iii](https://github.com/namanagrawal3/LeetCode/tree/master/2176-parallel-courses-iii) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/namanagrawal3/LeetCode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/namanagrawal3/LeetCode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
+| [2206-detonate-the-maximum-bombs](https://github.com/namanagrawal3/LeetCode/tree/master/2206-detonate-the-maximum-bombs) |
 | [2232-adding-spaces-to-a-string](https://github.com/namanagrawal3/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2261-all-divisions-with-the-highest-score-of-a-binary-array](https://github.com/namanagrawal3/LeetCode/tree/master/2261-all-divisions-with-the-highest-score-of-a-binary-array) |
 | [2262-solving-questions-with-brainpower](https://github.com/namanagrawal3/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
@@ -699,6 +700,7 @@
 | [1663-detect-cycles-in-2d-grid](https://github.com/namanagrawal3/LeetCode/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1753-path-with-minimum-effort](https://github.com/namanagrawal3/LeetCode/tree/master/1753-path-with-minimum-effort) |
 | [2201-valid-arrangement-of-pairs](https://github.com/namanagrawal3/LeetCode/tree/master/2201-valid-arrangement-of-pairs) |
+| [2206-detonate-the-maximum-bombs](https://github.com/namanagrawal3/LeetCode/tree/master/2206-detonate-the-maximum-bombs) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/namanagrawal3/LeetCode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/namanagrawal3/LeetCode/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/namanagrawal3/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -746,6 +748,7 @@
 | [1663-detect-cycles-in-2d-grid](https://github.com/namanagrawal3/LeetCode/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1753-path-with-minimum-effort](https://github.com/namanagrawal3/LeetCode/tree/master/1753-path-with-minimum-effort) |
 | [1876-map-of-highest-peak](https://github.com/namanagrawal3/LeetCode/tree/master/1876-map-of-highest-peak) |
+| [2206-detonate-the-maximum-bombs](https://github.com/namanagrawal3/LeetCode/tree/master/2206-detonate-the-maximum-bombs) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/namanagrawal3/LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/namanagrawal3/LeetCode/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/namanagrawal3/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -871,6 +874,7 @@
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/namanagrawal3/LeetCode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1963-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/namanagrawal3/LeetCode/tree/master/1963-find-xor-sum-of-all-pairs-bitwise-and) |
 | [2031-egg-drop-with-2-eggs-and-n-floors](https://github.com/namanagrawal3/LeetCode/tree/master/2031-egg-drop-with-2-eggs-and-n-floors) |
+| [2206-detonate-the-maximum-bombs](https://github.com/namanagrawal3/LeetCode/tree/master/2206-detonate-the-maximum-bombs) |
 | [2448-count-number-of-bad-pairs](https://github.com/namanagrawal3/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2481-strictly-palindromic-number](https://github.com/namanagrawal3/LeetCode/tree/master/2481-strictly-palindromic-number) |
 | [2605-count-anagrams](https://github.com/namanagrawal3/LeetCode/tree/master/2605-count-anagrams) |
@@ -1028,6 +1032,7 @@
 | [2176-parallel-courses-iii](https://github.com/namanagrawal3/LeetCode/tree/master/2176-parallel-courses-iii) |
 | [2198-process-restricted-friend-requests](https://github.com/namanagrawal3/LeetCode/tree/master/2198-process-restricted-friend-requests) |
 | [2201-valid-arrangement-of-pairs](https://github.com/namanagrawal3/LeetCode/tree/master/2201-valid-arrangement-of-pairs) |
+| [2206-detonate-the-maximum-bombs](https://github.com/namanagrawal3/LeetCode/tree/master/2206-detonate-the-maximum-bombs) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/namanagrawal3/LeetCode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/namanagrawal3/LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/namanagrawal3/LeetCode/tree/master/2409-number-of-increasing-paths-in-a-grid) |
@@ -1215,4 +1220,8 @@
 |  |
 | ------- |
 | [1477-product-of-the-last-k-numbers](https://github.com/namanagrawal3/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
+## Geometry
+|  |
+| ------- |
+| [2206-detonate-the-maximum-bombs](https://github.com/namanagrawal3/LeetCode/tree/master/2206-detonate-the-maximum-bombs) |
 <!---LeetCode Topics End-->
