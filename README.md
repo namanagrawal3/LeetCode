@@ -885,6 +885,7 @@
 | [2206-detonate-the-maximum-bombs](https://github.com/namanagrawal3/LeetCode/tree/master/2206-detonate-the-maximum-bombs) |
 | [2448-count-number-of-bad-pairs](https://github.com/namanagrawal3/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2481-strictly-palindromic-number](https://github.com/namanagrawal3/LeetCode/tree/master/2481-strictly-palindromic-number) |
+| [2575-minimum-cuts-to-divide-a-circle](https://github.com/namanagrawal3/LeetCode/tree/master/2575-minimum-cuts-to-divide-a-circle) |
 | [2605-count-anagrams](https://github.com/namanagrawal3/LeetCode/tree/master/2605-count-anagrams) |
 | [2649-count-total-number-of-colored-cells](https://github.com/namanagrawal3/LeetCode/tree/master/2649-count-total-number-of-colored-cells) |
 | [2716-prime-subtraction-operation](https://github.com/namanagrawal3/LeetCode/tree/master/2716-prime-subtraction-operation) |
@@ -1237,4 +1238,5 @@
 |  |
 | ------- |
 | [2206-detonate-the-maximum-bombs](https://github.com/namanagrawal3/LeetCode/tree/master/2206-detonate-the-maximum-bombs) |
+| [2575-minimum-cuts-to-divide-a-circle](https://github.com/namanagrawal3/LeetCode/tree/master/2575-minimum-cuts-to-divide-a-circle) |
 <!---LeetCode Topics End-->
