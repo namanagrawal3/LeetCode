@@ -303,6 +303,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/namanagrawal3/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0044-wildcard-matching](https://github.com/namanagrawal3/LeetCode/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/namanagrawal3/LeetCode/tree/master/0049-group-anagrams) |
+| [0067-add-binary](https://github.com/namanagrawal3/LeetCode/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/namanagrawal3/LeetCode/tree/master/0072-edit-distance) |
 | [0087-scramble-string](https://github.com/namanagrawal3/LeetCode/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/namanagrawal3/LeetCode/tree/master/0091-decode-ways) |
@@ -873,6 +874,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/namanagrawal3/LeetCode/tree/master/0009-palindrome-number) |
+| [0067-add-binary](https://github.com/namanagrawal3/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/namanagrawal3/LeetCode/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/namanagrawal3/LeetCode/tree/master/0231-power-of-two) |
 | [0477-total-hamming-distance](https://github.com/namanagrawal3/LeetCode/tree/master/0477-total-hamming-distance) |
@@ -973,6 +975,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/namanagrawal3/LeetCode/tree/master/0067-add-binary) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/namanagrawal3/LeetCode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/namanagrawal3/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2232-adding-spaces-to-a-string](https://github.com/namanagrawal3/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
@@ -992,6 +995,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/namanagrawal3/LeetCode/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/namanagrawal3/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/namanagrawal3/LeetCode/tree/master/0090-subsets-ii) |
 | [0191-number-of-1-bits](https://github.com/namanagrawal3/LeetCode/tree/master/0191-number-of-1-bits) |
