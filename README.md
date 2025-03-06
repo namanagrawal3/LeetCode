@@ -19,6 +19,7 @@
 | [0035-search-insert-position](https://github.com/namanagrawal3/LeetCode/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/namanagrawal3/LeetCode/tree/master/0049-group-anagrams) |
 | [0064-minimum-path-sum](https://github.com/namanagrawal3/LeetCode/tree/master/0064-minimum-path-sum) |
+| [0066-plus-one](https://github.com/namanagrawal3/LeetCode/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/namanagrawal3/LeetCode/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/namanagrawal3/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/namanagrawal3/LeetCode/tree/master/0090-subsets-ii) |
@@ -874,6 +875,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/namanagrawal3/LeetCode/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/namanagrawal3/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/namanagrawal3/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/namanagrawal3/LeetCode/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/namanagrawal3/LeetCode/tree/master/0231-power-of-two) |
