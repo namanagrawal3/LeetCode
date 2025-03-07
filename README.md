@@ -902,6 +902,7 @@
 | [2491-smallest-even-multiple](https://github.com/namanagrawal3/LeetCode/tree/master/2491-smallest-even-multiple) |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/namanagrawal3/LeetCode/tree/master/2575-minimum-cuts-to-divide-a-circle) |
 | [2605-count-anagrams](https://github.com/namanagrawal3/LeetCode/tree/master/2605-count-anagrams) |
+| [2610-closest-prime-numbers-in-range](https://github.com/namanagrawal3/LeetCode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/namanagrawal3/LeetCode/tree/master/2649-count-total-number-of-colored-cells) |
 | [2716-prime-subtraction-operation](https://github.com/namanagrawal3/LeetCode/tree/master/2716-prime-subtraction-operation) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/namanagrawal3/LeetCode/tree/master/2802-find-the-punishment-number-of-an-integer) |
@@ -1176,6 +1177,7 @@
 |  |
 | ------- |
 | [2491-smallest-even-multiple](https://github.com/namanagrawal3/LeetCode/tree/master/2491-smallest-even-multiple) |
+| [2610-closest-prime-numbers-in-range](https://github.com/namanagrawal3/LeetCode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2716-prime-subtraction-operation](https://github.com/namanagrawal3/LeetCode/tree/master/2716-prime-subtraction-operation) |
 ## Queue
 |  |
