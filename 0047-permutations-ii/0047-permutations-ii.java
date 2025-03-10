@@ -16,7 +16,9 @@ class Solution {
         }
 
         for (int i = 0; i < arr.length; i++) {
-            if (visited[i] || checkOccurLater(arr, visited, i))
+            if (visited[i])
+                continue;
+            if (i > 0 && arr[i] == arr[i-1] && !visited[i-1])
                 continue;
 
             visited[i] = true;
@@ -25,12 +27,5 @@ class Solution {
             visited[i] = false;
             l.remove(l.size()-1);
         }
-    }
-    public boolean checkOccurLater(int[] arr, boolean[] visited, int idx) {
-        for (int i = idx+1; i < arr.length; i++) {
-            if (arr[i] == arr[idx] && visited[i] == false)
-                return true;
-        }
-        return false;
     }
 }
