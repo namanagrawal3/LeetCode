@@ -21,6 +21,7 @@
 | ------- |
 | [0035-search-insert-position](https://github.com/namanagrawal3/LeetCode/tree/master/0035-search-insert-position) |
 | [0046-permutations](https://github.com/namanagrawal3/LeetCode/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/namanagrawal3/LeetCode/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/namanagrawal3/LeetCode/tree/master/0049-group-anagrams) |
 | [0064-minimum-path-sum](https://github.com/namanagrawal3/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/namanagrawal3/LeetCode/tree/master/0066-plus-one) |
@@ -523,6 +524,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/namanagrawal3/LeetCode/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/namanagrawal3/LeetCode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/namanagrawal3/LeetCode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/namanagrawal3/LeetCode/tree/master/0349-intersection-of-two-arrays) |
@@ -1108,6 +1110,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/namanagrawal3/LeetCode/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/namanagrawal3/LeetCode/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/namanagrawal3/LeetCode/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/namanagrawal3/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/namanagrawal3/LeetCode/tree/master/0090-subsets-ii) |
 | [0494-target-sum](https://github.com/namanagrawal3/LeetCode/tree/master/0494-target-sum) |
