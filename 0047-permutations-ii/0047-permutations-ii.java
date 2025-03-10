@@ -1,15 +1,16 @@
 class Solution {
     public List<List<Integer>> permuteUnique(int[] nums) {
+        int n = nums.length;
         List<List<Integer>> ans = new ArrayList<>();
         List<Integer> l = new ArrayList<>();
-        boolean[] visited = new boolean[nums.length];
+        boolean[] visited = new boolean[n];
 
         Arrays.sort(nums);
-        permutation(nums, l, ans, visited);
+        permutation(nums, l, ans, visited, n);
         return ans;
     }
-    public void permutation(int[] arr, List<Integer> l, List<List<Integer>> ans, boolean[] visited) {
-        if (allVisited(visited)) {
+    public void permutation(int[] arr, List<Integer> l, List<List<Integer>> ans, boolean[] visited, int n) {
+        if (n == 0) {
             ans.add(new ArrayList<>(l));
             return;
         }
@@ -20,17 +21,10 @@ class Solution {
 
             visited[i] = true;
             l.add(arr[i]);
-            permutation(arr, l, ans, visited);
+            permutation(arr, l, ans, visited, n-1);
             visited[i] = false;
             l.remove(l.size()-1);
         }
-    }
-    public boolean allVisited(boolean[] visited) {
-        for (int i = 0; i < visited.length; i++) {
-            if (!visited[i])
-                return false;
-        }
-        return true;
     }
     public boolean checkOccurLater(int[] arr, boolean[] visited, int idx) {
         for (int i = idx+1; i < arr.length; i++) {
