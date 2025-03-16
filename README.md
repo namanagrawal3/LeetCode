@@ -157,6 +157,7 @@
 | [2102-find-the-middle-index-in-array](https://github.com/namanagrawal3/LeetCode/tree/master/2102-find-the-middle-index-in-array) |
 | [2107-find-unique-binary-string](https://github.com/namanagrawal3/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/namanagrawal3/LeetCode/tree/master/2123-the-number-of-weak-characters-in-the-game) |
+| [2138-sum-of-beauty-in-the-array](https://github.com/namanagrawal3/LeetCode/tree/master/2138-sum-of-beauty-in-the-array) |
 | [2145-grid-game](https://github.com/namanagrawal3/LeetCode/tree/master/2145-grid-game) |
 | [2164-two-best-non-overlapping-events](https://github.com/namanagrawal3/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/namanagrawal3/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
