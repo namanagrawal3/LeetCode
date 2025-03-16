@@ -89,6 +89,7 @@
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/namanagrawal3/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/namanagrawal3/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0926-find-and-replace-pattern](https://github.com/namanagrawal3/LeetCode/tree/master/0926-find-and-replace-pattern) |
+| [0951-partition-array-into-disjoint-intervals](https://github.com/namanagrawal3/LeetCode/tree/master/0951-partition-array-into-disjoint-intervals) |
 | [0952-word-subsets](https://github.com/namanagrawal3/LeetCode/tree/master/0952-word-subsets) |
 | [0954-maximum-sum-circular-subarray](https://github.com/namanagrawal3/LeetCode/tree/master/0954-maximum-sum-circular-subarray) |
 | [0990-verifying-an-alien-dictionary](https://github.com/namanagrawal3/LeetCode/tree/master/0990-verifying-an-alien-dictionary) |
