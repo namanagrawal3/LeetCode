@@ -35,6 +35,7 @@
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/namanagrawal3/LeetCode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0128-longest-consecutive-sequence](https://github.com/namanagrawal3/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/namanagrawal3/LeetCode/tree/master/0134-gas-station) |
+| [0169-majority-element](https://github.com/namanagrawal3/LeetCode/tree/master/0169-majority-element) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/namanagrawal3/LeetCode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/namanagrawal3/LeetCode/tree/master/0198-house-robber) |
 | [0221-maximal-square](https://github.com/namanagrawal3/LeetCode/tree/master/0221-maximal-square) |
@@ -249,6 +250,7 @@
 | [0049-group-anagrams](https://github.com/namanagrawal3/LeetCode/tree/master/0049-group-anagrams) |
 | [0127-word-ladder](https://github.com/namanagrawal3/LeetCode/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/namanagrawal3/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0169-majority-element](https://github.com/namanagrawal3/LeetCode/tree/master/0169-majority-element) |
 | [0208-implement-trie-prefix-tree](https://github.com/namanagrawal3/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/namanagrawal3/LeetCode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/namanagrawal3/LeetCode/tree/master/0290-word-pattern) |
@@ -548,6 +550,7 @@
 | ------- |
 | [0047-permutations-ii](https://github.com/namanagrawal3/LeetCode/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/namanagrawal3/LeetCode/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/namanagrawal3/LeetCode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/namanagrawal3/LeetCode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/namanagrawal3/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/namanagrawal3/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -689,6 +692,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/namanagrawal3/LeetCode/tree/master/0169-majority-element) |
 | [1160-letter-tile-possibilities](https://github.com/namanagrawal3/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/namanagrawal3/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/namanagrawal3/LeetCode/tree/master/1396-count-servers-that-communicate) |
@@ -1276,6 +1280,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/namanagrawal3/LeetCode/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/namanagrawal3/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/namanagrawal3/LeetCode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0654-maximum-binary-tree](https://github.com/namanagrawal3/LeetCode/tree/master/0654-maximum-binary-tree) |
