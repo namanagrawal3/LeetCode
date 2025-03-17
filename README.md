@@ -246,6 +246,7 @@
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/namanagrawal3/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/namanagrawal3/LeetCode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3639-zero-array-transformation-i](https://github.com/namanagrawal3/LeetCode/tree/master/3639-zero-array-transformation-i) |
+| [3643-zero-array-transformation-ii](https://github.com/namanagrawal3/LeetCode/tree/master/3643-zero-array-transformation-ii) |
 | [3690-smallest-substring-with-identical-characters-i](https://github.com/namanagrawal3/LeetCode/tree/master/3690-smallest-substring-with-identical-characters-i) |
 ## Hash Table
 |  |
@@ -550,6 +551,7 @@
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/namanagrawal3/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/namanagrawal3/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3427-special-array-ii](https://github.com/namanagrawal3/LeetCode/tree/master/3427-special-array-ii) |
+| [3643-zero-array-transformation-ii](https://github.com/namanagrawal3/LeetCode/tree/master/3643-zero-array-transformation-ii) |
 | [3690-smallest-substring-with-identical-characters-i](https://github.com/namanagrawal3/LeetCode/tree/master/3690-smallest-substring-with-identical-characters-i) |
 | [3706-smallest-substring-with-identical-characters-ii](https://github.com/namanagrawal3/LeetCode/tree/master/3706-smallest-substring-with-identical-characters-ii) |
 ## Sorting
@@ -1047,6 +1049,7 @@
 | [2714-left-and-right-sum-differences](https://github.com/namanagrawal3/LeetCode/tree/master/2714-left-and-right-sum-differences) |
 | [3427-special-array-ii](https://github.com/namanagrawal3/LeetCode/tree/master/3427-special-array-ii) |
 | [3639-zero-array-transformation-i](https://github.com/namanagrawal3/LeetCode/tree/master/3639-zero-array-transformation-i) |
+| [3643-zero-array-transformation-ii](https://github.com/namanagrawal3/LeetCode/tree/master/3643-zero-array-transformation-ii) |
 ## Simulation
 |  |
 | ------- |
