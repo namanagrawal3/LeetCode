@@ -218,6 +218,7 @@
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/namanagrawal3/LeetCode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2833-count-zero-request-servers](https://github.com/namanagrawal3/LeetCode/tree/master/2833-count-zero-request-servers) |
 | [2868-continuous-subarrays](https://github.com/namanagrawal3/LeetCode/tree/master/2868-continuous-subarrays) |
+| [2888-minimum-index-of-a-valid-split](https://github.com/namanagrawal3/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/namanagrawal3/LeetCode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/namanagrawal3/LeetCode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/namanagrawal3/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
@@ -321,6 +322,7 @@
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/namanagrawal3/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2777-find-the-distinct-difference-array](https://github.com/namanagrawal3/LeetCode/tree/master/2777-find-the-distinct-difference-array) |
 | [2833-count-zero-request-servers](https://github.com/namanagrawal3/LeetCode/tree/master/2833-count-zero-request-servers) |
+| [2888-minimum-index-of-a-valid-split](https://github.com/namanagrawal3/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/namanagrawal3/LeetCode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3227-find-missing-and-repeated-values](https://github.com/namanagrawal3/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/namanagrawal3/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
@@ -590,6 +592,7 @@
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/namanagrawal3/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/namanagrawal3/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2833-count-zero-request-servers](https://github.com/namanagrawal3/LeetCode/tree/master/2833-count-zero-request-servers) |
+| [2888-minimum-index-of-a-valid-split](https://github.com/namanagrawal3/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/namanagrawal3/LeetCode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/namanagrawal3/LeetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3291-find-if-array-can-be-sorted](https://github.com/namanagrawal3/LeetCode/tree/master/3291-find-if-array-can-be-sorted) |
