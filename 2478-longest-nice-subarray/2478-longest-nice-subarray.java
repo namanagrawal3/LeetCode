@@ -1,20 +1,21 @@
 class Solution {
     public int longestNiceSubarray(int[] nums) {
         int n = nums.length;
-        int maxLength = 1;
-        int left = 0;
-        int usedBits = 0;
-        
-        for (int right = 0; right < n; right++) {
-            while ((usedBits & nums[right]) != 0) {
-                usedBits ^= nums[left];
-                left++;
+        int maxLen = 1;
+        int mask = 0;
+        int si = 0, ei = 0;
+
+        while (ei < n) {
+            while ((mask & nums[ei]) != 0 && si <= ei) {
+                mask = mask ^ nums[si]; // Way to shrink the window (in bitmanipulation)
+                si++;
             }
-            
-            usedBits |= nums[right];
-            maxLength = Math.max(maxLength, right - left + 1);
+
+            maxLen = Math.max(maxLen, ei-si+1); 
+            mask = mask | nums[ei];    // Used to check the bitwise AND of all pairs is 0
+            ei++;
         }
-        
-        return maxLength;
+
+        return maxLen;
     }
 }
