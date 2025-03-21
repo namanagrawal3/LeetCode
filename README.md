@@ -357,6 +357,7 @@
 | [0091-decode-ways](https://github.com/namanagrawal3/LeetCode/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/namanagrawal3/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/namanagrawal3/LeetCode/tree/master/0127-word-ladder) |
+| [0131-palindrome-partitioning](https://github.com/namanagrawal3/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/namanagrawal3/LeetCode/tree/master/0132-palindrome-partitioning-ii) |
 | [0208-implement-trie-prefix-tree](https://github.com/namanagrawal3/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/namanagrawal3/LeetCode/tree/master/0242-valid-anagram) |
@@ -456,6 +457,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/namanagrawal3/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/namanagrawal3/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/namanagrawal3/LeetCode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0131-palindrome-partitioning](https://github.com/namanagrawal3/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/namanagrawal3/LeetCode/tree/master/0132-palindrome-partitioning-ii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/namanagrawal3/LeetCode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/namanagrawal3/LeetCode/tree/master/0198-house-robber) |
@@ -1182,6 +1184,7 @@
 | [0077-combinations](https://github.com/namanagrawal3/LeetCode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/namanagrawal3/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/namanagrawal3/LeetCode/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/namanagrawal3/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/namanagrawal3/LeetCode/tree/master/0216-combination-sum-iii) |
 | [0494-target-sum](https://github.com/namanagrawal3/LeetCode/tree/master/0494-target-sum) |
 | [0813-all-paths-from-source-to-target](https://github.com/namanagrawal3/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
