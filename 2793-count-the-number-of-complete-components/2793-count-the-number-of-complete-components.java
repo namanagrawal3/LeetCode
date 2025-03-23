@@ -1,64 +1,66 @@
 class Solution {
     int[] parent;
     int[] rank;
-
+    
     public int countCompleteComponents(int n, int[][] edges) {
         parent = new int[n];
         rank = new int[n];
-
         for (int i = 0; i < n; i++) {
             parent[i] = i;
         }
 
-        for (int[] edge : edges) {
-            union(edge[0], edge[1]);
+        for (int[] e : edges) {
+            int u = e[0];
+            int v = e[1];
+            if (find(u) == find(v))
+                continue;
+            union(u, v);
         }
 
-        Map<Integer, Set<Integer>> componentVertices = new HashMap<>();
-        Map<Integer, Integer> componentEdges = new HashMap<>();
+        // Stores no. of edges in a component
+        HashMap<Integer, Integer> edgeMap = new HashMap<>();
+        for (int[] e : edges) {
+            int p = find(e[0]);
+            edgeMap.put(p, edgeMap.getOrDefault(p, 0) + 1);
+        }
 
+        // Stores no. of nodes in a component
+        HashMap<Integer, Integer> nodeMap = new HashMap<>();
         for (int i = 0; i < n; i++) {
-            int root = find(i);
-            componentVertices.computeIfAbsent(root, k -> new HashSet<>()).add(i);
+            int p = find(i);
+            nodeMap.put(p, nodeMap.getOrDefault(p, 0) + 1);
         }
 
-        for (int[] edge : edges) {
-            int root = find(edge[0]);
-            componentEdges.put(root, componentEdges.getOrDefault(root, 0) + 1);
+        int count = 0;
+        for (int p : nodeMap.keySet()) {
+            int nodes = nodeMap.get(p);
+            if (!edgeMap.containsKey(p) && nodes == 1)
+                count++;
+            else if (edgeMap.containsKey(p) && edgeMap.get(p) == (nodes * (nodes-1))/2)
+                count++;
         }
 
-        int completeCount = 0;
-        for (int root : componentVertices.keySet()) {
-            int numVertices = componentVertices.get(root).size();
-            int expectedEdges = numVertices * (numVertices - 1) / 2;
-
-            if (componentEdges.getOrDefault(root, 0) == expectedEdges) {
-                completeCount++;
-            }
-        }
-
-        return completeCount;
+        return count;
     }
+    public int find(int x) {
+        if (x == parent[x])
+            return x;
 
-    int find(int x) {
-        if (parent[x] != x) {
-            parent[x] = find(parent[x]);
-        }
-        return parent[x];
+        return parent[x] = find(parent[x]);
     }
+    public void union(int x, int y) {
+        int px = find(x);
+        int py = find(y);
+        if (px == py)
+            return;
 
-    void union(int x, int y) {
-        int rootX = find(x);
-        int rootY = find(y);
-        if (rootX == rootY) return;
-
-        if (rank[rootX] < rank[rootY]) {
-            parent[rootX] = rootY;
-        } else if (rank[rootX] > rank[rootY]) {
-            parent[rootY] = rootX;
-        } else {
-            parent[rootY] = rootX;
-            rank[rootX]++;
+        if (rank[px] > rank[py])
+            parent[py] = px;
+        else if (rank[px] < rank[py])
+            parent[px] = py;
+        else {
+            parent[py] = px;
+            rank[px]++;
         }
     }
 }
