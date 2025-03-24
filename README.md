@@ -1011,6 +1011,7 @@
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/namanagrawal3/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/namanagrawal3/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/namanagrawal3/LeetCode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
+| [3817-maximum-containers-on-a-ship](https://github.com/namanagrawal3/LeetCode/tree/master/3817-maximum-containers-on-a-ship) |
 ## Combinatorics
 |  |
 | ------- |
