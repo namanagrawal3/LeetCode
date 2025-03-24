@@ -1,41 +1,52 @@
 class Solution {
     public List<String> findAllRecipes(String[] recipes, List<List<String>> ingredients, String[] supplies) {
-         Set<String> availableSupplies = new HashSet<>(Arrays.asList(supplies));
-        Map<String, List<String>> ingredientToRecipes = new HashMap<>();
-        Map<String, Integer> inDegree = new HashMap<>();
-        Map<String, List<String>> recipeToIngredients = new HashMap<>();
+    // Clearly, dependency exists like recipe will be made only when you have ingredients
+    // thus, simply 'Topological Sort' is used
 
-        for (int i = 0; i < recipes.length; i++) {
+        int n = recipes.length;
+        HashSet<String> set = new HashSet<>();
+        for (String recipe: recipes) {
+            set.add(recipe);
+        }
+
+        HashMap<String , List<String>> adjMap = new HashMap<>();
+        HashMap<String , Integer> inDeg = new HashMap<>();
+
+        for (int i = 0; i < n; i++) {
             String recipe = recipes[i];
-            List<String> recipeIngredients = ingredients.get(i);
-            recipeToIngredients.put(recipe, recipeIngredients);
-            inDegree.put(recipe, recipeIngredients.size());
+            for (String ingrd: ingredients.get(i)) {
+                inDeg.put(recipe, inDeg.getOrDefault(recipe, 0) + 1);
 
-            for (String ingredient : recipeIngredients) {
-                ingredientToRecipes.computeIfAbsent(ingredient, k -> new ArrayList<>()).add(recipe);
+                if (!adjMap.containsKey(ingrd))
+                    adjMap.put(ingrd, new ArrayList<>());
+                adjMap.get(ingrd).add(recipe);
             }
         }
 
-        Queue<String> queue = new LinkedList<>(availableSupplies);
-        List<String> result = new ArrayList<>();
+//        System.out.println(adjMap);
+//        System.out.println(inDeg);
 
-        while (!queue.isEmpty()) {
-            String current = queue.poll();
+        List<String> ans = new ArrayList<>();
+        Queue<String> q = new ArrayDeque<>();
+        for (String supply: supplies) {
+            q.add(supply);
+        }
 
-            if (recipeToIngredients.containsKey(current)) {
-                result.add(current);
-            }
+        while (!q.isEmpty()) {
+            String rvIngr = q.poll();
+            if (set.contains(rvIngr))
+                ans.add(rvIngr);
 
-            if (ingredientToRecipes.containsKey(current)) {
-                for (String dependentRecipe : ingredientToRecipes.get(current)) {
-                    inDegree.put(dependentRecipe, inDegree.get(dependentRecipe) - 1);
-                    if (inDegree.get(dependentRecipe) == 0) {
-                        queue.add(dependentRecipe);
-                    }
-                }
+            if (!adjMap.containsKey(rvIngr))
+                continue;
+
+            for (String recipe: adjMap.get(rvIngr)) {
+                inDeg.put(recipe, inDeg.get(recipe) - 1);
+                if (inDeg.get(recipe) == 0)
+                    q.add(recipe);
             }
         }
 
-        return result;
+        return ans;
     }
 }
