@@ -28,6 +28,7 @@
 | [0064-minimum-path-sum](https://github.com/namanagrawal3/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/namanagrawal3/LeetCode/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/namanagrawal3/LeetCode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/namanagrawal3/LeetCode/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/namanagrawal3/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/namanagrawal3/LeetCode/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/namanagrawal3/LeetCode/tree/master/0118-pascals-triangle) |
@@ -355,6 +356,7 @@
 | [0049-group-anagrams](https://github.com/namanagrawal3/LeetCode/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/namanagrawal3/LeetCode/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/namanagrawal3/LeetCode/tree/master/0072-edit-distance) |
+| [0079-word-search](https://github.com/namanagrawal3/LeetCode/tree/master/0079-word-search) |
 | [0087-scramble-string](https://github.com/namanagrawal3/LeetCode/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/namanagrawal3/LeetCode/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/namanagrawal3/LeetCode/tree/master/0115-distinct-subsequences) |
@@ -765,6 +767,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/namanagrawal3/LeetCode/tree/master/0079-word-search) |
 | [0207-course-schedule](https://github.com/namanagrawal3/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/namanagrawal3/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/namanagrawal3/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -1195,6 +1198,7 @@
 | [0047-permutations-ii](https://github.com/namanagrawal3/LeetCode/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/namanagrawal3/LeetCode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/namanagrawal3/LeetCode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/namanagrawal3/LeetCode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/namanagrawal3/LeetCode/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/namanagrawal3/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/namanagrawal3/LeetCode/tree/master/0216-combination-sum-iii) |
@@ -1235,6 +1239,7 @@
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/namanagrawal3/LeetCode/tree/master/0064-minimum-path-sum) |
+| [0079-word-search](https://github.com/namanagrawal3/LeetCode/tree/master/0079-word-search) |
 | [0221-maximal-square](https://github.com/namanagrawal3/LeetCode/tree/master/0221-maximal-square) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/namanagrawal3/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/namanagrawal3/LeetCode/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
