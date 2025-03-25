@@ -7,6 +7,7 @@
 | [0014-longest-common-prefix](https://github.com/namanagrawal3/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0208-implement-trie-prefix-tree](https://github.com/namanagrawal3/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0386-lexicographical-numbers](https://github.com/namanagrawal3/LeetCode/tree/master/0386-lexicographical-numbers) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/namanagrawal3/LeetCode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/namanagrawal3/LeetCode/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [0648-replace-words](https://github.com/namanagrawal3/LeetCode/tree/master/0648-replace-words) |
 | [0676-implement-magic-dictionary](https://github.com/namanagrawal3/LeetCode/tree/master/0676-implement-magic-dictionary) |
@@ -61,6 +62,7 @@
 | [0410-split-array-largest-sum](https://github.com/namanagrawal3/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/namanagrawal3/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0419-battleships-in-a-board](https://github.com/namanagrawal3/LeetCode/tree/master/0419-battleships-in-a-board) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/namanagrawal3/LeetCode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0436-find-right-interval](https://github.com/namanagrawal3/LeetCode/tree/master/0436-find-right-interval) |
 | [0454-4sum-ii](https://github.com/namanagrawal3/LeetCode/tree/master/0454-4sum-ii) |
 | [0455-assign-cookies](https://github.com/namanagrawal3/LeetCode/tree/master/0455-assign-cookies) |
@@ -275,6 +277,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/namanagrawal3/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/namanagrawal3/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/namanagrawal3/LeetCode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/namanagrawal3/LeetCode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0432-all-oone-data-structure](https://github.com/namanagrawal3/LeetCode/tree/master/0432-all-oone-data-structure) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/namanagrawal3/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0454-4sum-ii](https://github.com/namanagrawal3/LeetCode/tree/master/0454-4sum-ii) |
@@ -1121,6 +1124,7 @@
 | [0090-subsets-ii](https://github.com/namanagrawal3/LeetCode/tree/master/0090-subsets-ii) |
 | [0191-number-of-1-bits](https://github.com/namanagrawal3/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/namanagrawal3/LeetCode/tree/master/0231-power-of-two) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/namanagrawal3/LeetCode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0477-total-hamming-distance](https://github.com/namanagrawal3/LeetCode/tree/master/0477-total-hamming-distance) |
 | [1418-fair-distribution-of-cookies](https://github.com/namanagrawal3/LeetCode/tree/master/1418-fair-distribution-of-cookies) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/namanagrawal3/LeetCode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
