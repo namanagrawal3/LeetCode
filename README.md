@@ -262,6 +262,7 @@
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/namanagrawal3/LeetCode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3639-zero-array-transformation-i](https://github.com/namanagrawal3/LeetCode/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/namanagrawal3/LeetCode/tree/master/3643-zero-array-transformation-ii) |
+| [3657-check-if-grid-can-be-cut-into-sections](https://github.com/namanagrawal3/LeetCode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3690-smallest-substring-with-identical-characters-i](https://github.com/namanagrawal3/LeetCode/tree/master/3690-smallest-substring-with-identical-characters-i) |
 | [3809-properties-graph](https://github.com/namanagrawal3/LeetCode/tree/master/3809-properties-graph) |
 ## Hash Table
@@ -631,6 +632,7 @@
 | [3291-find-if-array-can-be-sorted](https://github.com/namanagrawal3/LeetCode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3430-count-days-without-meetings](https://github.com/namanagrawal3/LeetCode/tree/master/3430-count-days-without-meetings) |
 | [3510-maximize-the-total-height-of-unique-towers](https://github.com/namanagrawal3/LeetCode/tree/master/3510-maximize-the-total-height-of-unique-towers) |
+| [3657-check-if-grid-can-be-cut-into-sections](https://github.com/namanagrawal3/LeetCode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Greedy
 |  |
 | ------- |
