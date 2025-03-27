@@ -413,6 +413,7 @@
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/namanagrawal3/LeetCode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/namanagrawal3/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1502-construct-k-palindrome-strings](https://github.com/namanagrawal3/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
+| [1508-longest-happy-prefix](https://github.com/namanagrawal3/LeetCode/tree/master/1508-longest-happy-prefix) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/namanagrawal3/LeetCode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1524-string-matching-in-an-array](https://github.com/namanagrawal3/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/namanagrawal3/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
@@ -1314,6 +1315,7 @@
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/namanagrawal3/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0812-rotate-string](https://github.com/namanagrawal3/LeetCode/tree/master/0812-rotate-string) |
+| [1508-longest-happy-prefix](https://github.com/namanagrawal3/LeetCode/tree/master/1508-longest-happy-prefix) |
 | [1524-string-matching-in-an-array](https://github.com/namanagrawal3/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/namanagrawal3/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/namanagrawal3/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -1362,10 +1364,12 @@
 ## Rolling Hash
 |  |
 | ------- |
+| [1508-longest-happy-prefix](https://github.com/namanagrawal3/LeetCode/tree/master/1508-longest-happy-prefix) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/namanagrawal3/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Hash Function
 |  |
 | ------- |
+| [1508-longest-happy-prefix](https://github.com/namanagrawal3/LeetCode/tree/master/1508-longest-happy-prefix) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/namanagrawal3/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Divide and Conquer
 |  |
