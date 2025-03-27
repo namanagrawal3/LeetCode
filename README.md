@@ -382,6 +382,7 @@
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/namanagrawal3/LeetCode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0399-evaluate-division](https://github.com/namanagrawal3/LeetCode/tree/master/0399-evaluate-division) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/namanagrawal3/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/namanagrawal3/LeetCode/tree/master/0459-repeated-substring-pattern) |
 | [0474-ones-and-zeroes](https://github.com/namanagrawal3/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0516-longest-palindromic-subsequence](https://github.com/namanagrawal3/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/namanagrawal3/LeetCode/tree/master/0524-longest-word-in-dictionary-through-deleting) |
@@ -1314,6 +1315,7 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/namanagrawal3/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/namanagrawal3/LeetCode/tree/master/0459-repeated-substring-pattern) |
 | [0812-rotate-string](https://github.com/namanagrawal3/LeetCode/tree/master/0812-rotate-string) |
 | [1508-longest-happy-prefix](https://github.com/namanagrawal3/LeetCode/tree/master/1508-longest-happy-prefix) |
 | [1524-string-matching-in-an-array](https://github.com/namanagrawal3/LeetCode/tree/master/1524-string-matching-in-an-array) |
