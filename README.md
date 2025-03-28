@@ -392,6 +392,7 @@
 | [0647-palindromic-substrings](https://github.com/namanagrawal3/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0648-replace-words](https://github.com/namanagrawal3/LeetCode/tree/master/0648-replace-words) |
 | [0676-implement-magic-dictionary](https://github.com/namanagrawal3/LeetCode/tree/master/0676-implement-magic-dictionary) |
+| [0686-repeated-string-match](https://github.com/namanagrawal3/LeetCode/tree/master/0686-repeated-string-match) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/namanagrawal3/LeetCode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0720-longest-word-in-dictionary](https://github.com/namanagrawal3/LeetCode/tree/master/0720-longest-word-in-dictionary) |
 | [0726-number-of-atoms](https://github.com/namanagrawal3/LeetCode/tree/master/0726-number-of-atoms) |
@@ -1319,6 +1320,7 @@
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/namanagrawal3/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/namanagrawal3/LeetCode/tree/master/0459-repeated-substring-pattern) |
+| [0686-repeated-string-match](https://github.com/namanagrawal3/LeetCode/tree/master/0686-repeated-string-match) |
 | [0812-rotate-string](https://github.com/namanagrawal3/LeetCode/tree/master/0812-rotate-string) |
 | [1508-longest-happy-prefix](https://github.com/namanagrawal3/LeetCode/tree/master/1508-longest-happy-prefix) |
 | [1524-string-matching-in-an-array](https://github.com/namanagrawal3/LeetCode/tree/master/1524-string-matching-in-an-array) |
