@@ -454,6 +454,7 @@
 | [3195-separate-black-and-white-balls](https://github.com/namanagrawal3/LeetCode/tree/master/3195-separate-black-and-white-balls) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/namanagrawal3/LeetCode/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/namanagrawal3/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [3303-find-beautiful-indices-in-the-given-array-ii](https://github.com/namanagrawal3/LeetCode/tree/master/3303-find-beautiful-indices-in-the-given-array-ii) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/namanagrawal3/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/namanagrawal3/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3447-clear-digits](https://github.com/namanagrawal3/LeetCode/tree/master/3447-clear-digits) |
@@ -586,6 +587,7 @@
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/namanagrawal3/LeetCode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/namanagrawal3/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/namanagrawal3/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [3303-find-beautiful-indices-in-the-given-array-ii](https://github.com/namanagrawal3/LeetCode/tree/master/3303-find-beautiful-indices-in-the-given-array-ii) |
 | [3427-special-array-ii](https://github.com/namanagrawal3/LeetCode/tree/master/3427-special-array-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/namanagrawal3/LeetCode/tree/master/3643-zero-array-transformation-ii) |
 | [3690-smallest-substring-with-identical-characters-i](https://github.com/namanagrawal3/LeetCode/tree/master/3690-smallest-substring-with-identical-characters-i) |
@@ -970,6 +972,7 @@
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/namanagrawal3/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/namanagrawal3/LeetCode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3195-separate-black-and-white-balls](https://github.com/namanagrawal3/LeetCode/tree/master/3195-separate-black-and-white-balls) |
+| [3303-find-beautiful-indices-in-the-given-array-ii](https://github.com/namanagrawal3/LeetCode/tree/master/3303-find-beautiful-indices-in-the-given-array-ii) |
 | [3584-find-the-lexicographically-smallest-valid-sequence](https://github.com/namanagrawal3/LeetCode/tree/master/3584-find-the-lexicographically-smallest-valid-sequence) |
 ## Union Find
 |  |
@@ -1326,6 +1329,7 @@
 | [1524-string-matching-in-an-array](https://github.com/namanagrawal3/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/namanagrawal3/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/namanagrawal3/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
+| [3303-find-beautiful-indices-in-the-given-array-ii](https://github.com/namanagrawal3/LeetCode/tree/master/3303-find-beautiful-indices-in-the-given-array-ii) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/namanagrawal3/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Number Theory
 |  |
@@ -1372,11 +1376,13 @@
 |  |
 | ------- |
 | [1508-longest-happy-prefix](https://github.com/namanagrawal3/LeetCode/tree/master/1508-longest-happy-prefix) |
+| [3303-find-beautiful-indices-in-the-given-array-ii](https://github.com/namanagrawal3/LeetCode/tree/master/3303-find-beautiful-indices-in-the-given-array-ii) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/namanagrawal3/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Hash Function
 |  |
 | ------- |
 | [1508-longest-happy-prefix](https://github.com/namanagrawal3/LeetCode/tree/master/1508-longest-happy-prefix) |
+| [3303-find-beautiful-indices-in-the-given-array-ii](https://github.com/namanagrawal3/LeetCode/tree/master/3303-find-beautiful-indices-in-the-given-array-ii) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/namanagrawal3/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Divide and Conquer
 |  |
