@@ -457,6 +457,7 @@
 | [3235-minimum-cost-to-convert-string-i](https://github.com/namanagrawal3/LeetCode/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/namanagrawal3/LeetCode/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/namanagrawal3/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [3296-minimum-time-to-revert-word-to-initial-state-ii](https://github.com/namanagrawal3/LeetCode/tree/master/3296-minimum-time-to-revert-word-to-initial-state-ii) |
 | [3297-minimum-time-to-revert-word-to-initial-state-i](https://github.com/namanagrawal3/LeetCode/tree/master/3297-minimum-time-to-revert-word-to-initial-state-i) |
 | [3303-find-beautiful-indices-in-the-given-array-ii](https://github.com/namanagrawal3/LeetCode/tree/master/3303-find-beautiful-indices-in-the-given-array-ii) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/namanagrawal3/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -1347,6 +1348,7 @@
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/namanagrawal3/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/namanagrawal3/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/namanagrawal3/LeetCode/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
+| [3296-minimum-time-to-revert-word-to-initial-state-ii](https://github.com/namanagrawal3/LeetCode/tree/master/3296-minimum-time-to-revert-word-to-initial-state-ii) |
 | [3297-minimum-time-to-revert-word-to-initial-state-i](https://github.com/namanagrawal3/LeetCode/tree/master/3297-minimum-time-to-revert-word-to-initial-state-i) |
 | [3303-find-beautiful-indices-in-the-given-array-ii](https://github.com/namanagrawal3/LeetCode/tree/master/3303-find-beautiful-indices-in-the-given-array-ii) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/namanagrawal3/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -1397,6 +1399,7 @@
 | ------- |
 | [1508-longest-happy-prefix](https://github.com/namanagrawal3/LeetCode/tree/master/1508-longest-happy-prefix) |
 | [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/namanagrawal3/LeetCode/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
+| [3296-minimum-time-to-revert-word-to-initial-state-ii](https://github.com/namanagrawal3/LeetCode/tree/master/3296-minimum-time-to-revert-word-to-initial-state-ii) |
 | [3297-minimum-time-to-revert-word-to-initial-state-i](https://github.com/namanagrawal3/LeetCode/tree/master/3297-minimum-time-to-revert-word-to-initial-state-i) |
 | [3303-find-beautiful-indices-in-the-given-array-ii](https://github.com/namanagrawal3/LeetCode/tree/master/3303-find-beautiful-indices-in-the-given-array-ii) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/namanagrawal3/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -1405,6 +1408,7 @@
 | ------- |
 | [1508-longest-happy-prefix](https://github.com/namanagrawal3/LeetCode/tree/master/1508-longest-happy-prefix) |
 | [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/namanagrawal3/LeetCode/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
+| [3296-minimum-time-to-revert-word-to-initial-state-ii](https://github.com/namanagrawal3/LeetCode/tree/master/3296-minimum-time-to-revert-word-to-initial-state-ii) |
 | [3297-minimum-time-to-revert-word-to-initial-state-i](https://github.com/namanagrawal3/LeetCode/tree/master/3297-minimum-time-to-revert-word-to-initial-state-i) |
 | [3303-find-beautiful-indices-in-the-given-array-ii](https://github.com/namanagrawal3/LeetCode/tree/master/3303-find-beautiful-indices-in-the-given-array-ii) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/namanagrawal3/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
