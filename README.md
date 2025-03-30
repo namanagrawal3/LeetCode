@@ -1467,6 +1467,7 @@
 | [0584-find-customer-referee](https://github.com/namanagrawal3/LeetCode/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/namanagrawal3/LeetCode/tree/master/0595-big-countries) |
 | [0596-classes-more-than-5-students](https://github.com/namanagrawal3/LeetCode/tree/master/0596-classes-more-than-5-students) |
+| [0619-biggest-single-number](https://github.com/namanagrawal3/LeetCode/tree/master/0619-biggest-single-number) |
 | [0620-not-boring-movies](https://github.com/namanagrawal3/LeetCode/tree/master/0620-not-boring-movies) |
 | [1135-customers-who-bought-all-products](https://github.com/namanagrawal3/LeetCode/tree/master/1135-customers-who-bought-all-products) |
 | [1153-product-sales-analysis-i](https://github.com/namanagrawal3/LeetCode/tree/master/1153-product-sales-analysis-i) |
