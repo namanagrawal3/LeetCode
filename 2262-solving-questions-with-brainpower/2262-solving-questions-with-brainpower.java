@@ -1,20 +1,17 @@
 class Solution {
     public long mostPoints(int[][] questions) {
-        long[] dp = new long[questions.length];
-        Arrays.fill(dp, -1);
+        int n = questions.length;        
+        long[] dp = new long[n];
+        dp[n-1] = questions[n-1][0];
 
-        return solveFun(questions, 0, dp);
-    }
-    public static long solveFun(int[][] que, int idx, long[] dp) {
-        if (idx >= que.length)
-            return 0;
-
-        if (dp[idx] != -1)
-            return dp[idx];
-
-        long solve = que[idx][0] + solveFun(que, idx + que[idx][1] + 1, dp);
-        long skip = solveFun(que, idx + 1, dp);
-
-        return dp[idx] = Math.max(solve, skip);
+        for (int i = n-2; i >= 0; i--) {
+            int next = i + questions[i][1] + 1;
+            long solve = questions[i][0] + ((next < n) ? dp[next] : 0);
+            long skip = dp[i+1];
+            
+            dp[i] = Math.max(solve, skip);
+        }
+        
+        return dp[0];
     }
 }
