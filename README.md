@@ -164,6 +164,7 @@
 | [1927-maximum-ascending-subarray-sum](https://github.com/namanagrawal3/LeetCode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1963-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/namanagrawal3/LeetCode/tree/master/1963-find-xor-sum-of-all-pairs-bitwise-and) |
 | [1972-rotating-the-box](https://github.com/namanagrawal3/LeetCode/tree/master/1972-rotating-the-box) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/namanagrawal3/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/namanagrawal3/LeetCode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2066-add-minimum-number-of-rungs](https://github.com/namanagrawal3/LeetCode/tree/master/2066-add-minimum-number-of-rungs) |
 | [2089-maximum-matrix-sum](https://github.com/namanagrawal3/LeetCode/tree/master/2089-maximum-matrix-sum) |
@@ -1050,6 +1051,7 @@
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/namanagrawal3/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/namanagrawal3/LeetCode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1963-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/namanagrawal3/LeetCode/tree/master/1963-find-xor-sum-of-all-pairs-bitwise-and) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/namanagrawal3/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2031-egg-drop-with-2-eggs-and-n-floors](https://github.com/namanagrawal3/LeetCode/tree/master/2031-egg-drop-with-2-eggs-and-n-floors) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/namanagrawal3/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2206-detonate-the-maximum-bombs](https://github.com/namanagrawal3/LeetCode/tree/master/2206-detonate-the-maximum-bombs) |
@@ -1071,6 +1073,7 @@
 ## Combinatorics
 |  |
 | ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/namanagrawal3/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2605-count-anagrams](https://github.com/namanagrawal3/LeetCode/tree/master/2605-count-anagrams) |
 ## Linked List
 |  |
@@ -1185,6 +1188,7 @@
 | [1723-maximum-number-of-achievable-transfer-requests](https://github.com/namanagrawal3/LeetCode/tree/master/1723-maximum-number-of-achievable-transfer-requests) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/namanagrawal3/LeetCode/tree/master/1826-maximum-xor-with-an-element-from-array) |
 | [1963-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/namanagrawal3/LeetCode/tree/master/1963-find-xor-sum-of-all-pairs-bitwise-and) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/namanagrawal3/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/namanagrawal3/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/namanagrawal3/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2308-divide-array-into-equal-pairs](https://github.com/namanagrawal3/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
@@ -1291,6 +1295,7 @@
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/namanagrawal3/LeetCode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1723-maximum-number-of-achievable-transfer-requests](https://github.com/namanagrawal3/LeetCode/tree/master/1723-maximum-number-of-achievable-transfer-requests) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/namanagrawal3/LeetCode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/namanagrawal3/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2107-find-unique-binary-string](https://github.com/namanagrawal3/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/namanagrawal3/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/namanagrawal3/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
@@ -1299,6 +1304,7 @@
 |  |
 | ------- |
 | [1723-maximum-number-of-achievable-transfer-requests](https://github.com/namanagrawal3/LeetCode/tree/master/1723-maximum-number-of-achievable-transfer-requests) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/namanagrawal3/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/namanagrawal3/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [3690-smallest-substring-with-identical-characters-i](https://github.com/namanagrawal3/LeetCode/tree/master/3690-smallest-substring-with-identical-characters-i) |
 ## Shortest Path
