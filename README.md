@@ -823,6 +823,7 @@
 ## Tree
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/namanagrawal3/LeetCode/tree/master/0112-path-sum) |
 | [0508-most-frequent-subtree-sum](https://github.com/namanagrawal3/LeetCode/tree/master/0508-most-frequent-subtree-sum) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/namanagrawal3/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0654-maximum-binary-tree](https://github.com/namanagrawal3/LeetCode/tree/master/0654-maximum-binary-tree) |
@@ -850,6 +851,7 @@
 |  |
 | ------- |
 | [0079-word-search](https://github.com/namanagrawal3/LeetCode/tree/master/0079-word-search) |
+| [0112-path-sum](https://github.com/namanagrawal3/LeetCode/tree/master/0112-path-sum) |
 | [0207-course-schedule](https://github.com/namanagrawal3/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/namanagrawal3/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/namanagrawal3/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -901,6 +903,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/namanagrawal3/LeetCode/tree/master/0112-path-sum) |
 | [0127-word-ladder](https://github.com/namanagrawal3/LeetCode/tree/master/0127-word-ladder) |
 | [0207-course-schedule](https://github.com/namanagrawal3/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/namanagrawal3/LeetCode/tree/master/0210-course-schedule-ii) |
@@ -958,6 +961,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/namanagrawal3/LeetCode/tree/master/0112-path-sum) |
 | [0508-most-frequent-subtree-sum](https://github.com/namanagrawal3/LeetCode/tree/master/0508-most-frequent-subtree-sum) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/namanagrawal3/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0654-maximum-binary-tree](https://github.com/namanagrawal3/LeetCode/tree/master/0654-maximum-binary-tree) |
