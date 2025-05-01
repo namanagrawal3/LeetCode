@@ -122,6 +122,7 @@
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/namanagrawal3/LeetCode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/namanagrawal3/LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1222-remove-covered-intervals](https://github.com/namanagrawal3/LeetCode/tree/master/1222-remove-covered-intervals) |
+| [1224-minimum-falling-path-sum-ii](https://github.com/namanagrawal3/LeetCode/tree/master/1224-minimum-falling-path-sum-ii) |
 | [1242-matrix-block-sum](https://github.com/namanagrawal3/LeetCode/tree/master/1242-matrix-block-sum) |
 | [1249-snapshot-array](https://github.com/namanagrawal3/LeetCode/tree/master/1249-snapshot-array) |
 | [1256-rank-transform-of-an-array](https://github.com/namanagrawal3/LeetCode/tree/master/1256-rank-transform-of-an-array) |
@@ -572,6 +573,7 @@
 | [1063-best-sightseeing-pair](https://github.com/namanagrawal3/LeetCode/tree/master/1063-best-sightseeing-pair) |
 | [1105-uncrossed-lines](https://github.com/namanagrawal3/LeetCode/tree/master/1105-uncrossed-lines) |
 | [1170-shortest-common-supersequence](https://github.com/namanagrawal3/LeetCode/tree/master/1170-shortest-common-supersequence) |
+| [1224-minimum-falling-path-sum-ii](https://github.com/namanagrawal3/LeetCode/tree/master/1224-minimum-falling-path-sum-ii) |
 | [1236-n-th-tribonacci-number](https://github.com/namanagrawal3/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/namanagrawal3/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1288-maximum-subarray-sum-with-one-deletion](https://github.com/namanagrawal3/LeetCode/tree/master/1288-maximum-subarray-sum-with-one-deletion) |
@@ -1434,6 +1436,7 @@
 | [1145-number-of-submatrices-that-sum-to-target](https://github.com/namanagrawal3/LeetCode/tree/master/1145-number-of-submatrices-that-sum-to-target) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/namanagrawal3/LeetCode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/namanagrawal3/LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1224-minimum-falling-path-sum-ii](https://github.com/namanagrawal3/LeetCode/tree/master/1224-minimum-falling-path-sum-ii) |
 | [1242-matrix-block-sum](https://github.com/namanagrawal3/LeetCode/tree/master/1242-matrix-block-sum) |
 | [1396-count-servers-that-communicate](https://github.com/namanagrawal3/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/namanagrawal3/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
