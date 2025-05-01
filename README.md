@@ -176,6 +176,7 @@
 | [2066-add-minimum-number-of-rungs](https://github.com/namanagrawal3/LeetCode/tree/master/2066-add-minimum-number-of-rungs) |
 | [2089-maximum-matrix-sum](https://github.com/namanagrawal3/LeetCode/tree/master/2089-maximum-matrix-sum) |
 | [2102-find-the-middle-index-in-array](https://github.com/namanagrawal3/LeetCode/tree/master/2102-find-the-middle-index-in-array) |
+| [2104-operations-on-tree](https://github.com/namanagrawal3/LeetCode/tree/master/2104-operations-on-tree) |
 | [2107-find-unique-binary-string](https://github.com/namanagrawal3/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/namanagrawal3/LeetCode/tree/master/2123-the-number-of-weak-characters-in-the-game) |
 | [2138-sum-of-beauty-in-the-array](https://github.com/namanagrawal3/LeetCode/tree/master/2138-sum-of-beauty-in-the-array) |
@@ -351,6 +352,7 @@
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/namanagrawal3/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/namanagrawal3/LeetCode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/namanagrawal3/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2104-operations-on-tree](https://github.com/namanagrawal3/LeetCode/tree/master/2104-operations-on-tree) |
 | [2107-find-unique-binary-string](https://github.com/namanagrawal3/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/namanagrawal3/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2300-construct-string-with-repeat-limit](https://github.com/namanagrawal3/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
@@ -855,6 +857,7 @@
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/namanagrawal3/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/namanagrawal3/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/namanagrawal3/LeetCode/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
+| [2104-operations-on-tree](https://github.com/namanagrawal3/LeetCode/tree/master/2104-operations-on-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/namanagrawal3/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/namanagrawal3/LeetCode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/namanagrawal3/LeetCode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
@@ -903,6 +906,7 @@
 | [1558-course-schedule-iv](https://github.com/namanagrawal3/LeetCode/tree/master/1558-course-schedule-iv) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/namanagrawal3/LeetCode/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1753-path-with-minimum-effort](https://github.com/namanagrawal3/LeetCode/tree/master/1753-path-with-minimum-effort) |
+| [2104-operations-on-tree](https://github.com/namanagrawal3/LeetCode/tree/master/2104-operations-on-tree) |
 | [2201-valid-arrangement-of-pairs](https://github.com/namanagrawal3/LeetCode/tree/master/2201-valid-arrangement-of-pairs) |
 | [2206-detonate-the-maximum-bombs](https://github.com/namanagrawal3/LeetCode/tree/master/2206-detonate-the-maximum-bombs) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/namanagrawal3/LeetCode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
@@ -958,6 +962,7 @@
 | [1663-detect-cycles-in-2d-grid](https://github.com/namanagrawal3/LeetCode/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1753-path-with-minimum-effort](https://github.com/namanagrawal3/LeetCode/tree/master/1753-path-with-minimum-effort) |
 | [1876-map-of-highest-peak](https://github.com/namanagrawal3/LeetCode/tree/master/1876-map-of-highest-peak) |
+| [2104-operations-on-tree](https://github.com/namanagrawal3/LeetCode/tree/master/2104-operations-on-tree) |
 | [2206-detonate-the-maximum-bombs](https://github.com/namanagrawal3/LeetCode/tree/master/2206-detonate-the-maximum-bombs) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/namanagrawal3/LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/namanagrawal3/LeetCode/tree/master/2409-number-of-increasing-paths-in-a-grid) |
@@ -1016,6 +1021,7 @@
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/namanagrawal3/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/namanagrawal3/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/namanagrawal3/LeetCode/tree/master/1497-design-a-stack-with-increment-operation) |
+| [2104-operations-on-tree](https://github.com/namanagrawal3/LeetCode/tree/master/2104-operations-on-tree) |
 | [2434-design-a-number-container-system](https://github.com/namanagrawal3/LeetCode/tree/master/2434-design-a-number-container-system) |
 ## Segment Tree
 |  |
