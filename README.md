@@ -114,6 +114,7 @@
 | [1025-minimum-cost-for-tickets](https://github.com/namanagrawal3/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
 | [1031-add-to-array-form-of-integer](https://github.com/namanagrawal3/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
 | [1036-rotting-oranges](https://github.com/namanagrawal3/LeetCode/tree/master/1036-rotting-oranges) |
+| [1049-minimum-domino-rotations-for-equal-row](https://github.com/namanagrawal3/LeetCode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/namanagrawal3/LeetCode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/namanagrawal3/LeetCode/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1063-best-sightseeing-pair](https://github.com/namanagrawal3/LeetCode/tree/master/1063-best-sightseeing-pair) |
@@ -731,6 +732,7 @@
 | [0797-rabbits-in-forest](https://github.com/namanagrawal3/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0890-lemonade-change](https://github.com/namanagrawal3/LeetCode/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/namanagrawal3/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1049-minimum-domino-rotations-for-equal-row](https://github.com/namanagrawal3/LeetCode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/namanagrawal3/LeetCode/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1304-longest-happy-string](https://github.com/namanagrawal3/LeetCode/tree/master/1304-longest-happy-string) |
 | [1346-maximize-the-topmost-element-after-k-moves](https://github.com/namanagrawal3/LeetCode/tree/master/1346-maximize-the-topmost-element-after-k-moves) |
