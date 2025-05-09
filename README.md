@@ -517,6 +517,7 @@
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/namanagrawal3/LeetCode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3570-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/namanagrawal3/LeetCode/tree/master/3570-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
 | [3584-find-the-lexicographically-smallest-valid-sequence](https://github.com/namanagrawal3/LeetCode/tree/master/3584-find-the-lexicographically-smallest-valid-sequence) |
+| [3637-count-number-of-balanced-permutations](https://github.com/namanagrawal3/LeetCode/tree/master/3637-count-number-of-balanced-permutations) |
 | [3706-smallest-substring-with-identical-characters-ii](https://github.com/namanagrawal3/LeetCode/tree/master/3706-smallest-substring-with-identical-characters-ii) |
 ## Dynamic Programming
 |  |
@@ -609,6 +610,7 @@
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/namanagrawal3/LeetCode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/namanagrawal3/LeetCode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3584-find-the-lexicographically-smallest-valid-sequence](https://github.com/namanagrawal3/LeetCode/tree/master/3584-find-the-lexicographically-smallest-valid-sequence) |
+| [3637-count-number-of-balanced-permutations](https://github.com/namanagrawal3/LeetCode/tree/master/3637-count-number-of-balanced-permutations) |
 ## Binary Search
 |  |
 | ------- |
@@ -1169,6 +1171,7 @@
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/namanagrawal3/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/namanagrawal3/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/namanagrawal3/LeetCode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
+| [3637-count-number-of-balanced-permutations](https://github.com/namanagrawal3/LeetCode/tree/master/3637-count-number-of-balanced-permutations) |
 | [3817-maximum-containers-on-a-ship](https://github.com/namanagrawal3/LeetCode/tree/master/3817-maximum-containers-on-a-ship) |
 ## Combinatorics
 |  |
@@ -1177,6 +1180,7 @@
 | [2415-count-the-number-of-ideal-arrays](https://github.com/namanagrawal3/LeetCode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2605-count-anagrams](https://github.com/namanagrawal3/LeetCode/tree/master/2605-count-anagrams) |
 | [3548-find-the-count-of-good-integers](https://github.com/namanagrawal3/LeetCode/tree/master/3548-find-the-count-of-good-integers) |
+| [3637-count-number-of-balanced-permutations](https://github.com/namanagrawal3/LeetCode/tree/master/3637-count-number-of-balanced-permutations) |
 ## Linked List
 |  |
 | ------- |
