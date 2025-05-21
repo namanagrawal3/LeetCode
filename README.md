@@ -30,6 +30,7 @@
 | [0049-group-anagrams](https://github.com/namanagrawal3/LeetCode/tree/master/0049-group-anagrams) |
 | [0064-minimum-path-sum](https://github.com/namanagrawal3/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/namanagrawal3/LeetCode/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/namanagrawal3/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/namanagrawal3/LeetCode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/namanagrawal3/LeetCode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/namanagrawal3/LeetCode/tree/master/0079-word-search) |
@@ -311,6 +312,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/namanagrawal3/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/namanagrawal3/LeetCode/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/namanagrawal3/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0127-word-ladder](https://github.com/namanagrawal3/LeetCode/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/namanagrawal3/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/namanagrawal3/LeetCode/tree/master/0169-majority-element) |
@@ -1478,6 +1480,7 @@
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/namanagrawal3/LeetCode/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/namanagrawal3/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/namanagrawal3/LeetCode/tree/master/0079-word-search) |
 | [0221-maximal-square](https://github.com/namanagrawal3/LeetCode/tree/master/0221-maximal-square) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/namanagrawal3/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
