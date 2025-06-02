@@ -108,6 +108,7 @@
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/namanagrawal3/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/namanagrawal3/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0926-find-and-replace-pattern](https://github.com/namanagrawal3/LeetCode/tree/master/0926-find-and-replace-pattern) |
+| [0945-snakes-and-ladders](https://github.com/namanagrawal3/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [0951-partition-array-into-disjoint-intervals](https://github.com/namanagrawal3/LeetCode/tree/master/0951-partition-array-into-disjoint-intervals) |
 | [0952-word-subsets](https://github.com/namanagrawal3/LeetCode/tree/master/0952-word-subsets) |
 | [0954-maximum-sum-circular-subarray](https://github.com/namanagrawal3/LeetCode/tree/master/0954-maximum-sum-circular-subarray) |
@@ -1026,6 +1027,7 @@
 | [0820-find-eventual-safe-states](https://github.com/namanagrawal3/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [0833-bus-routes](https://github.com/namanagrawal3/LeetCode/tree/master/0833-bus-routes) |
 | [0854-making-a-large-island](https://github.com/namanagrawal3/LeetCode/tree/master/0854-making-a-large-island) |
+| [0945-snakes-and-ladders](https://github.com/namanagrawal3/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/namanagrawal3/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/namanagrawal3/LeetCode/tree/master/1036-rotting-oranges) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/namanagrawal3/LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
@@ -1526,6 +1528,7 @@
 | [0787-sliding-puzzle](https://github.com/namanagrawal3/LeetCode/tree/master/0787-sliding-puzzle) |
 | [0794-swim-in-rising-water](https://github.com/namanagrawal3/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0854-making-a-large-island](https://github.com/namanagrawal3/LeetCode/tree/master/0854-making-a-large-island) |
+| [0945-snakes-and-ladders](https://github.com/namanagrawal3/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [0967-minimum-falling-path-sum](https://github.com/namanagrawal3/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/namanagrawal3/LeetCode/tree/master/1036-rotting-oranges) |
 | [1145-number-of-submatrices-that-sum-to-target](https://github.com/namanagrawal3/LeetCode/tree/master/1145-number-of-submatrices-that-sum-to-target) |
