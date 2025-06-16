@@ -193,6 +193,7 @@
 | [2107-find-unique-binary-string](https://github.com/namanagrawal3/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/namanagrawal3/LeetCode/tree/master/2123-the-number-of-weak-characters-in-the-game) |
 | [2138-sum-of-beauty-in-the-array](https://github.com/namanagrawal3/LeetCode/tree/master/2138-sum-of-beauty-in-the-array) |
+| [2144-maximum-difference-between-increasing-elements](https://github.com/namanagrawal3/LeetCode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2145-grid-game](https://github.com/namanagrawal3/LeetCode/tree/master/2145-grid-game) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/namanagrawal3/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2164-two-best-non-overlapping-events](https://github.com/namanagrawal3/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
