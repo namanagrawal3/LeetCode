@@ -9,7 +9,7 @@ class Solution {
             map.put(ch, map.getOrDefault(ch, 0) + 1);
         }
 
-        String ans = "";
+        int st = -1;
         int minLen = Integer.MAX_VALUE;
         int si = 0, ei = 0;
         int count = map.size();
@@ -25,7 +25,7 @@ class Solution {
             while (count == 0 && si <= ei) {
                 if ((ei-si+1) < minLen) {
                     minLen = ei-si+1;
-                    ans = s.substring(si, ei+1);
+                    st = si;
                 }
 
                 char sch = s.charAt(si);
@@ -40,6 +40,8 @@ class Solution {
             ei++;
         }
 
-        return ans;
+        if (st == -1)
+            return "";
+        return s.substring(st, st + minLen);
     }
 }
