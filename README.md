@@ -202,6 +202,7 @@
 | [2179-most-beautiful-item-for-each-query](https://github.com/namanagrawal3/LeetCode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/namanagrawal3/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/namanagrawal3/LeetCode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
+| [2199-two-furthest-houses-with-different-colors](https://github.com/namanagrawal3/LeetCode/tree/master/2199-two-furthest-houses-with-different-colors) |
 | [2206-detonate-the-maximum-bombs](https://github.com/namanagrawal3/LeetCode/tree/master/2206-detonate-the-maximum-bombs) |
 | [2215-finding-3-digit-even-numbers](https://github.com/namanagrawal3/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/namanagrawal3/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -808,6 +809,7 @@
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/namanagrawal3/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/namanagrawal3/LeetCode/tree/master/2123-the-number-of-weak-characters-in-the-game) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/namanagrawal3/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [2199-two-furthest-houses-with-different-colors](https://github.com/namanagrawal3/LeetCode/tree/master/2199-two-furthest-houses-with-different-colors) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/namanagrawal3/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/namanagrawal3/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2300-construct-string-with-repeat-limit](https://github.com/namanagrawal3/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
