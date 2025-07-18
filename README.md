@@ -322,6 +322,7 @@
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/namanagrawal3/LeetCode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3690-smallest-substring-with-identical-characters-i](https://github.com/namanagrawal3/LeetCode/tree/master/3690-smallest-substring-with-identical-characters-i) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/namanagrawal3/LeetCode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
+| [3776-find-minimum-cost-to-remove-array-elements](https://github.com/namanagrawal3/LeetCode/tree/master/3776-find-minimum-cost-to-remove-array-elements) |
 | [3809-properties-graph](https://github.com/namanagrawal3/LeetCode/tree/master/3809-properties-graph) |
 ## Hash Table
 |  |
@@ -670,6 +671,7 @@
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/namanagrawal3/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/namanagrawal3/LeetCode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/namanagrawal3/LeetCode/tree/master/3637-count-number-of-balanced-permutations) |
+| [3776-find-minimum-cost-to-remove-array-elements](https://github.com/namanagrawal3/LeetCode/tree/master/3776-find-minimum-cost-to-remove-array-elements) |
 ## Binary Search
 |  |
 | ------- |
