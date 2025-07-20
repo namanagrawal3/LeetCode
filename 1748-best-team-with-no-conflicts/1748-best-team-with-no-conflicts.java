@@ -25,21 +25,21 @@ class Solution {
             }
         });
 
-        int[][] dp = new int[n][n];
-        return maxFun(arr, 0, -1, dp);
-    }
-    public int maxFun(Player[] arr, int idx, int prev, int[][] dp) {
-        if (idx == arr.length)
-            return 0;
+        int[] dp = new int[n];          // 'dp[i]' denotes the max-score upto index 'i'
+        for (int i = 0; i < n; i++) {
+            dp[i] = arr[i].score;
+        }
 
-        if (dp[idx][prev+1] != 0)
-            return dp[idx][prev+1];
+        int maxScore = dp[0];
+        for (int i = 1; i < n; i++) {
+            for (int j = 0; j < i; j++) {
+                if (arr[j].score <= arr[i].score)
+                    dp[i] = Math.max(dp[i], dp[j]+arr[i].score);
 
-        int take = 0, not_take = 0;
-        if (prev == -1 || arr[idx].score >= arr[prev].score)
-            take = arr[idx].score + maxFun(arr, idx+1, idx, dp);
-        not_take = maxFun(arr, idx+1, prev, dp);
+                maxScore = Math.max(maxScore, dp[i]);
+            }
+        }
 
-        return dp[idx][prev+1] = Math.max(take, not_take);
+        return maxScore;   
     }
 }
