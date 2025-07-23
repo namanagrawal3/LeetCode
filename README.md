@@ -53,6 +53,7 @@
 | [0221-maximal-square](https://github.com/namanagrawal3/LeetCode/tree/master/0221-maximal-square) |
 | [0229-majority-element-ii](https://github.com/namanagrawal3/LeetCode/tree/master/0229-majority-element-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/namanagrawal3/LeetCode/tree/master/0300-longest-increasing-subsequence) |
+| [0307-range-sum-query-mutable](https://github.com/namanagrawal3/LeetCode/tree/master/0307-range-sum-query-mutable) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/namanagrawal3/LeetCode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/namanagrawal3/LeetCode/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/namanagrawal3/LeetCode/tree/master/0322-coin-change) |
@@ -1147,6 +1148,7 @@
 | [0208-implement-trie-prefix-tree](https://github.com/namanagrawal3/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0225-implement-stack-using-queues](https://github.com/namanagrawal3/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/namanagrawal3/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+| [0307-range-sum-query-mutable](https://github.com/namanagrawal3/LeetCode/tree/master/0307-range-sum-query-mutable) |
 | [0432-all-oone-data-structure](https://github.com/namanagrawal3/LeetCode/tree/master/0432-all-oone-data-structure) |
 | [0676-implement-magic-dictionary](https://github.com/namanagrawal3/LeetCode/tree/master/0676-implement-magic-dictionary) |
 | [0729-my-calendar-i](https://github.com/namanagrawal3/LeetCode/tree/master/0729-my-calendar-i) |
@@ -1160,6 +1162,7 @@
 ## Segment Tree
 |  |
 | ------- |
+| [0307-range-sum-query-mutable](https://github.com/namanagrawal3/LeetCode/tree/master/0307-range-sum-query-mutable) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/namanagrawal3/LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0729-my-calendar-i](https://github.com/namanagrawal3/LeetCode/tree/master/0729-my-calendar-i) |
 | [2280-count-good-triplets-in-an-array](https://github.com/namanagrawal3/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
@@ -1673,6 +1676,7 @@
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [0307-range-sum-query-mutable](https://github.com/namanagrawal3/LeetCode/tree/master/0307-range-sum-query-mutable) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/namanagrawal3/LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [2280-count-good-triplets-in-an-array](https://github.com/namanagrawal3/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/namanagrawal3/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
