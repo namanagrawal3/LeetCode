@@ -216,6 +216,7 @@
 | [2232-adding-spaces-to-a-string](https://github.com/namanagrawal3/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/namanagrawal3/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2249-count-the-hidden-sequences](https://github.com/namanagrawal3/LeetCode/tree/master/2249-count-the-hidden-sequences) |
+| [2250-k-highest-ranked-items-within-a-price-range](https://github.com/namanagrawal3/LeetCode/tree/master/2250-k-highest-ranked-items-within-a-price-range) |
 | [2261-all-divisions-with-the-highest-score-of-a-binary-array](https://github.com/namanagrawal3/LeetCode/tree/master/2261-all-divisions-with-the-highest-score-of-a-binary-array) |
 | [2262-solving-questions-with-brainpower](https://github.com/namanagrawal3/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/namanagrawal3/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -774,6 +775,7 @@
 | [2179-most-beautiful-item-for-each-query](https://github.com/namanagrawal3/LeetCode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/namanagrawal3/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2215-finding-3-digit-even-numbers](https://github.com/namanagrawal3/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
+| [2250-k-highest-ranked-items-within-a-price-range](https://github.com/namanagrawal3/LeetCode/tree/master/2250-k-highest-ranked-items-within-a-price-range) |
 | [2331-intersection-of-multiple-arrays](https://github.com/namanagrawal3/LeetCode/tree/master/2331-intersection-of-multiple-arrays) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/namanagrawal3/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/namanagrawal3/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -913,6 +915,7 @@
 | [1917-maximum-average-pass-ratio](https://github.com/namanagrawal3/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/namanagrawal3/LeetCode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2164-two-best-non-overlapping-events](https://github.com/namanagrawal3/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
+| [2250-k-highest-ranked-items-within-a-price-range](https://github.com/namanagrawal3/LeetCode/tree/master/2250-k-highest-ranked-items-within-a-price-range) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/namanagrawal3/LeetCode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2300-construct-string-with-repeat-limit](https://github.com/namanagrawal3/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/namanagrawal3/LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
@@ -1098,6 +1101,7 @@
 | [1876-map-of-highest-peak](https://github.com/namanagrawal3/LeetCode/tree/master/1876-map-of-highest-peak) |
 | [2104-operations-on-tree](https://github.com/namanagrawal3/LeetCode/tree/master/2104-operations-on-tree) |
 | [2206-detonate-the-maximum-bombs](https://github.com/namanagrawal3/LeetCode/tree/master/2206-detonate-the-maximum-bombs) |
+| [2250-k-highest-ranked-items-within-a-price-range](https://github.com/namanagrawal3/LeetCode/tree/master/2250-k-highest-ranked-items-within-a-price-range) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/namanagrawal3/LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/namanagrawal3/LeetCode/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2439-longest-cycle-in-a-graph](https://github.com/namanagrawal3/LeetCode/tree/master/2439-longest-cycle-in-a-graph) |
@@ -1613,6 +1617,7 @@
 | [2089-maximum-matrix-sum](https://github.com/namanagrawal3/LeetCode/tree/master/2089-maximum-matrix-sum) |
 | [2145-grid-game](https://github.com/namanagrawal3/LeetCode/tree/master/2145-grid-game) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/namanagrawal3/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2250-k-highest-ranked-items-within-a-price-range](https://github.com/namanagrawal3/LeetCode/tree/master/2250-k-highest-ranked-items-within-a-price-range) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/namanagrawal3/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/namanagrawal3/LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/namanagrawal3/LeetCode/tree/master/2409-number-of-increasing-paths-in-a-grid) |
