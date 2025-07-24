@@ -1,6 +1,6 @@
 class Solution {
     public int findMinimumTime(int[][] tasks) {
-    // We will try to perform the tasks at the overlapping of intervals
+    // We will try to perform the tasks as late as possible (at the overlapping of intervals)
 
         // Sort on the basis of end so that end of task(i) 
         // can help us in overlapping with start of task(i+1)
