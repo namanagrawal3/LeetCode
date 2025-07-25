@@ -17,7 +17,7 @@ class Solution {
             }
             else if (ladders > 0) {
                 if (!pq.isEmpty()) {
-                    if (pq.peek() > diff) {
+                    if (pq.peek() > diff) {   // Replace previously largest brick usage with ladder
                         bricks += pq.poll();
                         bricks -= diff;
                         pq.add(diff);
