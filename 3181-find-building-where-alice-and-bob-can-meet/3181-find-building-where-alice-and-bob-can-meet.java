@@ -1,62 +1,75 @@
 class Solution {
     public int[] leftmostBuildingQueries(int[] heights, int[][] queries) {
+    // Variation of Min/Max Idx Range using Binary Search (Segment Tree)
         int n = heights.length;
-        int[][] st = new int[n][20];
-        int[] Log = new int[n + 1];
-        Log[0] = -1;
+        int q = queries.length;
+        int[] ans = new int[q];
         
-        for (int i = 1; i <= n; i++) {
-            Log[i] = Log[i >> 1] + 1;
-        }
+        int[] segTree = new int[4*n];
+        buildSegmentTree(heights, 0, 0, n-1, segTree);
 
-        for (int i = 0; i < n; i++) {
-            st[i][0] = heights[i];
-        }
+        for (int i = 0; i < q; i++) {
+            int alicePos = queries[i][0];
+            int bobPos = queries[i][1];
+            int minIdx = Math.min(alicePos, bobPos);
+            int maxIdx = Math.max(alicePos, bobPos);
 
-        for (int i = 1; i < 20; i++) {
-            for (int j = 0; j + (1 << i) <= n; j++) {
-                st[j][i] = Math.max(st[j][i - 1], st[j + (1 << (i - 1))][i - 1]);
-            }
-        }
+            if (minIdx == maxIdx)
+                ans[i] = minIdx;
+            else if (heights[minIdx] < heights[maxIdx])
+                ans[i] = maxIdx;
+            else {
+                int l = maxIdx+1;
+                int r = n-1;
+                int res = n;
 
-        int[] res = new int[queries.length];
-        
-        for (int i = 0; i < queries.length; i++) {
-            int l = queries[i][0], r = queries[i][1];
-            if (l > r) {
-                int temp = l;
-                l = r;
-                r = temp;
-            }
-
-            if (l == r) {
-                res[i] = l;
-                continue;
-            }
-
-            if (heights[r] > heights[l]) {
-                res[i] = r;
-                continue;
-            }
-
-            int maxHeight = Math.max(heights[l], heights[r]);
-            int left = r + 1, right = n, mid;
-
-            while (left < right) {
-                mid = (left + right) / 2;
-                int k = Log[mid - r + 1];
-                int maxInRange = Math.max(st[r][k], st[mid - (1 << k) + 1][k]);
-
-                if (maxInRange > maxHeight) {
-                    right = mid;
-                } else {
-                    left = mid + 1;
+                while (l <= r) {
+                    int mid = l + (r-l)/2;
+                    int idx = rangeMax(l, mid, 0, 0, n-1, heights, segTree);
+                    if (heights[idx] > heights[minIdx] && heights[idx] > heights[maxIdx]) {
+                        res = Math.min(res, idx);
+                        r = mid - 1;
+                    }
+                    else
+                        l = mid + 1;
                 }
-            }
 
-            res[i] = (left == n) ? -1 : left;
+                ans[i] = (res == n) ? -1 : res;
+            }
         }
 
-        return res;
+        return ans;
+    }
+    public void buildSegmentTree(int[] heights, int i, int l, int r, int[] segTree) {
+        if (l == r) {
+            segTree[i] = l;
+            return;
+        }
+
+        int mid = (l + r)/2;
+        buildSegmentTree(heights, 2*i + 1, l, mid, segTree);
+        buildSegmentTree(heights, 2*i + 2, mid+1, r, segTree);
+
+        if (heights[segTree[2*i + 1]] > heights[segTree[2*i + 2]])
+            segTree[i] = segTree[2*i + 1];
+        else
+            segTree[i] = segTree[2*i + 2];
+    }
+    public int rangeMax(int start, int end, int i, int l, int r, int[] heights, int[] segTree) {
+        if (end < l || start > r)
+            return -1;
+        if (l >= start && r <= end)
+            return segTree[i];
+
+        int mid = (l + r)/2;
+        int leftIdx = rangeMax(start, end, 2*i + 1, l, mid, heights, segTree);
+        int rightIdx = rangeMax(start, end, 2*i + 2, mid+1, r, heights, segTree);
+
+        if (leftIdx == -1)
+            return rightIdx;
+        if (rightIdx == -1)
+            return leftIdx;
+
+        return (heights[leftIdx] > heights[rightIdx]) ? leftIdx : rightIdx;
     }
 }
