@@ -311,6 +311,7 @@
 | [3429-special-array-i](https://github.com/namanagrawal3/LeetCode/tree/master/3429-special-array-i) |
 | [3430-count-days-without-meetings](https://github.com/namanagrawal3/LeetCode/tree/master/3430-count-days-without-meetings) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/namanagrawal3/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3438-peaks-in-array](https://github.com/namanagrawal3/LeetCode/tree/master/3438-peaks-in-array) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/namanagrawal3/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/namanagrawal3/LeetCode/tree/master/3483-alternating-groups-ii) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/namanagrawal3/LeetCode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
@@ -1186,6 +1187,7 @@
 | [0729-my-calendar-i](https://github.com/namanagrawal3/LeetCode/tree/master/0729-my-calendar-i) |
 | [2280-count-good-triplets-in-an-array](https://github.com/namanagrawal3/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/namanagrawal3/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+| [3438-peaks-in-array](https://github.com/namanagrawal3/LeetCode/tree/master/3438-peaks-in-array) |
 ## Ordered Set
 |  |
 | ------- |
@@ -1703,6 +1705,7 @@
 | [0673-number-of-longest-increasing-subsequence](https://github.com/namanagrawal3/LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [2280-count-good-triplets-in-an-array](https://github.com/namanagrawal3/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/namanagrawal3/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+| [3438-peaks-in-array](https://github.com/namanagrawal3/LeetCode/tree/master/3438-peaks-in-array) |
 ## Brainteaser
 |  |
 | ------- |
