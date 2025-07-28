@@ -56,6 +56,7 @@
 | [0307-range-sum-query-mutable](https://github.com/namanagrawal3/LeetCode/tree/master/0307-range-sum-query-mutable) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/namanagrawal3/LeetCode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/namanagrawal3/LeetCode/tree/master/0312-burst-balloons) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/namanagrawal3/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0322-coin-change](https://github.com/namanagrawal3/LeetCode/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/namanagrawal3/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0334-increasing-triplet-subsequence](https://github.com/namanagrawal3/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
@@ -700,6 +701,7 @@
 | [0069-sqrtx](https://github.com/namanagrawal3/LeetCode/tree/master/0069-sqrtx) |
 | [0278-first-bad-version](https://github.com/namanagrawal3/LeetCode/tree/master/0278-first-bad-version) |
 | [0300-longest-increasing-subsequence](https://github.com/namanagrawal3/LeetCode/tree/master/0300-longest-increasing-subsequence) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/namanagrawal3/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0349-intersection-of-two-arrays](https://github.com/namanagrawal3/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/namanagrawal3/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0354-russian-doll-envelopes](https://github.com/namanagrawal3/LeetCode/tree/master/0354-russian-doll-envelopes) |
@@ -1188,6 +1190,7 @@
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/namanagrawal3/LeetCode/tree/master/0307-range-sum-query-mutable) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/namanagrawal3/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/namanagrawal3/LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0729-my-calendar-i](https://github.com/namanagrawal3/LeetCode/tree/master/0729-my-calendar-i) |
 | [2280-count-good-triplets-in-an-array](https://github.com/namanagrawal3/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
@@ -1197,6 +1200,7 @@
 ## Ordered Set
 |  |
 | ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/namanagrawal3/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/namanagrawal3/LeetCode/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0729-my-calendar-i](https://github.com/namanagrawal3/LeetCode/tree/master/0729-my-calendar-i) |
 | [2280-count-good-triplets-in-an-array](https://github.com/namanagrawal3/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
@@ -1710,6 +1714,7 @@
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/namanagrawal3/LeetCode/tree/master/0307-range-sum-query-mutable) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/namanagrawal3/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/namanagrawal3/LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [2280-count-good-triplets-in-an-array](https://github.com/namanagrawal3/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/namanagrawal3/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
@@ -1747,6 +1752,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/namanagrawal3/LeetCode/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/namanagrawal3/LeetCode/tree/master/0191-number-of-1-bits) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/namanagrawal3/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/namanagrawal3/LeetCode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0654-maximum-binary-tree](https://github.com/namanagrawal3/LeetCode/tree/master/0654-maximum-binary-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/namanagrawal3/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -1840,6 +1846,7 @@
 ## Merge Sort
 |  |
 | ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/namanagrawal3/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [2280-count-good-triplets-in-an-array](https://github.com/namanagrawal3/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
 ## Concurrency
 |  |
