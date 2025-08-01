@@ -142,6 +142,7 @@
 | [1293-three-consecutive-odds](https://github.com/namanagrawal3/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1306-minimum-absolute-difference](https://github.com/namanagrawal3/LeetCode/tree/master/1306-minimum-absolute-difference) |
 | [1325-path-with-maximum-probability](https://github.com/namanagrawal3/LeetCode/tree/master/1325-path-with-maximum-probability) |
+| [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/namanagrawal3/LeetCode/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/namanagrawal3/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1346-maximize-the-topmost-element-after-k-moves](https://github.com/namanagrawal3/LeetCode/tree/master/1346-maximize-the-topmost-element-after-k-moves) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/namanagrawal3/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -396,6 +397,7 @@
 | [1227-number-of-equivalent-domino-pairs](https://github.com/namanagrawal3/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1249-snapshot-array](https://github.com/namanagrawal3/LeetCode/tree/master/1249-snapshot-array) |
 | [1256-rank-transform-of-an-array](https://github.com/namanagrawal3/LeetCode/tree/master/1256-rank-transform-of-an-array) |
+| [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/namanagrawal3/LeetCode/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 | [1364-tuple-with-same-product](https://github.com/namanagrawal3/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1370-count-number-of-nice-subarrays](https://github.com/namanagrawal3/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/namanagrawal3/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -668,6 +670,7 @@
 | [1236-n-th-tribonacci-number](https://github.com/namanagrawal3/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/namanagrawal3/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1288-maximum-subarray-sum-with-one-deletion](https://github.com/namanagrawal3/LeetCode/tree/master/1288-maximum-subarray-sum-with-one-deletion) |
+| [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/namanagrawal3/LeetCode/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/namanagrawal3/LeetCode/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/namanagrawal3/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1418-fair-distribution-of-cookies](https://github.com/namanagrawal3/LeetCode/tree/master/1418-fair-distribution-of-cookies) |
