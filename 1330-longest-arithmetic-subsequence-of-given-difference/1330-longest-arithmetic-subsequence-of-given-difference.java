@@ -4,18 +4,19 @@ class Solution {
         int n = arr.length;
         // Stores the length of subsequence ending at each element
         HashMap<Integer, Integer> dp = new HashMap<>(); 
-        int ans = 1; 
+        int maxLen = 1; 
         
         for (int i = 0; i < n; i++) {
             int num = arr[i];
+            int currLen = 1;
+
             if (dp.containsKey(num - difference)) 
-                dp.put(num, dp.get(num - difference) + 1);
-            else 
-                dp.put(num, 1);
+                currLen = dp.get(num - difference) + 1;
             
-            ans = Math.max(ans, dp.get(num));
+            dp.put(num, currLen);
+            maxLen = Math.max(maxLen, currLen);
         }
         
-        return ans;
+        return maxLen;
     }
 }
