@@ -364,6 +364,7 @@
 | [0299-bulls-and-cows](https://github.com/namanagrawal3/LeetCode/tree/master/0299-bulls-and-cows) |
 | [0349-intersection-of-two-arrays](https://github.com/namanagrawal3/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/namanagrawal3/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0355-design-twitter](https://github.com/namanagrawal3/LeetCode/tree/master/0355-design-twitter) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/namanagrawal3/LeetCode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/namanagrawal3/LeetCode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0424-longest-repeating-character-replacement](https://github.com/namanagrawal3/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
@@ -943,6 +944,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0355-design-twitter](https://github.com/namanagrawal3/LeetCode/tree/master/0355-design-twitter) |
 | [0407-trapping-rain-water-ii](https://github.com/namanagrawal3/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0630-course-schedule-iii](https://github.com/namanagrawal3/LeetCode/tree/master/0630-course-schedule-iii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/namanagrawal3/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -1206,6 +1208,7 @@
 | [0225-implement-stack-using-queues](https://github.com/namanagrawal3/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/namanagrawal3/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0307-range-sum-query-mutable](https://github.com/namanagrawal3/LeetCode/tree/master/0307-range-sum-query-mutable) |
+| [0355-design-twitter](https://github.com/namanagrawal3/LeetCode/tree/master/0355-design-twitter) |
 | [0432-all-oone-data-structure](https://github.com/namanagrawal3/LeetCode/tree/master/0432-all-oone-data-structure) |
 | [0676-implement-magic-dictionary](https://github.com/namanagrawal3/LeetCode/tree/master/0676-implement-magic-dictionary) |
 | [0729-my-calendar-i](https://github.com/namanagrawal3/LeetCode/tree/master/0729-my-calendar-i) |
@@ -1371,6 +1374,7 @@
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/namanagrawal3/LeetCode/tree/master/0143-reorder-list) |
+| [0355-design-twitter](https://github.com/namanagrawal3/LeetCode/tree/master/0355-design-twitter) |
 | [0432-all-oone-data-structure](https://github.com/namanagrawal3/LeetCode/tree/master/0432-all-oone-data-structure) |
 ## Doubly-Linked List
 |  |
