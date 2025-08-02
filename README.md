@@ -108,6 +108,7 @@
 | [0827-expressive-words](https://github.com/namanagrawal3/LeetCode/tree/master/0827-expressive-words) |
 | [0833-bus-routes](https://github.com/namanagrawal3/LeetCode/tree/master/0833-bus-routes) |
 | [0854-making-a-large-island](https://github.com/namanagrawal3/LeetCode/tree/master/0854-making-a-large-island) |
+| [0879-maximize-distance-to-closest-person](https://github.com/namanagrawal3/LeetCode/tree/master/0879-maximize-distance-to-closest-person) |
 | [0890-lemonade-change](https://github.com/namanagrawal3/LeetCode/tree/master/0890-lemonade-change) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/namanagrawal3/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/namanagrawal3/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
