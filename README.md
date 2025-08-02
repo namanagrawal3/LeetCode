@@ -86,6 +86,7 @@
 | [0529-minesweeper](https://github.com/namanagrawal3/LeetCode/tree/master/0529-minesweeper) |
 | [0542-01-matrix](https://github.com/namanagrawal3/LeetCode/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/namanagrawal3/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/namanagrawal3/LeetCode/tree/master/0621-task-scheduler) |
 | [0630-course-schedule-iii](https://github.com/namanagrawal3/LeetCode/tree/master/0630-course-schedule-iii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/namanagrawal3/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0646-maximum-length-of-pair-chain](https://github.com/namanagrawal3/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
@@ -374,6 +375,7 @@
 | [0508-most-frequent-subtree-sum](https://github.com/namanagrawal3/LeetCode/tree/master/0508-most-frequent-subtree-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/namanagrawal3/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/namanagrawal3/LeetCode/tree/master/0567-permutation-in-string) |
+| [0621-task-scheduler](https://github.com/namanagrawal3/LeetCode/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/namanagrawal3/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0648-replace-words](https://github.com/namanagrawal3/LeetCode/tree/master/0648-replace-words) |
 | [0676-implement-magic-dictionary](https://github.com/namanagrawal3/LeetCode/tree/master/0676-implement-magic-dictionary) |
@@ -788,6 +790,7 @@
 | [0436-find-right-interval](https://github.com/namanagrawal3/LeetCode/tree/master/0436-find-right-interval) |
 | [0455-assign-cookies](https://github.com/namanagrawal3/LeetCode/tree/master/0455-assign-cookies) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/namanagrawal3/LeetCode/tree/master/0524-longest-word-in-dictionary-through-deleting) |
+| [0621-task-scheduler](https://github.com/namanagrawal3/LeetCode/tree/master/0621-task-scheduler) |
 | [0630-course-schedule-iii](https://github.com/namanagrawal3/LeetCode/tree/master/0630-course-schedule-iii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/namanagrawal3/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0646-maximum-length-of-pair-chain](https://github.com/namanagrawal3/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
@@ -852,6 +855,7 @@
 | [0410-split-array-largest-sum](https://github.com/namanagrawal3/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/namanagrawal3/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/namanagrawal3/LeetCode/tree/master/0455-assign-cookies) |
+| [0621-task-scheduler](https://github.com/namanagrawal3/LeetCode/tree/master/0621-task-scheduler) |
 | [0630-course-schedule-iii](https://github.com/namanagrawal3/LeetCode/tree/master/0630-course-schedule-iii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/namanagrawal3/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0646-maximum-length-of-pair-chain](https://github.com/namanagrawal3/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
@@ -946,6 +950,7 @@
 | ------- |
 | [0355-design-twitter](https://github.com/namanagrawal3/LeetCode/tree/master/0355-design-twitter) |
 | [0407-trapping-rain-water-ii](https://github.com/namanagrawal3/LeetCode/tree/master/0407-trapping-rain-water-ii) |
+| [0621-task-scheduler](https://github.com/namanagrawal3/LeetCode/tree/master/0621-task-scheduler) |
 | [0630-course-schedule-iii](https://github.com/namanagrawal3/LeetCode/tree/master/0630-course-schedule-iii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/namanagrawal3/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0744-network-delay-time](https://github.com/namanagrawal3/LeetCode/tree/master/0744-network-delay-time) |
@@ -990,6 +995,7 @@
 | [0169-majority-element](https://github.com/namanagrawal3/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/namanagrawal3/LeetCode/tree/master/0229-majority-element-ii) |
 | [0299-bulls-and-cows](https://github.com/namanagrawal3/LeetCode/tree/master/0299-bulls-and-cows) |
+| [0621-task-scheduler](https://github.com/namanagrawal3/LeetCode/tree/master/0621-task-scheduler) |
 | [1160-letter-tile-possibilities](https://github.com/namanagrawal3/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/namanagrawal3/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1364-tuple-with-same-product](https://github.com/namanagrawal3/LeetCode/tree/master/1364-tuple-with-same-product) |
