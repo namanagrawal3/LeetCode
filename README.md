@@ -162,6 +162,7 @@
 | [1468-check-if-n-and-its-double-exist](https://github.com/namanagrawal3/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1477-product-of-the-last-k-numbers](https://github.com/namanagrawal3/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/namanagrawal3/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1479-construct-target-array-with-multiple-sums](https://github.com/namanagrawal3/LeetCode/tree/master/1479-construct-target-array-with-multiple-sums) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/namanagrawal3/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/namanagrawal3/LeetCode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1524-string-matching-in-an-array](https://github.com/namanagrawal3/LeetCode/tree/master/1524-string-matching-in-an-array) |
@@ -981,6 +982,7 @@
 | [1304-longest-happy-string](https://github.com/namanagrawal3/LeetCode/tree/master/1304-longest-happy-string) |
 | [1325-path-with-maximum-probability](https://github.com/namanagrawal3/LeetCode/tree/master/1325-path-with-maximum-probability) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/namanagrawal3/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1479-construct-target-array-with-multiple-sums](https://github.com/namanagrawal3/LeetCode/tree/master/1479-construct-target-array-with-multiple-sums) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/namanagrawal3/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1753-path-with-minimum-effort](https://github.com/namanagrawal3/LeetCode/tree/master/1753-path-with-minimum-effort) |
 | [1762-furthest-building-you-can-reach](https://github.com/namanagrawal3/LeetCode/tree/master/1762-furthest-building-you-can-reach) |
