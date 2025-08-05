@@ -356,6 +356,7 @@
 | [3776-find-minimum-cost-to-remove-array-elements](https://github.com/namanagrawal3/LeetCode/tree/master/3776-find-minimum-cost-to-remove-array-elements) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/namanagrawal3/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/namanagrawal3/LeetCode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
+| [3790-fruits-into-baskets-ii](https://github.com/namanagrawal3/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 | [3809-properties-graph](https://github.com/namanagrawal3/LeetCode/tree/master/3809-properties-graph) |
 ## Hash Table
 |  |
@@ -788,6 +789,7 @@
 | [3643-zero-array-transformation-ii](https://github.com/namanagrawal3/LeetCode/tree/master/3643-zero-array-transformation-ii) |
 | [3690-smallest-substring-with-identical-characters-i](https://github.com/namanagrawal3/LeetCode/tree/master/3690-smallest-substring-with-identical-characters-i) |
 | [3706-smallest-substring-with-identical-characters-ii](https://github.com/namanagrawal3/LeetCode/tree/master/3706-smallest-substring-with-identical-characters-ii) |
+| [3790-fruits-into-baskets-ii](https://github.com/namanagrawal3/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -1260,6 +1262,7 @@
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/namanagrawal3/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3438-peaks-in-array](https://github.com/namanagrawal3/LeetCode/tree/master/3438-peaks-in-array) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/namanagrawal3/LeetCode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
+| [3790-fruits-into-baskets-ii](https://github.com/namanagrawal3/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## Ordered Set
 |  |
 | ------- |
@@ -1269,6 +1272,7 @@
 | [2280-count-good-triplets-in-an-array](https://github.com/namanagrawal3/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2434-design-a-number-container-system](https://github.com/namanagrawal3/LeetCode/tree/master/2434-design-a-number-container-system) |
 | [2868-continuous-subarrays](https://github.com/namanagrawal3/LeetCode/tree/master/2868-continuous-subarrays) |
+| [3790-fruits-into-baskets-ii](https://github.com/namanagrawal3/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -1515,6 +1519,7 @@
 | [3447-clear-digits](https://github.com/namanagrawal3/LeetCode/tree/master/3447-clear-digits) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/namanagrawal3/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/namanagrawal3/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3790-fruits-into-baskets-ii](https://github.com/namanagrawal3/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
