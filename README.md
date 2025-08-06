@@ -1061,6 +1061,7 @@
 | [0998-check-completeness-of-a-binary-tree](https://github.com/namanagrawal3/LeetCode/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1021-distribute-coins-in-binary-tree](https://github.com/namanagrawal3/LeetCode/tree/master/1021-distribute-coins-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/namanagrawal3/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1035-cousins-in-binary-tree](https://github.com/namanagrawal3/LeetCode/tree/master/1035-cousins-in-binary-tree) |
 | [1040-maximum-binary-tree-ii](https://github.com/namanagrawal3/LeetCode/tree/master/1040-maximum-binary-tree-ii) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/namanagrawal3/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1194-path-in-zigzag-labelled-binary-tree](https://github.com/namanagrawal3/LeetCode/tree/master/1194-path-in-zigzag-labelled-binary-tree) |
@@ -1111,6 +1112,7 @@
 | [0988-flip-equivalent-binary-trees](https://github.com/namanagrawal3/LeetCode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1021-distribute-coins-in-binary-tree](https://github.com/namanagrawal3/LeetCode/tree/master/1021-distribute-coins-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/namanagrawal3/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1035-cousins-in-binary-tree](https://github.com/namanagrawal3/LeetCode/tree/master/1035-cousins-in-binary-tree) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/namanagrawal3/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/namanagrawal3/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/namanagrawal3/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -1170,6 +1172,7 @@
 | [0945-snakes-and-ladders](https://github.com/namanagrawal3/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/namanagrawal3/LeetCode/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/namanagrawal3/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1035-cousins-in-binary-tree](https://github.com/namanagrawal3/LeetCode/tree/master/1035-cousins-in-binary-tree) |
 | [1036-rotting-oranges](https://github.com/namanagrawal3/LeetCode/tree/master/1036-rotting-oranges) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/namanagrawal3/LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/namanagrawal3/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -1223,6 +1226,7 @@
 | [0998-check-completeness-of-a-binary-tree](https://github.com/namanagrawal3/LeetCode/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1021-distribute-coins-in-binary-tree](https://github.com/namanagrawal3/LeetCode/tree/master/1021-distribute-coins-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/namanagrawal3/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1035-cousins-in-binary-tree](https://github.com/namanagrawal3/LeetCode/tree/master/1035-cousins-in-binary-tree) |
 | [1040-maximum-binary-tree-ii](https://github.com/namanagrawal3/LeetCode/tree/master/1040-maximum-binary-tree-ii) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/namanagrawal3/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1194-path-in-zigzag-labelled-binary-tree](https://github.com/namanagrawal3/LeetCode/tree/master/1194-path-in-zigzag-labelled-binary-tree) |
