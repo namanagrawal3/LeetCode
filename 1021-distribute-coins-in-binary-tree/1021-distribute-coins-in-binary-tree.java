@@ -15,20 +15,21 @@
  */
 class Solution {
     int moves;
+
     public int distributeCoins(TreeNode root) {
         moves = 0;
-        countFun(root);
+        minMoves(root);
+        
         return moves;
     }
-    public int countFun(TreeNode node) {
+    public int minMoves(TreeNode node) {
         if (node == null)
             return 0;
 
-        int leftExtra = countFun(node.left);        // left moves
-        int rightExtra = countFun(node.right);      // right moves
+        int left = minMoves(node.left);
+        int right = minMoves(node.right);
 
-        moves += Math.abs(leftExtra) + Math.abs(rightExtra);
-
-        return (leftExtra + rightExtra + node.val) - 1;           
+        moves += Math.abs(left) + Math.abs(right);
+        return (left + right + node.val) - 1;
     }
 }
