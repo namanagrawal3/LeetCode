@@ -674,6 +674,7 @@
 | [0747-min-cost-climbing-stairs](https://github.com/namanagrawal3/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/namanagrawal3/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0806-domino-and-tromino-tiling](https://github.com/namanagrawal3/LeetCode/tree/master/0806-domino-and-tromino-tiling) |
+| [0826-soup-servings](https://github.com/namanagrawal3/LeetCode/tree/master/0826-soup-servings) |
 | [0868-push-dominoes](https://github.com/namanagrawal3/LeetCode/tree/master/0868-push-dominoes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/namanagrawal3/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0923-super-egg-drop](https://github.com/namanagrawal3/LeetCode/tree/master/0923-super-egg-drop) |
@@ -1368,6 +1369,7 @@
 | [0486-predict-the-winner](https://github.com/namanagrawal3/LeetCode/tree/master/0486-predict-the-winner) |
 | [0670-maximum-swap](https://github.com/namanagrawal3/LeetCode/tree/master/0670-maximum-swap) |
 | [0797-rabbits-in-forest](https://github.com/namanagrawal3/LeetCode/tree/master/0797-rabbits-in-forest) |
+| [0826-soup-servings](https://github.com/namanagrawal3/LeetCode/tree/master/0826-soup-servings) |
 | [0923-super-egg-drop](https://github.com/namanagrawal3/LeetCode/tree/master/0923-super-egg-drop) |
 | [1013-fibonacci-number](https://github.com/namanagrawal3/LeetCode/tree/master/1013-fibonacci-number) |
 | [1031-add-to-array-form-of-integer](https://github.com/namanagrawal3/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
@@ -1952,4 +1954,8 @@
 | [1216-print-zero-even-odd](https://github.com/namanagrawal3/LeetCode/tree/master/1216-print-zero-even-odd) |
 | [1316-fizz-buzz-multithreaded](https://github.com/namanagrawal3/LeetCode/tree/master/1316-fizz-buzz-multithreaded) |
 | [1340-the-dining-philosophers](https://github.com/namanagrawal3/LeetCode/tree/master/1340-the-dining-philosophers) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0826-soup-servings](https://github.com/namanagrawal3/LeetCode/tree/master/0826-soup-servings) |
 <!---LeetCode Topics End-->
