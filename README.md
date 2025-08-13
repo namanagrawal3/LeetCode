@@ -1373,6 +1373,7 @@
 | [0067-add-binary](https://github.com/namanagrawal3/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/namanagrawal3/LeetCode/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/namanagrawal3/LeetCode/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/namanagrawal3/LeetCode/tree/master/0326-power-of-three) |
 | [0368-largest-divisible-subset](https://github.com/namanagrawal3/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0412-fizz-buzz](https://github.com/namanagrawal3/LeetCode/tree/master/0412-fizz-buzz) |
 | [0477-total-hamming-distance](https://github.com/namanagrawal3/LeetCode/tree/master/0477-total-hamming-distance) |
@@ -1482,6 +1483,7 @@
 | [0050-powx-n](https://github.com/namanagrawal3/LeetCode/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/namanagrawal3/LeetCode/tree/master/0143-reorder-list) |
 | [0231-power-of-two](https://github.com/namanagrawal3/LeetCode/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/namanagrawal3/LeetCode/tree/master/0326-power-of-three) |
 | [0486-predict-the-winner](https://github.com/namanagrawal3/LeetCode/tree/master/0486-predict-the-winner) |
 | [1013-fibonacci-number](https://github.com/namanagrawal3/LeetCode/tree/master/1013-fibonacci-number) |
 | [1197-parsing-a-boolean-expression](https://github.com/namanagrawal3/LeetCode/tree/master/1197-parsing-a-boolean-expression) |
