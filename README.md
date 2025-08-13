@@ -372,6 +372,7 @@
 | [0076-minimum-window-substring](https://github.com/namanagrawal3/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/namanagrawal3/LeetCode/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/namanagrawal3/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0146-lru-cache](https://github.com/namanagrawal3/LeetCode/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/namanagrawal3/LeetCode/tree/master/0169-majority-element) |
 | [0208-implement-trie-prefix-tree](https://github.com/namanagrawal3/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0229-majority-element-ii](https://github.com/namanagrawal3/LeetCode/tree/master/0229-majority-element-ii) |
@@ -1259,6 +1260,7 @@
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/namanagrawal3/LeetCode/tree/master/0146-lru-cache) |
 | [0208-implement-trie-prefix-tree](https://github.com/namanagrawal3/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0225-implement-stack-using-queues](https://github.com/namanagrawal3/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/namanagrawal3/LeetCode/tree/master/0232-implement-queue-using-stacks) |
@@ -1439,11 +1441,13 @@
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/namanagrawal3/LeetCode/tree/master/0143-reorder-list) |
+| [0146-lru-cache](https://github.com/namanagrawal3/LeetCode/tree/master/0146-lru-cache) |
 | [0355-design-twitter](https://github.com/namanagrawal3/LeetCode/tree/master/0355-design-twitter) |
 | [0432-all-oone-data-structure](https://github.com/namanagrawal3/LeetCode/tree/master/0432-all-oone-data-structure) |
 ## Doubly-Linked List
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/namanagrawal3/LeetCode/tree/master/0146-lru-cache) |
 | [0432-all-oone-data-structure](https://github.com/namanagrawal3/LeetCode/tree/master/0432-all-oone-data-structure) |
 ## Stack
 |  |
