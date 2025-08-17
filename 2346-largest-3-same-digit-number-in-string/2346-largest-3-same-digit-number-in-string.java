@@ -1,17 +1,15 @@
 class Solution {
     public String largestGoodInteger(String num) {
-        char maxDigit = '\0';
+        int n = num.length();
+        char maxDigit = ' ';
 
-        // Iterate on characters of the num string.
-        for (int index = 0; index <= num.length() - 3; ++index) {
-            // If 3 consecutive characters are the same, 
-            // store the character in 'maxDigit' if it's bigger than what it already stores.
-            if (num.charAt(index) == num.charAt(index + 1) && num.charAt(index) == num.charAt(index + 2)) {
-                maxDigit = (char) Math.max(maxDigit, num.charAt(index));
-            }
+        for (int i = 0; i <= n-3; i++) {
+            if (num.charAt(i) == num.charAt(i+1) && num.charAt(i) == num.charAt(i+2)) 
+                maxDigit = (char) Math.max(maxDigit, num.charAt(i));
         }
 
-        // If 'maxDigit' is NUL, return an empty string; otherwise, return a string of size 3 with 'maxDigit' characters.
-        return maxDigit == '\0' ? "" : new String(new char[]{maxDigit, maxDigit, maxDigit});
+        if (maxDigit == ' ')
+            return "";
+        return maxDigit +""+ maxDigit +""+ maxDigit;
     }
 }
