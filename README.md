@@ -1382,6 +1382,7 @@
 | [0069-sqrtx](https://github.com/namanagrawal3/LeetCode/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/namanagrawal3/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/namanagrawal3/LeetCode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/namanagrawal3/LeetCode/tree/master/0342-power-of-four) |
 | [0368-largest-divisible-subset](https://github.com/namanagrawal3/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0412-fizz-buzz](https://github.com/namanagrawal3/LeetCode/tree/master/0412-fizz-buzz) |
 | [0477-total-hamming-distance](https://github.com/namanagrawal3/LeetCode/tree/master/0477-total-hamming-distance) |
@@ -1499,6 +1500,7 @@
 | [0143-reorder-list](https://github.com/namanagrawal3/LeetCode/tree/master/0143-reorder-list) |
 | [0231-power-of-two](https://github.com/namanagrawal3/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/namanagrawal3/LeetCode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/namanagrawal3/LeetCode/tree/master/0342-power-of-four) |
 | [0486-predict-the-winner](https://github.com/namanagrawal3/LeetCode/tree/master/0486-predict-the-winner) |
 | [1013-fibonacci-number](https://github.com/namanagrawal3/LeetCode/tree/master/1013-fibonacci-number) |
 | [1197-parsing-a-boolean-expression](https://github.com/namanagrawal3/LeetCode/tree/master/1197-parsing-a-boolean-expression) |
@@ -1576,6 +1578,7 @@
 | [0090-subsets-ii](https://github.com/namanagrawal3/LeetCode/tree/master/0090-subsets-ii) |
 | [0191-number-of-1-bits](https://github.com/namanagrawal3/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/namanagrawal3/LeetCode/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/namanagrawal3/LeetCode/tree/master/0342-power-of-four) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/namanagrawal3/LeetCode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0477-total-hamming-distance](https://github.com/namanagrawal3/LeetCode/tree/master/0477-total-hamming-distance) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/namanagrawal3/LeetCode/tree/master/0698-partition-to-k-equal-sum-subsets) |
