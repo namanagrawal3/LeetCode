@@ -682,6 +682,7 @@
 | [0803-cheapest-flights-within-k-stops](https://github.com/namanagrawal3/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0806-domino-and-tromino-tiling](https://github.com/namanagrawal3/LeetCode/tree/master/0806-domino-and-tromino-tiling) |
 | [0826-soup-servings](https://github.com/namanagrawal3/LeetCode/tree/master/0826-soup-servings) |
+| [0867-new-21-game](https://github.com/namanagrawal3/LeetCode/tree/master/0867-new-21-game) |
 | [0868-push-dominoes](https://github.com/namanagrawal3/LeetCode/tree/master/0868-push-dominoes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/namanagrawal3/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0923-super-egg-drop](https://github.com/namanagrawal3/LeetCode/tree/master/0923-super-egg-drop) |
@@ -958,6 +959,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/namanagrawal3/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/namanagrawal3/LeetCode/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/namanagrawal3/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0867-new-21-game](https://github.com/namanagrawal3/LeetCode/tree/master/0867-new-21-game) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/namanagrawal3/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0940-fruit-into-baskets](https://github.com/namanagrawal3/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1370-count-number-of-nice-subarrays](https://github.com/namanagrawal3/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
@@ -1387,6 +1389,7 @@
 | [0670-maximum-swap](https://github.com/namanagrawal3/LeetCode/tree/master/0670-maximum-swap) |
 | [0797-rabbits-in-forest](https://github.com/namanagrawal3/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0826-soup-servings](https://github.com/namanagrawal3/LeetCode/tree/master/0826-soup-servings) |
+| [0867-new-21-game](https://github.com/namanagrawal3/LeetCode/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/namanagrawal3/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [0923-super-egg-drop](https://github.com/namanagrawal3/LeetCode/tree/master/0923-super-egg-drop) |
 | [1013-fibonacci-number](https://github.com/namanagrawal3/LeetCode/tree/master/1013-fibonacci-number) |
@@ -1987,4 +1990,5 @@
 |  |
 | ------- |
 | [0826-soup-servings](https://github.com/namanagrawal3/LeetCode/tree/master/0826-soup-servings) |
+| [0867-new-21-game](https://github.com/namanagrawal3/LeetCode/tree/master/0867-new-21-game) |
 <!---LeetCode Topics End-->
