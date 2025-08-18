@@ -93,6 +93,7 @@
 | [0648-replace-words](https://github.com/namanagrawal3/LeetCode/tree/master/0648-replace-words) |
 | [0654-maximum-binary-tree](https://github.com/namanagrawal3/LeetCode/tree/master/0654-maximum-binary-tree) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/namanagrawal3/LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0679-24-game](https://github.com/namanagrawal3/LeetCode/tree/master/0679-24-game) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/namanagrawal3/LeetCode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0690-employee-importance](https://github.com/namanagrawal3/LeetCode/tree/master/0690-employee-importance) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/namanagrawal3/LeetCode/tree/master/0698-partition-to-k-equal-sum-subsets) |
@@ -1388,6 +1389,7 @@
 | [0477-total-hamming-distance](https://github.com/namanagrawal3/LeetCode/tree/master/0477-total-hamming-distance) |
 | [0486-predict-the-winner](https://github.com/namanagrawal3/LeetCode/tree/master/0486-predict-the-winner) |
 | [0670-maximum-swap](https://github.com/namanagrawal3/LeetCode/tree/master/0670-maximum-swap) |
+| [0679-24-game](https://github.com/namanagrawal3/LeetCode/tree/master/0679-24-game) |
 | [0797-rabbits-in-forest](https://github.com/namanagrawal3/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0826-soup-servings](https://github.com/namanagrawal3/LeetCode/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/namanagrawal3/LeetCode/tree/master/0867-new-21-game) |
@@ -1697,6 +1699,7 @@
 | [0131-palindrome-partitioning](https://github.com/namanagrawal3/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/namanagrawal3/LeetCode/tree/master/0216-combination-sum-iii) |
 | [0494-target-sum](https://github.com/namanagrawal3/LeetCode/tree/master/0494-target-sum) |
+| [0679-24-game](https://github.com/namanagrawal3/LeetCode/tree/master/0679-24-game) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/namanagrawal3/LeetCode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0813-all-paths-from-source-to-target](https://github.com/namanagrawal3/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
 | [0872-split-array-into-fibonacci-sequence](https://github.com/namanagrawal3/LeetCode/tree/master/0872-split-array-into-fibonacci-sequence) |
