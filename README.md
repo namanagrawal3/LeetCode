@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/namanagrawal3/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/namanagrawal3/LeetCode/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/namanagrawal3/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0386-lexicographical-numbers](https://github.com/namanagrawal3/LeetCode/tree/master/0386-lexicographical-numbers) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/namanagrawal3/LeetCode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
@@ -45,6 +46,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/namanagrawal3/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/namanagrawal3/LeetCode/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/namanagrawal3/LeetCode/tree/master/0135-candy) |
+| [0139-word-break](https://github.com/namanagrawal3/LeetCode/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/namanagrawal3/LeetCode/tree/master/0169-majority-element) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/namanagrawal3/LeetCode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/namanagrawal3/LeetCode/tree/master/0198-house-robber) |
@@ -375,6 +377,7 @@
 | [0076-minimum-window-substring](https://github.com/namanagrawal3/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/namanagrawal3/LeetCode/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/namanagrawal3/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0139-word-break](https://github.com/namanagrawal3/LeetCode/tree/master/0139-word-break) |
 | [0146-lru-cache](https://github.com/namanagrawal3/LeetCode/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/namanagrawal3/LeetCode/tree/master/0169-majority-element) |
 | [0208-implement-trie-prefix-tree](https://github.com/namanagrawal3/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
@@ -518,6 +521,7 @@
 | [0127-word-ladder](https://github.com/namanagrawal3/LeetCode/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/namanagrawal3/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/namanagrawal3/LeetCode/tree/master/0132-palindrome-partitioning-ii) |
+| [0139-word-break](https://github.com/namanagrawal3/LeetCode/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/namanagrawal3/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/namanagrawal3/LeetCode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/namanagrawal3/LeetCode/tree/master/0290-word-pattern) |
@@ -649,6 +653,7 @@
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/namanagrawal3/LeetCode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0131-palindrome-partitioning](https://github.com/namanagrawal3/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/namanagrawal3/LeetCode/tree/master/0132-palindrome-partitioning-ii) |
+| [0139-word-break](https://github.com/namanagrawal3/LeetCode/tree/master/0139-word-break) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/namanagrawal3/LeetCode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/namanagrawal3/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/namanagrawal3/LeetCode/tree/master/0213-house-robber-ii) |
@@ -1922,6 +1927,7 @@
 ## Memoization
 |  |
 | ------- |
+| [0139-word-break](https://github.com/namanagrawal3/LeetCode/tree/master/0139-word-break) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/namanagrawal3/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/namanagrawal3/LeetCode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1013-fibonacci-number](https://github.com/namanagrawal3/LeetCode/tree/master/1013-fibonacci-number) |
