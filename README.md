@@ -136,6 +136,7 @@
 | [1063-best-sightseeing-pair](https://github.com/namanagrawal3/LeetCode/tree/master/1063-best-sightseeing-pair) |
 | [1087-longest-arithmetic-subsequence](https://github.com/namanagrawal3/LeetCode/tree/master/1087-longest-arithmetic-subsequence) |
 | [1105-uncrossed-lines](https://github.com/namanagrawal3/LeetCode/tree/master/1105-uncrossed-lines) |
+| [1129-longest-string-chain](https://github.com/namanagrawal3/LeetCode/tree/master/1129-longest-string-chain) |
 | [1145-number-of-submatrices-that-sum-to-target](https://github.com/namanagrawal3/LeetCode/tree/master/1145-number-of-submatrices-that-sum-to-target) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/namanagrawal3/LeetCode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/namanagrawal3/LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
@@ -418,6 +419,7 @@
 | [1023-time-based-key-value-store](https://github.com/namanagrawal3/LeetCode/tree/master/1023-time-based-key-value-store) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/namanagrawal3/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1087-longest-arithmetic-subsequence](https://github.com/namanagrawal3/LeetCode/tree/master/1087-longest-arithmetic-subsequence) |
+| [1129-longest-string-chain](https://github.com/namanagrawal3/LeetCode/tree/master/1129-longest-string-chain) |
 | [1145-number-of-submatrices-that-sum-to-target](https://github.com/namanagrawal3/LeetCode/tree/master/1145-number-of-submatrices-that-sum-to-target) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/namanagrawal3/LeetCode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1160-letter-tile-possibilities](https://github.com/namanagrawal3/LeetCode/tree/master/1160-letter-tile-possibilities) |
@@ -557,6 +559,7 @@
 | [0990-verifying-an-alien-dictionary](https://github.com/namanagrawal3/LeetCode/tree/master/0990-verifying-an-alien-dictionary) |
 | [1023-time-based-key-value-store](https://github.com/namanagrawal3/LeetCode/tree/master/1023-time-based-key-value-store) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/namanagrawal3/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+| [1129-longest-string-chain](https://github.com/namanagrawal3/LeetCode/tree/master/1129-longest-string-chain) |
 | [1160-letter-tile-possibilities](https://github.com/namanagrawal3/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1170-shortest-common-supersequence](https://github.com/namanagrawal3/LeetCode/tree/master/1170-shortest-common-supersequence) |
 | [1197-parsing-a-boolean-expression](https://github.com/namanagrawal3/LeetCode/tree/master/1197-parsing-a-boolean-expression) |
@@ -703,6 +706,7 @@
 | [1063-best-sightseeing-pair](https://github.com/namanagrawal3/LeetCode/tree/master/1063-best-sightseeing-pair) |
 | [1087-longest-arithmetic-subsequence](https://github.com/namanagrawal3/LeetCode/tree/master/1087-longest-arithmetic-subsequence) |
 | [1105-uncrossed-lines](https://github.com/namanagrawal3/LeetCode/tree/master/1105-uncrossed-lines) |
+| [1129-longest-string-chain](https://github.com/namanagrawal3/LeetCode/tree/master/1129-longest-string-chain) |
 | [1170-shortest-common-supersequence](https://github.com/namanagrawal3/LeetCode/tree/master/1170-shortest-common-supersequence) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/namanagrawal3/LeetCode/tree/master/1224-minimum-falling-path-sum-ii) |
 | [1236-n-th-tribonacci-number](https://github.com/namanagrawal3/LeetCode/tree/master/1236-n-th-tribonacci-number) |
@@ -841,6 +845,7 @@
 | [0780-max-chunks-to-make-sorted](https://github.com/namanagrawal3/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0900-reordered-power-of-2](https://github.com/namanagrawal3/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/namanagrawal3/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1129-longest-string-chain](https://github.com/namanagrawal3/LeetCode/tree/master/1129-longest-string-chain) |
 | [1222-remove-covered-intervals](https://github.com/namanagrawal3/LeetCode/tree/master/1222-remove-covered-intervals) |
 | [1256-rank-transform-of-an-array](https://github.com/namanagrawal3/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1306-minimum-absolute-difference](https://github.com/namanagrawal3/LeetCode/tree/master/1306-minimum-absolute-difference) |
@@ -1332,6 +1337,7 @@
 | [0768-partition-labels](https://github.com/namanagrawal3/LeetCode/tree/master/0768-partition-labels) |
 | [0827-expressive-words](https://github.com/namanagrawal3/LeetCode/tree/master/0827-expressive-words) |
 | [0868-push-dominoes](https://github.com/namanagrawal3/LeetCode/tree/master/0868-push-dominoes) |
+| [1129-longest-string-chain](https://github.com/namanagrawal3/LeetCode/tree/master/1129-longest-string-chain) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/namanagrawal3/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/namanagrawal3/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/namanagrawal3/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
