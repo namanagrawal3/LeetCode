@@ -527,6 +527,7 @@
 | [0132-palindrome-partitioning-ii](https://github.com/namanagrawal3/LeetCode/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/namanagrawal3/LeetCode/tree/master/0139-word-break) |
 | [0168-excel-sheet-column-title](https://github.com/namanagrawal3/LeetCode/tree/master/0168-excel-sheet-column-title) |
+| [0171-excel-sheet-column-number](https://github.com/namanagrawal3/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/namanagrawal3/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/namanagrawal3/LeetCode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/namanagrawal3/LeetCode/tree/master/0290-word-pattern) |
@@ -1399,6 +1400,7 @@
 | [0067-add-binary](https://github.com/namanagrawal3/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/namanagrawal3/LeetCode/tree/master/0069-sqrtx) |
 | [0168-excel-sheet-column-title](https://github.com/namanagrawal3/LeetCode/tree/master/0168-excel-sheet-column-title) |
+| [0171-excel-sheet-column-number](https://github.com/namanagrawal3/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0231-power-of-two](https://github.com/namanagrawal3/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/namanagrawal3/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/namanagrawal3/LeetCode/tree/master/0342-power-of-four) |
