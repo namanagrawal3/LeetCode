@@ -1,5 +1,6 @@
 class Solution {
     public int titleToNumber(String s) {
+    // Simply convert the 'Base 26' to 'Base 10' (decimal)
         int ans = 0;
         int mul = 1;
 
