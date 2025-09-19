@@ -368,6 +368,7 @@
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/namanagrawal3/LeetCode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3790-fruits-into-baskets-ii](https://github.com/namanagrawal3/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/namanagrawal3/LeetCode/tree/master/3791-fruits-into-baskets-iii) |
+| [3797-design-spreadsheet](https://github.com/namanagrawal3/LeetCode/tree/master/3797-design-spreadsheet) |
 | [3809-properties-graph](https://github.com/namanagrawal3/LeetCode/tree/master/3809-properties-graph) |
 ## Hash Table
 |  |
@@ -500,6 +501,7 @@
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/namanagrawal3/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/namanagrawal3/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/namanagrawal3/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3797-design-spreadsheet](https://github.com/namanagrawal3/LeetCode/tree/master/3797-design-spreadsheet) |
 | [3809-properties-graph](https://github.com/namanagrawal3/LeetCode/tree/master/3809-properties-graph) |
 ## String
 |  |
@@ -637,6 +639,7 @@
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/namanagrawal3/LeetCode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3706-smallest-substring-with-identical-characters-ii](https://github.com/namanagrawal3/LeetCode/tree/master/3706-smallest-substring-with-identical-characters-ii) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/namanagrawal3/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3797-design-spreadsheet](https://github.com/namanagrawal3/LeetCode/tree/master/3797-design-spreadsheet) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -1295,6 +1298,7 @@
 | [1582-design-browser-history](https://github.com/namanagrawal3/LeetCode/tree/master/1582-design-browser-history) |
 | [2104-operations-on-tree](https://github.com/namanagrawal3/LeetCode/tree/master/2104-operations-on-tree) |
 | [2434-design-a-number-container-system](https://github.com/namanagrawal3/LeetCode/tree/master/2434-design-a-number-container-system) |
+| [3797-design-spreadsheet](https://github.com/namanagrawal3/LeetCode/tree/master/3797-design-spreadsheet) |
 ## Segment Tree
 |  |
 | ------- |
@@ -1807,6 +1811,7 @@
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/namanagrawal3/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/namanagrawal3/LeetCode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/namanagrawal3/LeetCode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
+| [3797-design-spreadsheet](https://github.com/namanagrawal3/LeetCode/tree/master/3797-design-spreadsheet) |
 ## String Matching
 |  |
 | ------- |
