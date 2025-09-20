@@ -370,6 +370,7 @@
 | [3791-fruits-into-baskets-iii](https://github.com/namanagrawal3/LeetCode/tree/master/3791-fruits-into-baskets-iii) |
 | [3797-design-spreadsheet](https://github.com/namanagrawal3/LeetCode/tree/master/3797-design-spreadsheet) |
 | [3809-properties-graph](https://github.com/namanagrawal3/LeetCode/tree/master/3809-properties-graph) |
+| [3827-implement-router](https://github.com/namanagrawal3/LeetCode/tree/master/3827-implement-router) |
 ## Hash Table
 |  |
 | ------- |
@@ -503,6 +504,7 @@
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/namanagrawal3/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3797-design-spreadsheet](https://github.com/namanagrawal3/LeetCode/tree/master/3797-design-spreadsheet) |
 | [3809-properties-graph](https://github.com/namanagrawal3/LeetCode/tree/master/3809-properties-graph) |
+| [3827-implement-router](https://github.com/namanagrawal3/LeetCode/tree/master/3827-implement-router) |
 ## String
 |  |
 | ------- |
@@ -824,6 +826,7 @@
 | [3706-smallest-substring-with-identical-characters-ii](https://github.com/namanagrawal3/LeetCode/tree/master/3706-smallest-substring-with-identical-characters-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/namanagrawal3/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/namanagrawal3/LeetCode/tree/master/3791-fruits-into-baskets-iii) |
+| [3827-implement-router](https://github.com/namanagrawal3/LeetCode/tree/master/3827-implement-router) |
 ## Sorting
 |  |
 | ------- |
@@ -1301,6 +1304,7 @@
 | [2104-operations-on-tree](https://github.com/namanagrawal3/LeetCode/tree/master/2104-operations-on-tree) |
 | [2434-design-a-number-container-system](https://github.com/namanagrawal3/LeetCode/tree/master/2434-design-a-number-container-system) |
 | [3797-design-spreadsheet](https://github.com/namanagrawal3/LeetCode/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/namanagrawal3/LeetCode/tree/master/3827-implement-router) |
 ## Segment Tree
 |  |
 | ------- |
@@ -1326,6 +1330,7 @@
 | [2868-continuous-subarrays](https://github.com/namanagrawal3/LeetCode/tree/master/2868-continuous-subarrays) |
 | [3790-fruits-into-baskets-ii](https://github.com/namanagrawal3/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/namanagrawal3/LeetCode/tree/master/3791-fruits-into-baskets-iii) |
+| [3827-implement-router](https://github.com/namanagrawal3/LeetCode/tree/master/3827-implement-router) |
 ## Two Pointers
 |  |
 | ------- |
@@ -1852,6 +1857,7 @@
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/namanagrawal3/LeetCode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2868-continuous-subarrays](https://github.com/namanagrawal3/LeetCode/tree/master/2868-continuous-subarrays) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/namanagrawal3/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3827-implement-router](https://github.com/namanagrawal3/LeetCode/tree/master/3827-implement-router) |
 ## Monotonic Queue
 |  |
 | ------- |
