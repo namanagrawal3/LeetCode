@@ -1435,6 +1435,7 @@
 | [1500-count-largest-group](https://github.com/namanagrawal3/LeetCode/tree/master/1500-count-largest-group) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/namanagrawal3/LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/namanagrawal3/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1817-calculate-money-in-leetcode-bank](https://github.com/namanagrawal3/LeetCode/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/namanagrawal3/LeetCode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1963-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/namanagrawal3/LeetCode/tree/master/1963-find-xor-sum-of-all-pairs-bitwise-and) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/namanagrawal3/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
