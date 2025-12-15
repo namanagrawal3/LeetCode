@@ -217,6 +217,7 @@
 | [2102-find-the-middle-index-in-array](https://github.com/namanagrawal3/LeetCode/tree/master/2102-find-the-middle-index-in-array) |
 | [2104-operations-on-tree](https://github.com/namanagrawal3/LeetCode/tree/master/2104-operations-on-tree) |
 | [2107-find-unique-binary-string](https://github.com/namanagrawal3/LeetCode/tree/master/2107-find-unique-binary-string) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/namanagrawal3/LeetCode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2118-maximum-earnings-from-taxi](https://github.com/namanagrawal3/LeetCode/tree/master/2118-maximum-earnings-from-taxi) |
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/namanagrawal3/LeetCode/tree/master/2123-the-number-of-weak-characters-in-the-game) |
 | [2138-sum-of-beauty-in-the-array](https://github.com/namanagrawal3/LeetCode/tree/master/2138-sum-of-beauty-in-the-array) |
@@ -740,6 +741,7 @@
 | [2031-egg-drop-with-2-eggs-and-n-floors](https://github.com/namanagrawal3/LeetCode/tree/master/2031-egg-drop-with-2-eggs-and-n-floors) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/namanagrawal3/LeetCode/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/namanagrawal3/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/namanagrawal3/LeetCode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2118-maximum-earnings-from-taxi](https://github.com/namanagrawal3/LeetCode/tree/master/2118-maximum-earnings-from-taxi) |
 | [2164-two-best-non-overlapping-events](https://github.com/namanagrawal3/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
 | [2176-parallel-courses-iii](https://github.com/namanagrawal3/LeetCode/tree/master/2176-parallel-courses-iii) |
@@ -1441,6 +1443,7 @@
 | [1993-sum-of-all-subset-xor-totals](https://github.com/namanagrawal3/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2031-egg-drop-with-2-eggs-and-n-floors](https://github.com/namanagrawal3/LeetCode/tree/master/2031-egg-drop-with-2-eggs-and-n-floors) |
 | [2050-count-good-numbers](https://github.com/namanagrawal3/LeetCode/tree/master/2050-count-good-numbers) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/namanagrawal3/LeetCode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/namanagrawal3/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2206-detonate-the-maximum-bombs](https://github.com/namanagrawal3/LeetCode/tree/master/2206-detonate-the-maximum-bombs) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/namanagrawal3/LeetCode/tree/master/2415-count-the-number-of-ideal-arrays) |
