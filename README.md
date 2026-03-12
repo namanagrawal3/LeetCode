@@ -600,6 +600,7 @@
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/namanagrawal3/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1923-sentence-similarity-iii](https://github.com/namanagrawal3/LeetCode/tree/master/1923-sentence-similarity-iii) |
 | [1967-longest-substring-of-all-vowels-in-order](https://github.com/namanagrawal3/LeetCode/tree/master/1967-longest-substring-of-all-vowels-in-order) |
+| [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/namanagrawal3/LeetCode/tree/master/1974-minimum-time-to-type-word-using-special-typewriter) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/namanagrawal3/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/namanagrawal3/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/namanagrawal3/LeetCode/tree/master/2079-delete-duplicate-folders-in-system) |
@@ -954,6 +955,7 @@
 | [1824-maximum-number-of-eaten-apples](https://github.com/namanagrawal3/LeetCode/tree/master/1824-maximum-number-of-eaten-apples) |
 | [1829-maximum-units-on-a-truck](https://github.com/namanagrawal3/LeetCode/tree/master/1829-maximum-units-on-a-truck) |
 | [1917-maximum-average-pass-ratio](https://github.com/namanagrawal3/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
+| [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/namanagrawal3/LeetCode/tree/master/1974-minimum-time-to-type-word-using-special-typewriter) |
 | [2066-add-minimum-number-of-rungs](https://github.com/namanagrawal3/LeetCode/tree/master/2066-add-minimum-number-of-rungs) |
 | [2084-maximum-number-of-weeks-for-which-you-can-work](https://github.com/namanagrawal3/LeetCode/tree/master/2084-maximum-number-of-weeks-for-which-you-can-work) |
 | [2089-maximum-matrix-sum](https://github.com/namanagrawal3/LeetCode/tree/master/2089-maximum-matrix-sum) |
