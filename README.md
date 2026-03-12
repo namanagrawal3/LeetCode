@@ -835,6 +835,7 @@
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/namanagrawal3/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3303-find-beautiful-indices-in-the-given-array-ii](https://github.com/namanagrawal3/LeetCode/tree/master/3303-find-beautiful-indices-in-the-given-array-ii) |
 | [3427-special-array-ii](https://github.com/namanagrawal3/LeetCode/tree/master/3427-special-array-ii) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/namanagrawal3/LeetCode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3643-zero-array-transformation-ii](https://github.com/namanagrawal3/LeetCode/tree/master/3643-zero-array-transformation-ii) |
 | [3690-smallest-substring-with-identical-characters-i](https://github.com/namanagrawal3/LeetCode/tree/master/3690-smallest-substring-with-identical-characters-i) |
 | [3706-smallest-substring-with-identical-characters-ii](https://github.com/namanagrawal3/LeetCode/tree/master/3706-smallest-substring-with-identical-characters-ii) |
@@ -982,6 +983,7 @@
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/namanagrawal3/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3510-maximize-the-total-height-of-unique-towers](https://github.com/namanagrawal3/LeetCode/tree/master/3510-maximize-the-total-height-of-unique-towers) |
 | [3584-find-the-lexicographically-smallest-valid-sequence](https://github.com/namanagrawal3/LeetCode/tree/master/3584-find-the-lexicographically-smallest-valid-sequence) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/namanagrawal3/LeetCode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3647-zero-array-transformation-iii](https://github.com/namanagrawal3/LeetCode/tree/master/3647-zero-array-transformation-iii) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/namanagrawal3/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Sliding Window
@@ -1734,6 +1736,7 @@
 | ------- |
 | [1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/namanagrawal3/LeetCode/tree/master/1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1706-min-cost-to-connect-all-points](https://github.com/namanagrawal3/LeetCode/tree/master/1706-min-cost-to-connect-all-points) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/namanagrawal3/LeetCode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Strongly Connected Component
 |  |
 | ------- |
@@ -2057,4 +2060,12 @@
 | ------- |
 | [0826-soup-servings](https://github.com/namanagrawal3/LeetCode/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/namanagrawal3/LeetCode/tree/master/0867-new-21-game) |
+## Union-Find
+|  |
+| ------- |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/namanagrawal3/LeetCode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+## Graph Theory
+|  |
+| ------- |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/namanagrawal3/LeetCode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 <!---LeetCode Topics End-->
