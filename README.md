@@ -331,6 +331,7 @@
 | [3227-find-missing-and-repeated-values](https://github.com/namanagrawal3/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/namanagrawal3/LeetCode/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3291-find-if-array-can-be-sorted](https://github.com/namanagrawal3/LeetCode/tree/master/3291-find-if-array-can-be-sorted) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/namanagrawal3/LeetCode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/namanagrawal3/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/namanagrawal3/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3321-type-of-triangle](https://github.com/namanagrawal3/LeetCode/tree/master/3321-type-of-triangle) |
@@ -834,6 +835,7 @@
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/namanagrawal3/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/namanagrawal3/LeetCode/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/namanagrawal3/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/namanagrawal3/LeetCode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3303-find-beautiful-indices-in-the-given-array-ii](https://github.com/namanagrawal3/LeetCode/tree/master/3303-find-beautiful-indices-in-the-given-array-ii) |
 | [3427-special-array-ii](https://github.com/namanagrawal3/LeetCode/tree/master/3427-special-array-ii) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/namanagrawal3/LeetCode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
@@ -981,6 +983,7 @@
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/namanagrawal3/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/namanagrawal3/LeetCode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3195-separate-black-and-white-balls](https://github.com/namanagrawal3/LeetCode/tree/master/3195-separate-black-and-white-balls) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/namanagrawal3/LeetCode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/namanagrawal3/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/namanagrawal3/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3510-maximize-the-total-height-of-unique-towers](https://github.com/namanagrawal3/LeetCode/tree/master/3510-maximize-the-total-height-of-unique-towers) |
@@ -1068,6 +1071,7 @@
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/namanagrawal3/LeetCode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2868-continuous-subarrays](https://github.com/namanagrawal3/LeetCode/tree/master/2868-continuous-subarrays) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/namanagrawal3/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/namanagrawal3/LeetCode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/namanagrawal3/LeetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/namanagrawal3/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/namanagrawal3/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -1481,6 +1485,7 @@
 | [3201-distribute-candies-among-children-ii](https://github.com/namanagrawal3/LeetCode/tree/master/3201-distribute-candies-among-children-ii) |
 | [3227-find-missing-and-repeated-values](https://github.com/namanagrawal3/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/namanagrawal3/LeetCode/tree/master/3243-count-the-number-of-powerful-integers) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/namanagrawal3/LeetCode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3321-type-of-triangle](https://github.com/namanagrawal3/LeetCode/tree/master/3321-type-of-triangle) |
 | [3548-find-the-count-of-good-integers](https://github.com/namanagrawal3/LeetCode/tree/master/3548-find-the-count-of-good-integers) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/namanagrawal3/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
