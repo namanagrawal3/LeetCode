@@ -538,6 +538,7 @@
 | [0087-scramble-string](https://github.com/namanagrawal3/LeetCode/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/namanagrawal3/LeetCode/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/namanagrawal3/LeetCode/tree/master/0115-distinct-subsequences) |
+| [0125-valid-palindrome](https://github.com/namanagrawal3/LeetCode/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/namanagrawal3/LeetCode/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/namanagrawal3/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/namanagrawal3/LeetCode/tree/master/0132-palindrome-partitioning-ii) |
@@ -1371,6 +1372,7 @@
 | [0011-container-with-most-water](https://github.com/namanagrawal3/LeetCode/tree/master/0011-container-with-most-water) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/namanagrawal3/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/namanagrawal3/LeetCode/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/namanagrawal3/LeetCode/tree/master/0125-valid-palindrome) |
 | [0143-reorder-list](https://github.com/namanagrawal3/LeetCode/tree/master/0143-reorder-list) |
 | [0349-intersection-of-two-arrays](https://github.com/namanagrawal3/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/namanagrawal3/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
