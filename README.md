@@ -184,6 +184,7 @@
 | [1694-make-sum-divisible-by-p](https://github.com/namanagrawal3/LeetCode/tree/master/1694-make-sum-divisible-by-p) |
 | [1706-min-cost-to-connect-all-points](https://github.com/namanagrawal3/LeetCode/tree/master/1706-min-cost-to-connect-all-points) |
 | [1723-maximum-number-of-achievable-transfer-requests](https://github.com/namanagrawal3/LeetCode/tree/master/1723-maximum-number-of-achievable-transfer-requests) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/namanagrawal3/LeetCode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/namanagrawal3/LeetCode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1748-best-team-with-no-conflicts](https://github.com/namanagrawal3/LeetCode/tree/master/1748-best-team-with-no-conflicts) |
 | [1753-path-with-minimum-effort](https://github.com/namanagrawal3/LeetCode/tree/master/1753-path-with-minimum-effort) |
@@ -887,6 +888,7 @@
 | [1468-check-if-n-and-its-double-exist](https://github.com/namanagrawal3/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/namanagrawal3/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/namanagrawal3/LeetCode/tree/master/1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/namanagrawal3/LeetCode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1748-best-team-with-no-conflicts](https://github.com/namanagrawal3/LeetCode/tree/master/1748-best-team-with-no-conflicts) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/namanagrawal3/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1829-maximum-units-on-a-truck](https://github.com/namanagrawal3/LeetCode/tree/master/1829-maximum-units-on-a-truck) |
@@ -958,6 +960,7 @@
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/namanagrawal3/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1502-construct-k-palindrome-strings](https://github.com/namanagrawal3/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/namanagrawal3/LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/namanagrawal3/LeetCode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1762-furthest-building-you-can-reach](https://github.com/namanagrawal3/LeetCode/tree/master/1762-furthest-building-you-can-reach) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/namanagrawal3/LeetCode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/namanagrawal3/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -1853,6 +1856,7 @@
 | [1402-count-square-submatrices-with-all-ones](https://github.com/namanagrawal3/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/namanagrawal3/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/namanagrawal3/LeetCode/tree/master/1663-detect-cycles-in-2d-grid) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/namanagrawal3/LeetCode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1753-path-with-minimum-effort](https://github.com/namanagrawal3/LeetCode/tree/master/1753-path-with-minimum-effort) |
 | [1876-map-of-highest-peak](https://github.com/namanagrawal3/LeetCode/tree/master/1876-map-of-highest-peak) |
 | [1972-rotating-the-box](https://github.com/namanagrawal3/LeetCode/tree/master/1972-rotating-the-box) |
