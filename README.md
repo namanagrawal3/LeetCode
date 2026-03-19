@@ -397,6 +397,7 @@
 | [0141-linked-list-cycle](https://github.com/namanagrawal3/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/namanagrawal3/LeetCode/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/namanagrawal3/LeetCode/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/namanagrawal3/LeetCode/tree/master/0202-happy-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/namanagrawal3/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0229-majority-element-ii](https://github.com/namanagrawal3/LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/namanagrawal3/LeetCode/tree/master/0242-valid-anagram) |
@@ -1383,6 +1384,7 @@
 | [0125-valid-palindrome](https://github.com/namanagrawal3/LeetCode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/namanagrawal3/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/namanagrawal3/LeetCode/tree/master/0143-reorder-list) |
+| [0202-happy-number](https://github.com/namanagrawal3/LeetCode/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/namanagrawal3/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/namanagrawal3/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/namanagrawal3/LeetCode/tree/master/0392-is-subsequence) |
@@ -1451,6 +1453,7 @@
 | [0069-sqrtx](https://github.com/namanagrawal3/LeetCode/tree/master/0069-sqrtx) |
 | [0168-excel-sheet-column-title](https://github.com/namanagrawal3/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/namanagrawal3/LeetCode/tree/master/0171-excel-sheet-column-number) |
+| [0202-happy-number](https://github.com/namanagrawal3/LeetCode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/namanagrawal3/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/namanagrawal3/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/namanagrawal3/LeetCode/tree/master/0342-power-of-four) |
