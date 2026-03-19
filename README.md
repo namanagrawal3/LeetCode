@@ -329,6 +329,7 @@
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/namanagrawal3/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3186-minimum-sum-of-mountain-triplets-ii](https://github.com/namanagrawal3/LeetCode/tree/master/3186-minimum-sum-of-mountain-triplets-ii) |
 | [3194-find-words-containing-character](https://github.com/namanagrawal3/LeetCode/tree/master/3194-find-words-containing-character) |
+| [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/namanagrawal3/LeetCode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/namanagrawal3/LeetCode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/namanagrawal3/LeetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/namanagrawal3/LeetCode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -1625,6 +1626,7 @@
 | [2714-left-and-right-sum-differences](https://github.com/namanagrawal3/LeetCode/tree/master/2714-left-and-right-sum-differences) |
 | [2915-count-of-interesting-subarrays](https://github.com/namanagrawal3/LeetCode/tree/master/2915-count-of-interesting-subarrays) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/namanagrawal3/LeetCode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
+| [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/namanagrawal3/LeetCode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3427-special-array-ii](https://github.com/namanagrawal3/LeetCode/tree/master/3427-special-array-ii) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/namanagrawal3/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/namanagrawal3/LeetCode/tree/master/3616-make-array-elements-equal-to-zero) |
@@ -1890,6 +1892,7 @@
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/namanagrawal3/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/namanagrawal3/LeetCode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/namanagrawal3/LeetCode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
+| [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/namanagrawal3/LeetCode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3227-find-missing-and-repeated-values](https://github.com/namanagrawal3/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/namanagrawal3/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/namanagrawal3/LeetCode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
