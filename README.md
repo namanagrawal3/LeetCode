@@ -552,6 +552,7 @@
 | [0168-excel-sheet-column-title](https://github.com/namanagrawal3/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/namanagrawal3/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/namanagrawal3/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
+| [0224-basic-calculator](https://github.com/namanagrawal3/LeetCode/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/namanagrawal3/LeetCode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/namanagrawal3/LeetCode/tree/master/0290-word-pattern) |
 | [0299-bulls-and-cows](https://github.com/namanagrawal3/LeetCode/tree/master/0299-bulls-and-cows) |
@@ -1455,6 +1456,7 @@
 | [0168-excel-sheet-column-title](https://github.com/namanagrawal3/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/namanagrawal3/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/namanagrawal3/LeetCode/tree/master/0202-happy-number) |
+| [0224-basic-calculator](https://github.com/namanagrawal3/LeetCode/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/namanagrawal3/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/namanagrawal3/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/namanagrawal3/LeetCode/tree/master/0342-power-of-four) |
@@ -1551,6 +1553,7 @@
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/namanagrawal3/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0143-reorder-list](https://github.com/namanagrawal3/LeetCode/tree/master/0143-reorder-list) |
+| [0224-basic-calculator](https://github.com/namanagrawal3/LeetCode/tree/master/0224-basic-calculator) |
 | [0225-implement-stack-using-queues](https://github.com/namanagrawal3/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/namanagrawal3/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0654-maximum-binary-tree](https://github.com/namanagrawal3/LeetCode/tree/master/0654-maximum-binary-tree) |
@@ -1584,6 +1587,7 @@
 | [0044-wildcard-matching](https://github.com/namanagrawal3/LeetCode/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/namanagrawal3/LeetCode/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/namanagrawal3/LeetCode/tree/master/0143-reorder-list) |
+| [0224-basic-calculator](https://github.com/namanagrawal3/LeetCode/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/namanagrawal3/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/namanagrawal3/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/namanagrawal3/LeetCode/tree/master/0342-power-of-four) |
