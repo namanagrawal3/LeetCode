@@ -566,6 +566,7 @@
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/namanagrawal3/LeetCode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0399-evaluate-division](https://github.com/namanagrawal3/LeetCode/tree/master/0399-evaluate-division) |
 | [0412-fizz-buzz](https://github.com/namanagrawal3/LeetCode/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/namanagrawal3/LeetCode/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/namanagrawal3/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/namanagrawal3/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/namanagrawal3/LeetCode/tree/master/0459-repeated-substring-pattern) |
@@ -1472,6 +1473,7 @@
 | [0368-largest-divisible-subset](https://github.com/namanagrawal3/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0380-insert-delete-getrandom-o1](https://github.com/namanagrawal3/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0412-fizz-buzz](https://github.com/namanagrawal3/LeetCode/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/namanagrawal3/LeetCode/tree/master/0415-add-strings) |
 | [0477-total-hamming-distance](https://github.com/namanagrawal3/LeetCode/tree/master/0477-total-hamming-distance) |
 | [0486-predict-the-winner](https://github.com/namanagrawal3/LeetCode/tree/master/0486-predict-the-winner) |
 | [0670-maximum-swap](https://github.com/namanagrawal3/LeetCode/tree/master/0670-maximum-swap) |
@@ -1654,6 +1656,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/namanagrawal3/LeetCode/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/namanagrawal3/LeetCode/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/namanagrawal3/LeetCode/tree/master/0415-add-strings) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/namanagrawal3/LeetCode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/namanagrawal3/LeetCode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/namanagrawal3/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
