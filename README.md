@@ -507,6 +507,7 @@
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/namanagrawal3/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2777-find-the-distinct-difference-array](https://github.com/namanagrawal3/LeetCode/tree/master/2777-find-the-distinct-difference-array) |
 | [2833-count-zero-request-servers](https://github.com/namanagrawal3/LeetCode/tree/master/2833-count-zero-request-servers) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/namanagrawal3/LeetCode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/namanagrawal3/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/namanagrawal3/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2915-count-of-interesting-subarrays](https://github.com/namanagrawal3/LeetCode/tree/master/2915-count-of-interesting-subarrays) |
@@ -647,6 +648,7 @@
 | [2755-extra-characters-in-a-string](https://github.com/namanagrawal3/LeetCode/tree/master/2755-extra-characters-in-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/namanagrawal3/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/namanagrawal3/LeetCode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/namanagrawal3/LeetCode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/namanagrawal3/LeetCode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/namanagrawal3/LeetCode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/namanagrawal3/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -932,6 +934,7 @@
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/namanagrawal3/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/namanagrawal3/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2833-count-zero-request-servers](https://github.com/namanagrawal3/LeetCode/tree/master/2833-count-zero-request-servers) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/namanagrawal3/LeetCode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/namanagrawal3/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/namanagrawal3/LeetCode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3001-apply-operations-to-maximize-score](https://github.com/namanagrawal3/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
