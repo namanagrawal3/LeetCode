@@ -349,6 +349,7 @@
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/namanagrawal3/LeetCode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/namanagrawal3/LeetCode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3413-find-the-first-player-to-win-k-games-in-a-row](https://github.com/namanagrawal3/LeetCode/tree/master/3413-find-the-first-player-to-win-k-games-in-a-row) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/namanagrawal3/LeetCode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3427-special-array-ii](https://github.com/namanagrawal3/LeetCode/tree/master/3427-special-array-ii) |
 | [3429-special-array-i](https://github.com/namanagrawal3/LeetCode/tree/master/3429-special-array-i) |
 | [3430-count-days-without-meetings](https://github.com/namanagrawal3/LeetCode/tree/master/3430-count-days-without-meetings) |
@@ -796,6 +797,7 @@
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/namanagrawal3/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/namanagrawal3/LeetCode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/namanagrawal3/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/namanagrawal3/LeetCode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/namanagrawal3/LeetCode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/namanagrawal3/LeetCode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/namanagrawal3/LeetCode/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
@@ -1928,6 +1930,7 @@
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/namanagrawal3/LeetCode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/namanagrawal3/LeetCode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3227-find-missing-and-repeated-values](https://github.com/namanagrawal3/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/namanagrawal3/LeetCode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3546-equal-sum-grid-partition-i](https://github.com/namanagrawal3/LeetCode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/namanagrawal3/LeetCode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/namanagrawal3/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
