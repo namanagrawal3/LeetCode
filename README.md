@@ -215,6 +215,7 @@
 | [2048-build-array-from-permutation](https://github.com/namanagrawal3/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/namanagrawal3/LeetCode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2066-add-minimum-number-of-rungs](https://github.com/namanagrawal3/LeetCode/tree/master/2066-add-minimum-number-of-rungs) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/namanagrawal3/LeetCode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/namanagrawal3/LeetCode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2084-maximum-number-of-weeks-for-which-you-can-work](https://github.com/namanagrawal3/LeetCode/tree/master/2084-maximum-number-of-weeks-for-which-you-can-work) |
 | [2089-maximum-matrix-sum](https://github.com/namanagrawal3/LeetCode/tree/master/2089-maximum-matrix-sum) |
@@ -998,6 +999,7 @@
 | [1917-maximum-average-pass-ratio](https://github.com/namanagrawal3/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/namanagrawal3/LeetCode/tree/master/1974-minimum-time-to-type-word-using-special-typewriter) |
 | [2066-add-minimum-number-of-rungs](https://github.com/namanagrawal3/LeetCode/tree/master/2066-add-minimum-number-of-rungs) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/namanagrawal3/LeetCode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2084-maximum-number-of-weeks-for-which-you-can-work](https://github.com/namanagrawal3/LeetCode/tree/master/2084-maximum-number-of-weeks-for-which-you-can-work) |
 | [2089-maximum-matrix-sum](https://github.com/namanagrawal3/LeetCode/tree/master/2089-maximum-matrix-sum) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/namanagrawal3/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
