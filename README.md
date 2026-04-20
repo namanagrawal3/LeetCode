@@ -199,6 +199,7 @@
 | [1824-maximum-number-of-eaten-apples](https://github.com/namanagrawal3/LeetCode/tree/master/1824-maximum-number-of-eaten-apples) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/namanagrawal3/LeetCode/tree/master/1826-maximum-xor-with-an-element-from-array) |
 | [1829-maximum-units-on-a-truck](https://github.com/namanagrawal3/LeetCode/tree/master/1829-maximum-units-on-a-truck) |
+| [1848-minimum-distance-to-the-target-element](https://github.com/namanagrawal3/LeetCode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/namanagrawal3/LeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/namanagrawal3/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1876-map-of-highest-peak](https://github.com/namanagrawal3/LeetCode/tree/master/1876-map-of-highest-peak) |
