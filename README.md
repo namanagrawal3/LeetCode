@@ -294,6 +294,7 @@
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/namanagrawal3/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/namanagrawal3/LeetCode/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/namanagrawal3/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2615-sum-of-distances](https://github.com/namanagrawal3/LeetCode/tree/master/2615-sum-of-distances) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/namanagrawal3/LeetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/namanagrawal3/LeetCode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/namanagrawal3/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -504,6 +505,7 @@
 | [2586-longest-square-streak-in-an-array](https://github.com/namanagrawal3/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/namanagrawal3/LeetCode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2605-count-anagrams](https://github.com/namanagrawal3/LeetCode/tree/master/2605-count-anagrams) |
+| [2615-sum-of-distances](https://github.com/namanagrawal3/LeetCode/tree/master/2615-sum-of-distances) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/namanagrawal3/LeetCode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/namanagrawal3/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/namanagrawal3/LeetCode/tree/master/2677-cousins-in-binary-tree-ii) |
@@ -1672,6 +1674,7 @@
 | [2508-maximum-sum-of-an-hourglass](https://github.com/namanagrawal3/LeetCode/tree/master/2508-maximum-sum-of-an-hourglass) |
 | [2529-range-product-queries-of-powers](https://github.com/namanagrawal3/LeetCode/tree/master/2529-range-product-queries-of-powers) |
 | [2536-increment-submatrices-by-one](https://github.com/namanagrawal3/LeetCode/tree/master/2536-increment-submatrices-by-one) |
+| [2615-sum-of-distances](https://github.com/namanagrawal3/LeetCode/tree/master/2615-sum-of-distances) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/namanagrawal3/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2714-left-and-right-sum-differences](https://github.com/namanagrawal3/LeetCode/tree/master/2714-left-and-right-sum-differences) |
 | [2906-construct-product-matrix](https://github.com/namanagrawal3/LeetCode/tree/master/2906-construct-product-matrix) |
