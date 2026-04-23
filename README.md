@@ -227,6 +227,7 @@
 | [2107-find-unique-binary-string](https://github.com/namanagrawal3/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/namanagrawal3/LeetCode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2118-maximum-earnings-from-taxi](https://github.com/namanagrawal3/LeetCode/tree/master/2118-maximum-earnings-from-taxi) |
+| [2121-intervals-between-identical-elements](https://github.com/namanagrawal3/LeetCode/tree/master/2121-intervals-between-identical-elements) |
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/namanagrawal3/LeetCode/tree/master/2123-the-number-of-weak-characters-in-the-game) |
 | [2138-sum-of-beauty-in-the-array](https://github.com/namanagrawal3/LeetCode/tree/master/2138-sum-of-beauty-in-the-array) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/namanagrawal3/LeetCode/tree/master/2144-maximum-difference-between-increasing-elements) |
@@ -486,6 +487,7 @@
 | [2104-operations-on-tree](https://github.com/namanagrawal3/LeetCode/tree/master/2104-operations-on-tree) |
 | [2107-find-unique-binary-string](https://github.com/namanagrawal3/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2118-maximum-earnings-from-taxi](https://github.com/namanagrawal3/LeetCode/tree/master/2118-maximum-earnings-from-taxi) |
+| [2121-intervals-between-identical-elements](https://github.com/namanagrawal3/LeetCode/tree/master/2121-intervals-between-identical-elements) |
 | [2169-simple-bank-system](https://github.com/namanagrawal3/LeetCode/tree/master/2169-simple-bank-system) |
 | [2215-finding-3-digit-even-numbers](https://github.com/namanagrawal3/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/namanagrawal3/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -1664,6 +1666,7 @@
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/namanagrawal3/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/namanagrawal3/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2102-find-the-middle-index-in-array](https://github.com/namanagrawal3/LeetCode/tree/master/2102-find-the-middle-index-in-array) |
+| [2121-intervals-between-identical-elements](https://github.com/namanagrawal3/LeetCode/tree/master/2121-intervals-between-identical-elements) |
 | [2145-grid-game](https://github.com/namanagrawal3/LeetCode/tree/master/2145-grid-game) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/namanagrawal3/LeetCode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2249-count-the-hidden-sequences](https://github.com/namanagrawal3/LeetCode/tree/master/2249-count-the-hidden-sequences) |
