@@ -142,6 +142,7 @@
 | [1145-number-of-submatrices-that-sum-to-target](https://github.com/namanagrawal3/LeetCode/tree/master/1145-number-of-submatrices-that-sum-to-target) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/namanagrawal3/LeetCode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/namanagrawal3/LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1202-smallest-string-with-swaps](https://github.com/namanagrawal3/LeetCode/tree/master/1202-smallest-string-with-swaps) |
 | [1222-remove-covered-intervals](https://github.com/namanagrawal3/LeetCode/tree/master/1222-remove-covered-intervals) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/namanagrawal3/LeetCode/tree/master/1224-minimum-falling-path-sum-ii) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/namanagrawal3/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -454,6 +455,7 @@
 | [1145-number-of-submatrices-that-sum-to-target](https://github.com/namanagrawal3/LeetCode/tree/master/1145-number-of-submatrices-that-sum-to-target) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/namanagrawal3/LeetCode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1160-letter-tile-possibilities](https://github.com/namanagrawal3/LeetCode/tree/master/1160-letter-tile-possibilities) |
+| [1202-smallest-string-with-swaps](https://github.com/namanagrawal3/LeetCode/tree/master/1202-smallest-string-with-swaps) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/namanagrawal3/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/namanagrawal3/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1249-snapshot-array](https://github.com/namanagrawal3/LeetCode/tree/master/1249-snapshot-array) |
@@ -606,6 +608,7 @@
 | [1160-letter-tile-possibilities](https://github.com/namanagrawal3/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1170-shortest-common-supersequence](https://github.com/namanagrawal3/LeetCode/tree/master/1170-shortest-common-supersequence) |
 | [1197-parsing-a-boolean-expression](https://github.com/namanagrawal3/LeetCode/tree/master/1197-parsing-a-boolean-expression) |
+| [1202-smallest-string-with-swaps](https://github.com/namanagrawal3/LeetCode/tree/master/1202-smallest-string-with-swaps) |
 | [1250-longest-common-subsequence](https://github.com/namanagrawal3/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/namanagrawal3/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1304-longest-happy-string](https://github.com/namanagrawal3/LeetCode/tree/master/1304-longest-happy-string) |
@@ -909,6 +912,7 @@
 | [0900-reordered-power-of-2](https://github.com/namanagrawal3/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/namanagrawal3/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1129-longest-string-chain](https://github.com/namanagrawal3/LeetCode/tree/master/1129-longest-string-chain) |
+| [1202-smallest-string-with-swaps](https://github.com/namanagrawal3/LeetCode/tree/master/1202-smallest-string-with-swaps) |
 | [1222-remove-covered-intervals](https://github.com/namanagrawal3/LeetCode/tree/master/1222-remove-covered-intervals) |
 | [1256-rank-transform-of-an-array](https://github.com/namanagrawal3/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1306-minimum-absolute-difference](https://github.com/namanagrawal3/LeetCode/tree/master/1306-minimum-absolute-difference) |
@@ -1231,6 +1235,7 @@
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/namanagrawal3/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/namanagrawal3/LeetCode/tree/master/1035-cousins-in-binary-tree) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/namanagrawal3/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+| [1202-smallest-string-with-swaps](https://github.com/namanagrawal3/LeetCode/tree/master/1202-smallest-string-with-swaps) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/namanagrawal3/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/namanagrawal3/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/namanagrawal3/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -1294,6 +1299,7 @@
 | [1035-cousins-in-binary-tree](https://github.com/namanagrawal3/LeetCode/tree/master/1035-cousins-in-binary-tree) |
 | [1036-rotting-oranges](https://github.com/namanagrawal3/LeetCode/tree/master/1036-rotting-oranges) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/namanagrawal3/LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1202-smallest-string-with-swaps](https://github.com/namanagrawal3/LeetCode/tree/master/1202-smallest-string-with-swaps) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/namanagrawal3/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/namanagrawal3/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/namanagrawal3/LeetCode/tree/master/1396-count-servers-that-communicate) |
@@ -2167,6 +2173,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [1202-smallest-string-with-swaps](https://github.com/namanagrawal3/LeetCode/tree/master/1202-smallest-string-with-swaps) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/namanagrawal3/LeetCode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/namanagrawal3/LeetCode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Graph Theory
