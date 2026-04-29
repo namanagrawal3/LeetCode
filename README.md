@@ -391,6 +391,7 @@
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/namanagrawal3/LeetCode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3690-smallest-substring-with-identical-characters-i](https://github.com/namanagrawal3/LeetCode/tree/master/3690-smallest-substring-with-identical-characters-i) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/namanagrawal3/LeetCode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/namanagrawal3/LeetCode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3776-find-minimum-cost-to-remove-array-elements](https://github.com/namanagrawal3/LeetCode/tree/master/3776-find-minimum-cost-to-remove-array-elements) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/namanagrawal3/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/namanagrawal3/LeetCode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
@@ -540,6 +541,7 @@
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/namanagrawal3/LeetCode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/namanagrawal3/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/namanagrawal3/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/namanagrawal3/LeetCode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/namanagrawal3/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3797-design-spreadsheet](https://github.com/namanagrawal3/LeetCode/tree/master/3797-design-spreadsheet) |
 | [3809-properties-graph](https://github.com/namanagrawal3/LeetCode/tree/master/3809-properties-graph) |
@@ -1572,6 +1574,7 @@
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/namanagrawal3/LeetCode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/namanagrawal3/LeetCode/tree/master/3637-count-number-of-balanced-permutations) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/namanagrawal3/LeetCode/tree/master/3676-smallest-number-with-all-set-bits) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/namanagrawal3/LeetCode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/namanagrawal3/LeetCode/tree/master/3783-mirror-distance-of-an-integer) |
 | [3817-maximum-containers-on-a-ship](https://github.com/namanagrawal3/LeetCode/tree/master/3817-maximum-containers-on-a-ship) |
 ## Combinatorics
