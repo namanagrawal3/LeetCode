@@ -391,6 +391,7 @@
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/namanagrawal3/LeetCode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/namanagrawal3/LeetCode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3690-smallest-substring-with-identical-characters-i](https://github.com/namanagrawal3/LeetCode/tree/master/3690-smallest-substring-with-identical-characters-i) |
+| [3742-maximum-path-score-in-a-grid](https://github.com/namanagrawal3/LeetCode/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/namanagrawal3/LeetCode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/namanagrawal3/LeetCode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3776-find-minimum-cost-to-remove-array-elements](https://github.com/namanagrawal3/LeetCode/tree/master/3776-find-minimum-cost-to-remove-array-elements) |
@@ -827,6 +828,7 @@
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/namanagrawal3/LeetCode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/namanagrawal3/LeetCode/tree/master/3637-count-number-of-balanced-permutations) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/namanagrawal3/LeetCode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
+| [3742-maximum-path-score-in-a-grid](https://github.com/namanagrawal3/LeetCode/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3776-find-minimum-cost-to-remove-array-elements](https://github.com/namanagrawal3/LeetCode/tree/master/3776-find-minimum-cost-to-remove-array-elements) |
 ## Binary Search
 |  |
@@ -1975,6 +1977,7 @@
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/namanagrawal3/LeetCode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/namanagrawal3/LeetCode/tree/master/3643-flip-square-submatrix-vertically) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/namanagrawal3/LeetCode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
+| [3742-maximum-path-score-in-a-grid](https://github.com/namanagrawal3/LeetCode/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3797-design-spreadsheet](https://github.com/namanagrawal3/LeetCode/tree/master/3797-design-spreadsheet) |
 ## String Matching
 |  |
