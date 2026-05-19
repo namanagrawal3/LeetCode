@@ -371,6 +371,7 @@
 | [3510-maximize-the-total-height-of-unique-towers](https://github.com/namanagrawal3/LeetCode/tree/master/3510-maximize-the-total-height-of-unique-towers) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/namanagrawal3/LeetCode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/namanagrawal3/LeetCode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
+| [3522-calculate-score-after-performing-instructions](https://github.com/namanagrawal3/LeetCode/tree/master/3522-calculate-score-after-performing-instructions) |
 | [3546-equal-sum-grid-partition-i](https://github.com/namanagrawal3/LeetCode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/namanagrawal3/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/namanagrawal3/LeetCode/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
@@ -536,6 +537,7 @@
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/namanagrawal3/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/namanagrawal3/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3502-count-substrings-with-k-frequency-characters-i](https://github.com/namanagrawal3/LeetCode/tree/master/3502-count-substrings-with-k-frequency-characters-i) |
+| [3522-calculate-score-after-performing-instructions](https://github.com/namanagrawal3/LeetCode/tree/master/3522-calculate-score-after-performing-instructions) |
 | [3548-find-the-count-of-good-integers](https://github.com/namanagrawal3/LeetCode/tree/master/3548-find-the-count-of-good-integers) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/namanagrawal3/LeetCode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3570-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/namanagrawal3/LeetCode/tree/master/3570-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
@@ -694,6 +696,7 @@
 | [3474-lexicographically-smallest-generated-string](https://github.com/namanagrawal3/LeetCode/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3502-count-substrings-with-k-frequency-characters-i](https://github.com/namanagrawal3/LeetCode/tree/master/3502-count-substrings-with-k-frequency-characters-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/namanagrawal3/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3522-calculate-score-after-performing-instructions](https://github.com/namanagrawal3/LeetCode/tree/master/3522-calculate-score-after-performing-instructions) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/namanagrawal3/LeetCode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3570-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/namanagrawal3/LeetCode/tree/master/3570-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
 | [3584-find-the-lexicographically-smallest-valid-sequence](https://github.com/namanagrawal3/LeetCode/tree/master/3584-find-the-lexicographically-smallest-valid-sequence) |
@@ -1736,6 +1739,7 @@
 | [3413-find-the-first-player-to-win-k-games-in-a-row](https://github.com/namanagrawal3/LeetCode/tree/master/3413-find-the-first-player-to-win-k-games-in-a-row) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/namanagrawal3/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/namanagrawal3/LeetCode/tree/master/3447-clear-digits) |
+| [3522-calculate-score-after-performing-instructions](https://github.com/namanagrawal3/LeetCode/tree/master/3522-calculate-score-after-performing-instructions) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/namanagrawal3/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/namanagrawal3/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/namanagrawal3/LeetCode/tree/master/3616-make-array-elements-equal-to-zero) |
