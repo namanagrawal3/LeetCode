@@ -366,6 +366,7 @@
 | [3438-peaks-in-array](https://github.com/namanagrawal3/LeetCode/tree/master/3438-peaks-in-array) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/namanagrawal3/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/namanagrawal3/LeetCode/tree/master/3483-alternating-groups-ii) |
+| [3488-closest-equal-element-queries](https://github.com/namanagrawal3/LeetCode/tree/master/3488-closest-equal-element-queries) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/namanagrawal3/LeetCode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/namanagrawal3/LeetCode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3510-maximize-the-total-height-of-unique-towers](https://github.com/namanagrawal3/LeetCode/tree/master/3510-maximize-the-total-height-of-unique-towers) |
@@ -538,6 +539,7 @@
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/namanagrawal3/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/namanagrawal3/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/namanagrawal3/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3488-closest-equal-element-queries](https://github.com/namanagrawal3/LeetCode/tree/master/3488-closest-equal-element-queries) |
 | [3502-count-substrings-with-k-frequency-characters-i](https://github.com/namanagrawal3/LeetCode/tree/master/3502-count-substrings-with-k-frequency-characters-i) |
 | [3522-calculate-score-after-performing-instructions](https://github.com/namanagrawal3/LeetCode/tree/master/3522-calculate-score-after-performing-instructions) |
 | [3548-find-the-count-of-good-integers](https://github.com/namanagrawal3/LeetCode/tree/master/3548-find-the-count-of-good-integers) |
@@ -899,6 +901,7 @@
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/namanagrawal3/LeetCode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3303-find-beautiful-indices-in-the-given-array-ii](https://github.com/namanagrawal3/LeetCode/tree/master/3303-find-beautiful-indices-in-the-given-array-ii) |
 | [3427-special-array-ii](https://github.com/namanagrawal3/LeetCode/tree/master/3427-special-array-ii) |
+| [3488-closest-equal-element-queries](https://github.com/namanagrawal3/LeetCode/tree/master/3488-closest-equal-element-queries) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/namanagrawal3/LeetCode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3643-zero-array-transformation-ii](https://github.com/namanagrawal3/LeetCode/tree/master/3643-zero-array-transformation-ii) |
 | [3690-smallest-substring-with-identical-characters-i](https://github.com/namanagrawal3/LeetCode/tree/master/3690-smallest-substring-with-identical-characters-i) |
