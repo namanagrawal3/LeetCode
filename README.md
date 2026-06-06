@@ -410,6 +410,7 @@
 | [3797-design-spreadsheet](https://github.com/namanagrawal3/LeetCode/tree/master/3797-design-spreadsheet) |
 | [3809-properties-graph](https://github.com/namanagrawal3/LeetCode/tree/master/3809-properties-graph) |
 | [3827-implement-router](https://github.com/namanagrawal3/LeetCode/tree/master/3827-implement-router) |
+| [3839-number-of-prefix-connected-groups](https://github.com/namanagrawal3/LeetCode/tree/master/3839-number-of-prefix-connected-groups) |
 | [3862-find-the-smallest-balanced-index](https://github.com/namanagrawal3/LeetCode/tree/master/3862-find-the-smallest-balanced-index) |
 ## Hash Table
 |  |
@@ -562,6 +563,7 @@
 | [3797-design-spreadsheet](https://github.com/namanagrawal3/LeetCode/tree/master/3797-design-spreadsheet) |
 | [3809-properties-graph](https://github.com/namanagrawal3/LeetCode/tree/master/3809-properties-graph) |
 | [3827-implement-router](https://github.com/namanagrawal3/LeetCode/tree/master/3827-implement-router) |
+| [3839-number-of-prefix-connected-groups](https://github.com/namanagrawal3/LeetCode/tree/master/3839-number-of-prefix-connected-groups) |
 ## String
 |  |
 | ------- |
@@ -721,6 +723,7 @@
 | [3706-smallest-substring-with-identical-characters-ii](https://github.com/namanagrawal3/LeetCode/tree/master/3706-smallest-substring-with-identical-characters-ii) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/namanagrawal3/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3797-design-spreadsheet](https://github.com/namanagrawal3/LeetCode/tree/master/3797-design-spreadsheet) |
+| [3839-number-of-prefix-connected-groups](https://github.com/namanagrawal3/LeetCode/tree/master/3839-number-of-prefix-connected-groups) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -1206,6 +1209,7 @@
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/namanagrawal3/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/namanagrawal3/LeetCode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/namanagrawal3/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3839-number-of-prefix-connected-groups](https://github.com/namanagrawal3/LeetCode/tree/master/3839-number-of-prefix-connected-groups) |
 ## Tree
 |  |
 | ------- |
