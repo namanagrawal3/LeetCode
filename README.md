@@ -410,6 +410,7 @@
 | [3797-design-spreadsheet](https://github.com/namanagrawal3/LeetCode/tree/master/3797-design-spreadsheet) |
 | [3809-properties-graph](https://github.com/namanagrawal3/LeetCode/tree/master/3809-properties-graph) |
 | [3827-implement-router](https://github.com/namanagrawal3/LeetCode/tree/master/3827-implement-router) |
+| [3862-find-the-smallest-balanced-index](https://github.com/namanagrawal3/LeetCode/tree/master/3862-find-the-smallest-balanced-index) |
 ## Hash Table
 |  |
 | ------- |
@@ -1740,6 +1741,7 @@
 | [3643-zero-array-transformation-ii](https://github.com/namanagrawal3/LeetCode/tree/master/3643-zero-array-transformation-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/namanagrawal3/LeetCode/tree/master/3647-zero-array-transformation-iii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/namanagrawal3/LeetCode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
+| [3862-find-the-smallest-balanced-index](https://github.com/namanagrawal3/LeetCode/tree/master/3862-find-the-smallest-balanced-index) |
 ## Simulation
 |  |
 | ------- |
