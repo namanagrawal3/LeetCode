@@ -244,6 +244,7 @@
 | [2179-most-beautiful-item-for-each-query](https://github.com/namanagrawal3/LeetCode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/namanagrawal3/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/namanagrawal3/LeetCode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/namanagrawal3/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/namanagrawal3/LeetCode/tree/master/2199-two-furthest-houses-with-different-colors) |
 | [2206-detonate-the-maximum-bombs](https://github.com/namanagrawal3/LeetCode/tree/master/2206-detonate-the-maximum-bombs) |
 | [2215-finding-3-digit-even-numbers](https://github.com/namanagrawal3/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
@@ -502,6 +503,7 @@
 | [2118-maximum-earnings-from-taxi](https://github.com/namanagrawal3/LeetCode/tree/master/2118-maximum-earnings-from-taxi) |
 | [2121-intervals-between-identical-elements](https://github.com/namanagrawal3/LeetCode/tree/master/2121-intervals-between-identical-elements) |
 | [2169-simple-bank-system](https://github.com/namanagrawal3/LeetCode/tree/master/2169-simple-bank-system) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/namanagrawal3/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2215-finding-3-digit-even-numbers](https://github.com/namanagrawal3/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/namanagrawal3/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/namanagrawal3/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -1235,6 +1237,7 @@
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/namanagrawal3/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/namanagrawal3/LeetCode/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 | [2104-operations-on-tree](https://github.com/namanagrawal3/LeetCode/tree/master/2104-operations-on-tree) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/namanagrawal3/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/namanagrawal3/LeetCode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/namanagrawal3/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/namanagrawal3/LeetCode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
@@ -1407,6 +1410,7 @@
 | [1194-path-in-zigzag-labelled-binary-tree](https://github.com/namanagrawal3/LeetCode/tree/master/1194-path-in-zigzag-labelled-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/namanagrawal3/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/namanagrawal3/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/namanagrawal3/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/namanagrawal3/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/namanagrawal3/LeetCode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/namanagrawal3/LeetCode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
