@@ -237,6 +237,7 @@
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/namanagrawal3/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2145-grid-game](https://github.com/namanagrawal3/LeetCode/tree/master/2145-grid-game) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/namanagrawal3/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/namanagrawal3/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2164-two-best-non-overlapping-events](https://github.com/namanagrawal3/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
 | [2169-simple-bank-system](https://github.com/namanagrawal3/LeetCode/tree/master/2169-simple-bank-system) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/namanagrawal3/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -1501,6 +1502,7 @@
 | [1923-sentence-similarity-iii](https://github.com/namanagrawal3/LeetCode/tree/master/1923-sentence-similarity-iii) |
 | [1972-rotating-the-box](https://github.com/namanagrawal3/LeetCode/tree/master/1972-rotating-the-box) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/namanagrawal3/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/namanagrawal3/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2232-adding-spaces-to-a-string](https://github.com/namanagrawal3/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/namanagrawal3/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/namanagrawal3/LeetCode/tree/master/2414-move-pieces-to-obtain-a-string) |
@@ -1766,6 +1768,7 @@
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/namanagrawal3/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2048-build-array-from-permutation](https://github.com/namanagrawal3/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2120-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/namanagrawal3/LeetCode/tree/master/2120-execution-of-all-suffix-instructions-staying-in-a-grid) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/namanagrawal3/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2169-simple-bank-system](https://github.com/namanagrawal3/LeetCode/tree/master/2169-simple-bank-system) |
 | [2232-adding-spaces-to-a-string](https://github.com/namanagrawal3/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/namanagrawal3/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
