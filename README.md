@@ -153,6 +153,7 @@
 | [1288-maximum-subarray-sum-with-one-deletion](https://github.com/namanagrawal3/LeetCode/tree/master/1288-maximum-subarray-sum-with-one-deletion) |
 | [1293-three-consecutive-odds](https://github.com/namanagrawal3/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1294-range-frequency-queries](https://github.com/namanagrawal3/LeetCode/tree/master/1294-range-frequency-queries) |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/namanagrawal3/LeetCode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1306-minimum-absolute-difference](https://github.com/namanagrawal3/LeetCode/tree/master/1306-minimum-absolute-difference) |
 | [1325-path-with-maximum-probability](https://github.com/namanagrawal3/LeetCode/tree/master/1325-path-with-maximum-probability) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/namanagrawal3/LeetCode/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
