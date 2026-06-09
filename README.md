@@ -402,6 +402,7 @@
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/namanagrawal3/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/namanagrawal3/LeetCode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/namanagrawal3/LeetCode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
+| [3689-maximum-total-subarray-value-i](https://github.com/namanagrawal3/LeetCode/tree/master/3689-maximum-total-subarray-value-i) |
 | [3690-smallest-substring-with-identical-characters-i](https://github.com/namanagrawal3/LeetCode/tree/master/3690-smallest-substring-with-identical-characters-i) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/namanagrawal3/LeetCode/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/namanagrawal3/LeetCode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
@@ -1093,6 +1094,7 @@
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/namanagrawal3/LeetCode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/namanagrawal3/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3647-zero-array-transformation-iii](https://github.com/namanagrawal3/LeetCode/tree/master/3647-zero-array-transformation-iii) |
+| [3689-maximum-total-subarray-value-i](https://github.com/namanagrawal3/LeetCode/tree/master/3689-maximum-total-subarray-value-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/namanagrawal3/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Sliding Window
 |  |
