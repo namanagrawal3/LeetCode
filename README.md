@@ -113,6 +113,7 @@
 | [0797-rabbits-in-forest](https://github.com/namanagrawal3/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0827-expressive-words](https://github.com/namanagrawal3/LeetCode/tree/master/0827-expressive-words) |
 | [0833-bus-routes](https://github.com/namanagrawal3/LeetCode/tree/master/0833-bus-routes) |
+| [0833-find-and-replace-in-string](https://github.com/namanagrawal3/LeetCode/tree/master/0833-find-and-replace-in-string) |
 | [0854-making-a-large-island](https://github.com/namanagrawal3/LeetCode/tree/master/0854-making-a-large-island) |
 | [0879-maximize-distance-to-closest-person](https://github.com/namanagrawal3/LeetCode/tree/master/0879-maximize-distance-to-closest-person) |
 | [0890-lemonade-change](https://github.com/namanagrawal3/LeetCode/tree/master/0890-lemonade-change) |
@@ -460,6 +461,7 @@
 | [0768-partition-labels](https://github.com/namanagrawal3/LeetCode/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/namanagrawal3/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0833-bus-routes](https://github.com/namanagrawal3/LeetCode/tree/master/0833-bus-routes) |
+| [0833-find-and-replace-in-string](https://github.com/namanagrawal3/LeetCode/tree/master/0833-find-and-replace-in-string) |
 | [0900-reordered-power-of-2](https://github.com/namanagrawal3/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/namanagrawal3/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/namanagrawal3/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -626,6 +628,7 @@
 | [0768-partition-labels](https://github.com/namanagrawal3/LeetCode/tree/master/0768-partition-labels) |
 | [0812-rotate-string](https://github.com/namanagrawal3/LeetCode/tree/master/0812-rotate-string) |
 | [0827-expressive-words](https://github.com/namanagrawal3/LeetCode/tree/master/0827-expressive-words) |
+| [0833-find-and-replace-in-string](https://github.com/namanagrawal3/LeetCode/tree/master/0833-find-and-replace-in-string) |
 | [0868-push-dominoes](https://github.com/namanagrawal3/LeetCode/tree/master/0868-push-dominoes) |
 | [0872-split-array-into-fibonacci-sequence](https://github.com/namanagrawal3/LeetCode/tree/master/0872-split-array-into-fibonacci-sequence) |
 | [0886-score-of-parentheses](https://github.com/namanagrawal3/LeetCode/tree/master/0886-score-of-parentheses) |
@@ -956,6 +959,7 @@
 | [0720-longest-word-in-dictionary](https://github.com/namanagrawal3/LeetCode/tree/master/0720-longest-word-in-dictionary) |
 | [0726-number-of-atoms](https://github.com/namanagrawal3/LeetCode/tree/master/0726-number-of-atoms) |
 | [0780-max-chunks-to-make-sorted](https://github.com/namanagrawal3/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
+| [0833-find-and-replace-in-string](https://github.com/namanagrawal3/LeetCode/tree/master/0833-find-and-replace-in-string) |
 | [0900-reordered-power-of-2](https://github.com/namanagrawal3/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/namanagrawal3/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1129-longest-string-chain](https://github.com/namanagrawal3/LeetCode/tree/master/1129-longest-string-chain) |
