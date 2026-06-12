@@ -730,6 +730,7 @@
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/namanagrawal3/LeetCode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/namanagrawal3/LeetCode/tree/master/3637-count-number-of-balanced-permutations) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/namanagrawal3/LeetCode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+| [3703-remove-k-balanced-substrings](https://github.com/namanagrawal3/LeetCode/tree/master/3703-remove-k-balanced-substrings) |
 | [3706-smallest-substring-with-identical-characters-ii](https://github.com/namanagrawal3/LeetCode/tree/master/3706-smallest-substring-with-identical-characters-ii) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/namanagrawal3/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3797-design-spreadsheet](https://github.com/namanagrawal3/LeetCode/tree/master/3797-design-spreadsheet) |
@@ -1697,6 +1698,7 @@
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/namanagrawal3/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/namanagrawal3/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3447-clear-digits](https://github.com/namanagrawal3/LeetCode/tree/master/3447-clear-digits) |
+| [3703-remove-k-balanced-substrings](https://github.com/namanagrawal3/LeetCode/tree/master/3703-remove-k-balanced-substrings) |
 ## Recursion
 |  |
 | ------- |
@@ -1797,6 +1799,7 @@
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/namanagrawal3/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/namanagrawal3/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/namanagrawal3/LeetCode/tree/master/3616-make-array-elements-equal-to-zero) |
+| [3703-remove-k-balanced-substrings](https://github.com/namanagrawal3/LeetCode/tree/master/3703-remove-k-balanced-substrings) |
 | [3790-fruits-into-baskets-ii](https://github.com/namanagrawal3/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## Bit Manipulation
 |  |
