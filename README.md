@@ -156,6 +156,7 @@
 | [1294-range-frequency-queries](https://github.com/namanagrawal3/LeetCode/tree/master/1294-range-frequency-queries) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/namanagrawal3/LeetCode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1306-minimum-absolute-difference](https://github.com/namanagrawal3/LeetCode/tree/master/1306-minimum-absolute-difference) |
+| [1311-get-watched-videos-by-your-friends](https://github.com/namanagrawal3/LeetCode/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1325-path-with-maximum-probability](https://github.com/namanagrawal3/LeetCode/tree/master/1325-path-with-maximum-probability) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/namanagrawal3/LeetCode/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/namanagrawal3/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
@@ -483,6 +484,7 @@
 | [1249-snapshot-array](https://github.com/namanagrawal3/LeetCode/tree/master/1249-snapshot-array) |
 | [1256-rank-transform-of-an-array](https://github.com/namanagrawal3/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1294-range-frequency-queries](https://github.com/namanagrawal3/LeetCode/tree/master/1294-range-frequency-queries) |
+| [1311-get-watched-videos-by-your-friends](https://github.com/namanagrawal3/LeetCode/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/namanagrawal3/LeetCode/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 | [1364-tuple-with-same-product](https://github.com/namanagrawal3/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1370-count-number-of-nice-subarrays](https://github.com/namanagrawal3/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
@@ -968,6 +970,7 @@
 | [1222-remove-covered-intervals](https://github.com/namanagrawal3/LeetCode/tree/master/1222-remove-covered-intervals) |
 | [1256-rank-transform-of-an-array](https://github.com/namanagrawal3/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1306-minimum-absolute-difference](https://github.com/namanagrawal3/LeetCode/tree/master/1306-minimum-absolute-difference) |
+| [1311-get-watched-videos-by-your-friends](https://github.com/namanagrawal3/LeetCode/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/namanagrawal3/LeetCode/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1451-rearrange-words-in-a-sentence](https://github.com/namanagrawal3/LeetCode/tree/master/1451-rearrange-words-in-a-sentence) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/namanagrawal3/LeetCode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
@@ -1366,6 +1369,7 @@
 | [1171-shortest-path-in-binary-matrix](https://github.com/namanagrawal3/LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1202-smallest-string-with-swaps](https://github.com/namanagrawal3/LeetCode/tree/master/1202-smallest-string-with-swaps) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/namanagrawal3/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1311-get-watched-videos-by-your-friends](https://github.com/namanagrawal3/LeetCode/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/namanagrawal3/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/namanagrawal3/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1396-count-servers-that-communicate](https://github.com/namanagrawal3/LeetCode/tree/master/1396-count-servers-that-communicate) |
@@ -2271,6 +2275,7 @@
 ## Graph Theory
 |  |
 | ------- |
+| [1311-get-watched-videos-by-your-friends](https://github.com/namanagrawal3/LeetCode/tree/master/1311-get-watched-videos-by-your-friends) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/namanagrawal3/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/namanagrawal3/LeetCode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Randomized
