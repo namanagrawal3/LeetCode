@@ -417,6 +417,7 @@
 | [3797-design-spreadsheet](https://github.com/namanagrawal3/LeetCode/tree/master/3797-design-spreadsheet) |
 | [3809-properties-graph](https://github.com/namanagrawal3/LeetCode/tree/master/3809-properties-graph) |
 | [3827-implement-router](https://github.com/namanagrawal3/LeetCode/tree/master/3827-implement-router) |
+| [3838-weighted-word-mapping](https://github.com/namanagrawal3/LeetCode/tree/master/3838-weighted-word-mapping) |
 | [3839-number-of-prefix-connected-groups](https://github.com/namanagrawal3/LeetCode/tree/master/3839-number-of-prefix-connected-groups) |
 | [3862-find-the-smallest-balanced-index](https://github.com/namanagrawal3/LeetCode/tree/master/3862-find-the-smallest-balanced-index) |
 ## Hash Table
@@ -736,6 +737,7 @@
 | [3706-smallest-substring-with-identical-characters-ii](https://github.com/namanagrawal3/LeetCode/tree/master/3706-smallest-substring-with-identical-characters-ii) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/namanagrawal3/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3797-design-spreadsheet](https://github.com/namanagrawal3/LeetCode/tree/master/3797-design-spreadsheet) |
+| [3838-weighted-word-mapping](https://github.com/namanagrawal3/LeetCode/tree/master/3838-weighted-word-mapping) |
 | [3839-number-of-prefix-connected-groups](https://github.com/namanagrawal3/LeetCode/tree/master/3839-number-of-prefix-connected-groups) |
 ## Dynamic Programming
 |  |
@@ -1808,6 +1810,7 @@
 | [3616-make-array-elements-equal-to-zero](https://github.com/namanagrawal3/LeetCode/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3703-remove-k-balanced-substrings](https://github.com/namanagrawal3/LeetCode/tree/master/3703-remove-k-balanced-substrings) |
 | [3790-fruits-into-baskets-ii](https://github.com/namanagrawal3/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
+| [3838-weighted-word-mapping](https://github.com/namanagrawal3/LeetCode/tree/master/3838-weighted-word-mapping) |
 ## Bit Manipulation
 |  |
 | ------- |
