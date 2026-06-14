@@ -1518,6 +1518,7 @@
 | [1923-sentence-similarity-iii](https://github.com/namanagrawal3/LeetCode/tree/master/1923-sentence-similarity-iii) |
 | [1972-rotating-the-box](https://github.com/namanagrawal3/LeetCode/tree/master/1972-rotating-the-box) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/namanagrawal3/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/namanagrawal3/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/namanagrawal3/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2232-adding-spaces-to-a-string](https://github.com/namanagrawal3/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/namanagrawal3/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -1667,6 +1668,7 @@
 | [0355-design-twitter](https://github.com/namanagrawal3/LeetCode/tree/master/0355-design-twitter) |
 | [0432-all-oone-data-structure](https://github.com/namanagrawal3/LeetCode/tree/master/0432-all-oone-data-structure) |
 | [1582-design-browser-history](https://github.com/namanagrawal3/LeetCode/tree/master/1582-design-browser-history) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/namanagrawal3/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -1697,6 +1699,7 @@
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/namanagrawal3/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/namanagrawal3/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/namanagrawal3/LeetCode/tree/master/2123-the-number-of-weak-characters-in-the-game) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/namanagrawal3/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/namanagrawal3/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2227-sum-of-subarray-ranges](https://github.com/namanagrawal3/LeetCode/tree/master/2227-sum-of-subarray-ranges) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/namanagrawal3/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
