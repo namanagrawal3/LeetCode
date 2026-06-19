@@ -194,6 +194,7 @@
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/namanagrawal3/LeetCode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1723-maximum-number-of-achievable-transfer-requests](https://github.com/namanagrawal3/LeetCode/tree/master/1723-maximum-number-of-achievable-transfer-requests) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/namanagrawal3/LeetCode/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [1732-find-the-highest-altitude](https://github.com/namanagrawal3/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/namanagrawal3/LeetCode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1748-best-team-with-no-conflicts](https://github.com/namanagrawal3/LeetCode/tree/master/1748-best-team-with-no-conflicts) |
 | [1753-path-with-minimum-effort](https://github.com/namanagrawal3/LeetCode/tree/master/1753-path-with-minimum-effort) |
@@ -1752,6 +1753,7 @@
 | [1537-maximum-score-after-splitting-a-string](https://github.com/namanagrawal3/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/namanagrawal3/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1694-make-sum-divisible-by-p](https://github.com/namanagrawal3/LeetCode/tree/master/1694-make-sum-divisible-by-p) |
+| [1732-find-the-highest-altitude](https://github.com/namanagrawal3/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/namanagrawal3/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/namanagrawal3/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2102-find-the-middle-index-in-array](https://github.com/namanagrawal3/LeetCode/tree/master/2102-find-the-middle-index-in-array) |
