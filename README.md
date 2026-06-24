@@ -27,6 +27,7 @@
 | [0035-search-insert-position](https://github.com/namanagrawal3/LeetCode/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/namanagrawal3/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/namanagrawal3/LeetCode/tree/master/0040-combination-sum-ii) |
+| [0042-trapping-rain-water](https://github.com/namanagrawal3/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/namanagrawal3/LeetCode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/namanagrawal3/LeetCode/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/namanagrawal3/LeetCode/tree/master/0049-group-anagrams) |
@@ -750,6 +751,7 @@
 | [0005-longest-palindromic-substring](https://github.com/namanagrawal3/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/namanagrawal3/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/namanagrawal3/LeetCode/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/namanagrawal3/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/namanagrawal3/LeetCode/tree/master/0044-wildcard-matching) |
 | [0064-minimum-path-sum](https://github.com/namanagrawal3/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/namanagrawal3/LeetCode/tree/master/0072-edit-distance) |
@@ -1500,6 +1502,7 @@
 | [0005-longest-palindromic-substring](https://github.com/namanagrawal3/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/namanagrawal3/LeetCode/tree/master/0011-container-with-most-water) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/namanagrawal3/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0042-trapping-rain-water](https://github.com/namanagrawal3/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/namanagrawal3/LeetCode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/namanagrawal3/LeetCode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/namanagrawal3/LeetCode/tree/master/0141-linked-list-cycle) |
@@ -1687,6 +1690,7 @@
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/namanagrawal3/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/namanagrawal3/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0143-reorder-list](https://github.com/namanagrawal3/LeetCode/tree/master/0143-reorder-list) |
 | [0224-basic-calculator](https://github.com/namanagrawal3/LeetCode/tree/master/0224-basic-calculator) |
@@ -1875,6 +1879,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/namanagrawal3/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/namanagrawal3/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/namanagrawal3/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0654-maximum-binary-tree](https://github.com/namanagrawal3/LeetCode/tree/master/0654-maximum-binary-tree) |
