@@ -222,6 +222,7 @@
 | [1917-maximum-average-pass-ratio](https://github.com/namanagrawal3/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [1923-sentence-similarity-iii](https://github.com/namanagrawal3/LeetCode/tree/master/1923-sentence-similarity-iii) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/namanagrawal3/LeetCode/tree/master/1927-maximum-ascending-subarray-sum) |
+| [1943-describe-the-painting](https://github.com/namanagrawal3/LeetCode/tree/master/1943-describe-the-painting) |
 | [1963-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/namanagrawal3/LeetCode/tree/master/1963-find-xor-sum-of-all-pairs-bitwise-and) |
 | [1972-rotating-the-box](https://github.com/namanagrawal3/LeetCode/tree/master/1972-rotating-the-box) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/namanagrawal3/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -511,6 +512,7 @@
 | [1798-max-number-of-k-sum-pairs](https://github.com/namanagrawal3/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1813-maximum-erasure-value](https://github.com/namanagrawal3/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/namanagrawal3/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [1943-describe-the-painting](https://github.com/namanagrawal3/LeetCode/tree/master/1943-describe-the-painting) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/namanagrawal3/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/namanagrawal3/LeetCode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/namanagrawal3/LeetCode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
@@ -1001,6 +1003,7 @@
 | [1798-max-number-of-k-sum-pairs](https://github.com/namanagrawal3/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1829-maximum-units-on-a-truck](https://github.com/namanagrawal3/LeetCode/tree/master/1829-maximum-units-on-a-truck) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/namanagrawal3/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [1943-describe-the-painting](https://github.com/namanagrawal3/LeetCode/tree/master/1943-describe-the-painting) |
 | [2118-maximum-earnings-from-taxi](https://github.com/namanagrawal3/LeetCode/tree/master/2118-maximum-earnings-from-taxi) |
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/namanagrawal3/LeetCode/tree/master/2123-the-number-of-weak-characters-in-the-game) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/namanagrawal3/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -1787,6 +1790,7 @@
 | [1732-find-the-highest-altitude](https://github.com/namanagrawal3/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1854-maximum-population-year](https://github.com/namanagrawal3/LeetCode/tree/master/1854-maximum-population-year) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/namanagrawal3/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1943-describe-the-painting](https://github.com/namanagrawal3/LeetCode/tree/master/1943-describe-the-painting) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/namanagrawal3/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2102-find-the-middle-index-in-array](https://github.com/namanagrawal3/LeetCode/tree/master/2102-find-the-middle-index-in-array) |
 | [2121-intervals-between-identical-elements](https://github.com/namanagrawal3/LeetCode/tree/master/2121-intervals-between-identical-elements) |
