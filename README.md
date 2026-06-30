@@ -342,6 +342,7 @@
 | [2792-neighboring-bitwise-xor](https://github.com/namanagrawal3/LeetCode/tree/master/2792-neighboring-bitwise-xor) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/namanagrawal3/LeetCode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2833-count-zero-request-servers](https://github.com/namanagrawal3/LeetCode/tree/master/2833-count-zero-request-servers) |
+| [2846-minimum-edge-weight-equilibrium-queries-in-a-tree](https://github.com/namanagrawal3/LeetCode/tree/master/2846-minimum-edge-weight-equilibrium-queries-in-a-tree) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/namanagrawal3/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2868-continuous-subarrays](https://github.com/namanagrawal3/LeetCode/tree/master/2868-continuous-subarrays) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/namanagrawal3/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
@@ -868,6 +869,7 @@
 | [2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/namanagrawal3/LeetCode/tree/master/2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
 | [2755-extra-characters-in-a-string](https://github.com/namanagrawal3/LeetCode/tree/master/2755-extra-characters-in-a-string) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/namanagrawal3/LeetCode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+| [2846-minimum-edge-weight-equilibrium-queries-in-a-tree](https://github.com/namanagrawal3/LeetCode/tree/master/2846-minimum-edge-weight-equilibrium-queries-in-a-tree) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/namanagrawal3/LeetCode/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/namanagrawal3/LeetCode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/namanagrawal3/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -1293,6 +1295,7 @@
 | [2568-minimum-fuel-cost-to-report-to-the-capital](https://github.com/namanagrawal3/LeetCode/tree/master/2568-minimum-fuel-cost-to-report-to-the-capital) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/namanagrawal3/LeetCode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/namanagrawal3/LeetCode/tree/master/2677-cousins-in-binary-tree-ii) |
+| [2846-minimum-edge-weight-equilibrium-queries-in-a-tree](https://github.com/namanagrawal3/LeetCode/tree/master/2846-minimum-edge-weight-equilibrium-queries-in-a-tree) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/namanagrawal3/LeetCode/tree/master/3058-maximum-number-of-k-divisible-components) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/namanagrawal3/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/namanagrawal3/LeetCode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
@@ -1363,6 +1366,7 @@
 | [2677-cousins-in-binary-tree-ii](https://github.com/namanagrawal3/LeetCode/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/namanagrawal3/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2793-count-the-number-of-complete-components](https://github.com/namanagrawal3/LeetCode/tree/master/2793-count-the-number-of-complete-components) |
+| [2846-minimum-edge-weight-equilibrium-queries-in-a-tree](https://github.com/namanagrawal3/LeetCode/tree/master/2846-minimum-edge-weight-equilibrium-queries-in-a-tree) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/namanagrawal3/LeetCode/tree/master/3058-maximum-number-of-k-divisible-components) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/namanagrawal3/LeetCode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/namanagrawal3/LeetCode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
@@ -1908,6 +1912,7 @@
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/namanagrawal3/LeetCode/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/namanagrawal3/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/namanagrawal3/LeetCode/tree/master/2792-neighboring-bitwise-xor) |
+| [2846-minimum-edge-weight-equilibrium-queries-in-a-tree](https://github.com/namanagrawal3/LeetCode/tree/master/2846-minimum-edge-weight-equilibrium-queries-in-a-tree) |
 | [3291-find-if-array-can-be-sorted](https://github.com/namanagrawal3/LeetCode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/namanagrawal3/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/namanagrawal3/LeetCode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
