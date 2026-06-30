@@ -89,8 +89,8 @@ class Solution {
             return u;
 
         for (int j = ancestor[0].length-1; j >= 0; j--) {
-            if (ancestor[u][j] == -1)
-                continue;
+            // if (ancestor[u][j] == -1)
+            //     continue;
             if (ancestor[u][j] != ancestor[v][j]) {
                 u = ancestor[u][j];
                 v = ancestor[v][j];
