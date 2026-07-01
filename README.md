@@ -297,6 +297,7 @@
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/namanagrawal3/LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/namanagrawal3/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2508-maximum-sum-of-an-hourglass](https://github.com/namanagrawal3/LeetCode/tree/master/2508-maximum-sum-of-an-hourglass) |
+| [2509-cycle-length-queries-in-a-tree](https://github.com/namanagrawal3/LeetCode/tree/master/2509-cycle-length-queries-in-a-tree) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/namanagrawal3/LeetCode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/namanagrawal3/LeetCode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2529-range-product-queries-of-powers](https://github.com/namanagrawal3/LeetCode/tree/master/2529-range-product-queries-of-powers) |
@@ -1289,6 +1290,7 @@
 | [2196-create-binary-tree-from-descriptions](https://github.com/namanagrawal3/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/namanagrawal3/LeetCode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/namanagrawal3/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+| [2509-cycle-length-queries-in-a-tree](https://github.com/namanagrawal3/LeetCode/tree/master/2509-cycle-length-queries-in-a-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/namanagrawal3/LeetCode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/namanagrawal3/LeetCode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/namanagrawal3/LeetCode/tree/master/2564-most-profitable-path-in-a-tree) |
@@ -1470,6 +1472,7 @@
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/namanagrawal3/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/namanagrawal3/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/namanagrawal3/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+| [2509-cycle-length-queries-in-a-tree](https://github.com/namanagrawal3/LeetCode/tree/master/2509-cycle-length-queries-in-a-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/namanagrawal3/LeetCode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/namanagrawal3/LeetCode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/namanagrawal3/LeetCode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
