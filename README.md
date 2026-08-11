@@ -351,6 +351,7 @@
 | [2906-construct-product-matrix](https://github.com/namanagrawal3/LeetCode/tree/master/2906-construct-product-matrix) |
 | [2915-count-of-interesting-subarrays](https://github.com/namanagrawal3/LeetCode/tree/master/2915-count-of-interesting-subarrays) |
 | [2971-find-polygon-with-the-largest-perimeter](https://github.com/namanagrawal3/LeetCode/tree/master/2971-find-polygon-with-the-largest-perimeter) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/namanagrawal3/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3001-apply-operations-to-maximize-score](https://github.com/namanagrawal3/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/namanagrawal3/LeetCode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/namanagrawal3/LeetCode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
@@ -563,6 +564,7 @@
 | [2856-count-complete-subarrays-in-an-array](https://github.com/namanagrawal3/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/namanagrawal3/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2915-count-of-interesting-subarrays](https://github.com/namanagrawal3/LeetCode/tree/master/2915-count-of-interesting-subarrays) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/namanagrawal3/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/namanagrawal3/LeetCode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/namanagrawal3/LeetCode/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/namanagrawal3/LeetCode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -1041,6 +1043,7 @@
 | [2888-minimum-index-of-a-valid-split](https://github.com/namanagrawal3/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/namanagrawal3/LeetCode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [2971-find-polygon-with-the-largest-perimeter](https://github.com/namanagrawal3/LeetCode/tree/master/2971-find-polygon-with-the-largest-perimeter) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/namanagrawal3/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3001-apply-operations-to-maximize-score](https://github.com/namanagrawal3/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/namanagrawal3/LeetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3291-find-if-array-can-be-sorted](https://github.com/namanagrawal3/LeetCode/tree/master/3291-find-if-array-can-be-sorted) |
