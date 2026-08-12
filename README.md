@@ -203,6 +203,7 @@
 | [1748-best-team-with-no-conflicts](https://github.com/namanagrawal3/LeetCode/tree/master/1748-best-team-with-no-conflicts) |
 | [1753-path-with-minimum-effort](https://github.com/namanagrawal3/LeetCode/tree/master/1753-path-with-minimum-effort) |
 | [1755-defuse-the-bomb](https://github.com/namanagrawal3/LeetCode/tree/master/1755-defuse-the-bomb) |
+| [1755-closest-subsequence-sum](https://github.com/namanagrawal3/LeetCode/tree/master/1755-closest-subsequence-sum) |
 | [1762-furthest-building-you-can-reach](https://github.com/namanagrawal3/LeetCode/tree/master/1762-furthest-building-you-can-reach) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/namanagrawal3/LeetCode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/namanagrawal3/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -851,6 +852,7 @@
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/namanagrawal3/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/namanagrawal3/LeetCode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1748-best-team-with-no-conflicts](https://github.com/namanagrawal3/LeetCode/tree/master/1748-best-team-with-no-conflicts) |
+| [1755-closest-subsequence-sum](https://github.com/namanagrawal3/LeetCode/tree/master/1755-closest-subsequence-sum) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/namanagrawal3/LeetCode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1814-jump-game-vi](https://github.com/namanagrawal3/LeetCode/tree/master/1814-jump-game-vi) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/namanagrawal3/LeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
@@ -1010,6 +1012,7 @@
 | [1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/namanagrawal3/LeetCode/tree/master/1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/namanagrawal3/LeetCode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1748-best-team-with-no-conflicts](https://github.com/namanagrawal3/LeetCode/tree/master/1748-best-team-with-no-conflicts) |
+| [1755-closest-subsequence-sum](https://github.com/namanagrawal3/LeetCode/tree/master/1755-closest-subsequence-sum) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/namanagrawal3/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1829-maximum-units-on-a-truck](https://github.com/namanagrawal3/LeetCode/tree/master/1829-maximum-units-on-a-truck) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/namanagrawal3/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
@@ -1566,6 +1569,7 @@
 | [1468-check-if-n-and-its-double-exist](https://github.com/namanagrawal3/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/namanagrawal3/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/namanagrawal3/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [1755-closest-subsequence-sum](https://github.com/namanagrawal3/LeetCode/tree/master/1755-closest-subsequence-sum) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/namanagrawal3/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/namanagrawal3/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1923-sentence-similarity-iii](https://github.com/namanagrawal3/LeetCode/tree/master/1923-sentence-similarity-iii) |
@@ -1904,6 +1908,7 @@
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/namanagrawal3/LeetCode/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/namanagrawal3/LeetCode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1723-maximum-number-of-achievable-transfer-requests](https://github.com/namanagrawal3/LeetCode/tree/master/1723-maximum-number-of-achievable-transfer-requests) |
+| [1755-closest-subsequence-sum](https://github.com/namanagrawal3/LeetCode/tree/master/1755-closest-subsequence-sum) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/namanagrawal3/LeetCode/tree/master/1826-maximum-xor-with-an-element-from-array) |
 | [1963-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/namanagrawal3/LeetCode/tree/master/1963-find-xor-sum-of-all-pairs-bitwise-and) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/namanagrawal3/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -2241,6 +2246,7 @@
 | ------- |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/namanagrawal3/LeetCode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1418-fair-distribution-of-cookies](https://github.com/namanagrawal3/LeetCode/tree/master/1418-fair-distribution-of-cookies) |
+| [1755-closest-subsequence-sum](https://github.com/namanagrawal3/LeetCode/tree/master/1755-closest-subsequence-sum) |
 ## Interactive
 |  |
 | ------- |
@@ -2367,4 +2373,8 @@
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/namanagrawal3/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Meet in the Middle
+|  |
+| ------- |
+| [1755-closest-subsequence-sum](https://github.com/namanagrawal3/LeetCode/tree/master/1755-closest-subsequence-sum) |
 <!---LeetCode Topics End-->
