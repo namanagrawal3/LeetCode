@@ -270,6 +270,7 @@
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/namanagrawal3/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2249-count-the-hidden-sequences](https://github.com/namanagrawal3/LeetCode/tree/master/2249-count-the-hidden-sequences) |
 | [2250-k-highest-ranked-items-within-a-price-range](https://github.com/namanagrawal3/LeetCode/tree/master/2250-k-highest-ranked-items-within-a-price-range) |
+| [2256-minimum-average-difference](https://github.com/namanagrawal3/LeetCode/tree/master/2256-minimum-average-difference) |
 | [2261-all-divisions-with-the-highest-score-of-a-binary-array](https://github.com/namanagrawal3/LeetCode/tree/master/2261-all-divisions-with-the-highest-score-of-a-binary-array) |
 | [2262-solving-questions-with-brainpower](https://github.com/namanagrawal3/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/namanagrawal3/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -1833,6 +1834,7 @@
 | [2145-grid-game](https://github.com/namanagrawal3/LeetCode/tree/master/2145-grid-game) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/namanagrawal3/LeetCode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2249-count-the-hidden-sequences](https://github.com/namanagrawal3/LeetCode/tree/master/2249-count-the-hidden-sequences) |
+| [2256-minimum-average-difference](https://github.com/namanagrawal3/LeetCode/tree/master/2256-minimum-average-difference) |
 | [2358-number-of-ways-to-split-array](https://github.com/namanagrawal3/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/namanagrawal3/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2465-shifting-letters-ii](https://github.com/namanagrawal3/LeetCode/tree/master/2465-shifting-letters-ii) |
