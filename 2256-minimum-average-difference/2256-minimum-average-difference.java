@@ -1,21 +1,23 @@
 class Solution {
     public int minimumAverageDifference(int[] nums) {
-    // Simply use the 'Prefix-Sum' technique to find the average efficiently
+    // Approach 1: Use the 'Prefix-Sum' technique to find the average efficiently
+    // Approach 2: Use the 'totalSum' & 'currSum' variables
 
         int n = nums.length;
-        long[] preSum = new long[n];
-        
-        preSum[0] = nums[0];
-        for (int i = 1; i < n; i++) {
-            preSum[i] = preSum[i-1] + nums[i];
+        long totalSum = 0;
+        for (int num: nums) {
+            totalSum += num;
         }
 
+        long currSum = 0;
         int minIdx = -1;
         int minDiff = Integer.MAX_VALUE;
 
         for (int i = 0; i < n; i++) {
-            long avg1 = preSum[i] / (i+1);
-            long avg2 = (i < n-1) ? (preSum[n-1] - preSum[i]) / (n-1-i) : 0;
+            totalSum -= nums[i];
+            currSum += nums[i];
+            long avg1 = currSum / (i+1);
+            long avg2 = (i < n-1) ? totalSum / (n-1-i) : 0;
 
             int diff = (int) Math.abs(avg1 - avg2);
             if (diff < minDiff) {
