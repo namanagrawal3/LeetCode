@@ -113,6 +113,7 @@
 | [0787-sliding-puzzle](https://github.com/namanagrawal3/LeetCode/tree/master/0787-sliding-puzzle) |
 | [0794-swim-in-rising-water](https://github.com/namanagrawal3/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0797-rabbits-in-forest](https://github.com/namanagrawal3/LeetCode/tree/master/0797-rabbits-in-forest) |
+| [0805-split-array-with-same-average](https://github.com/namanagrawal3/LeetCode/tree/master/0805-split-array-with-same-average) |
 | [0827-expressive-words](https://github.com/namanagrawal3/LeetCode/tree/master/0827-expressive-words) |
 | [0833-bus-routes](https://github.com/namanagrawal3/LeetCode/tree/master/0833-bus-routes) |
 | [0833-find-and-replace-in-string](https://github.com/namanagrawal3/LeetCode/tree/master/0833-find-and-replace-in-string) |
@@ -480,6 +481,7 @@
 | [0726-number-of-atoms](https://github.com/namanagrawal3/LeetCode/tree/master/0726-number-of-atoms) |
 | [0768-partition-labels](https://github.com/namanagrawal3/LeetCode/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/namanagrawal3/LeetCode/tree/master/0797-rabbits-in-forest) |
+| [0805-split-array-with-same-average](https://github.com/namanagrawal3/LeetCode/tree/master/0805-split-array-with-same-average) |
 | [0833-bus-routes](https://github.com/namanagrawal3/LeetCode/tree/master/0833-bus-routes) |
 | [0833-find-and-replace-in-string](https://github.com/namanagrawal3/LeetCode/tree/master/0833-find-and-replace-in-string) |
 | [0900-reordered-power-of-2](https://github.com/namanagrawal3/LeetCode/tree/master/0900-reordered-power-of-2) |
@@ -821,6 +823,7 @@
 | [0747-min-cost-climbing-stairs](https://github.com/namanagrawal3/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0788-rotated-digits](https://github.com/namanagrawal3/LeetCode/tree/master/0788-rotated-digits) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/namanagrawal3/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0805-split-array-with-same-average](https://github.com/namanagrawal3/LeetCode/tree/master/0805-split-array-with-same-average) |
 | [0806-domino-and-tromino-tiling](https://github.com/namanagrawal3/LeetCode/tree/master/0806-domino-and-tromino-tiling) |
 | [0826-soup-servings](https://github.com/namanagrawal3/LeetCode/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/namanagrawal3/LeetCode/tree/master/0867-new-21-game) |
@@ -1657,6 +1660,7 @@
 | [0679-24-game](https://github.com/namanagrawal3/LeetCode/tree/master/0679-24-game) |
 | [0788-rotated-digits](https://github.com/namanagrawal3/LeetCode/tree/master/0788-rotated-digits) |
 | [0797-rabbits-in-forest](https://github.com/namanagrawal3/LeetCode/tree/master/0797-rabbits-in-forest) |
+| [0805-split-array-with-same-average](https://github.com/namanagrawal3/LeetCode/tree/master/0805-split-array-with-same-average) |
 | [0826-soup-servings](https://github.com/namanagrawal3/LeetCode/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/namanagrawal3/LeetCode/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/namanagrawal3/LeetCode/tree/master/0900-reordered-power-of-2) |
@@ -1910,6 +1914,7 @@
 | [0476-number-complement](https://github.com/namanagrawal3/LeetCode/tree/master/0476-number-complement) |
 | [0477-total-hamming-distance](https://github.com/namanagrawal3/LeetCode/tree/master/0477-total-hamming-distance) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/namanagrawal3/LeetCode/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [0805-split-array-with-same-average](https://github.com/namanagrawal3/LeetCode/tree/master/0805-split-array-with-same-average) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/namanagrawal3/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1009-complement-of-base-10-integer](https://github.com/namanagrawal3/LeetCode/tree/master/1009-complement-of-base-10-integer) |
 | [1418-fair-distribution-of-cookies](https://github.com/namanagrawal3/LeetCode/tree/master/1418-fair-distribution-of-cookies) |
@@ -2255,6 +2260,7 @@
 |  |
 | ------- |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/namanagrawal3/LeetCode/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [0805-split-array-with-same-average](https://github.com/namanagrawal3/LeetCode/tree/master/0805-split-array-with-same-average) |
 | [1418-fair-distribution-of-cookies](https://github.com/namanagrawal3/LeetCode/tree/master/1418-fair-distribution-of-cookies) |
 | [1755-closest-subsequence-sum](https://github.com/namanagrawal3/LeetCode/tree/master/1755-closest-subsequence-sum) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/namanagrawal3/LeetCode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
@@ -2387,6 +2393,7 @@
 ## Meet in the Middle
 |  |
 | ------- |
+| [0805-split-array-with-same-average](https://github.com/namanagrawal3/LeetCode/tree/master/0805-split-array-with-same-average) |
 | [1755-closest-subsequence-sum](https://github.com/namanagrawal3/LeetCode/tree/master/1755-closest-subsequence-sum) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/namanagrawal3/LeetCode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 <!---LeetCode Topics End-->
