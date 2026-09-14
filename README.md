@@ -1663,6 +1663,7 @@
 | [0797-rabbits-in-forest](https://github.com/namanagrawal3/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0805-split-array-with-same-average](https://github.com/namanagrawal3/LeetCode/tree/master/0805-split-array-with-same-average) |
 | [0826-soup-servings](https://github.com/namanagrawal3/LeetCode/tree/master/0826-soup-servings) |
+| [0836-rectangle-overlap](https://github.com/namanagrawal3/LeetCode/tree/master/0836-rectangle-overlap) |
 | [0867-new-21-game](https://github.com/namanagrawal3/LeetCode/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/namanagrawal3/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [0923-super-egg-drop](https://github.com/namanagrawal3/LeetCode/tree/master/0923-super-egg-drop) |
@@ -2306,6 +2307,7 @@
 ## Geometry
 |  |
 | ------- |
+| [0836-rectangle-overlap](https://github.com/namanagrawal3/LeetCode/tree/master/0836-rectangle-overlap) |
 | [2206-detonate-the-maximum-bombs](https://github.com/namanagrawal3/LeetCode/tree/master/2206-detonate-the-maximum-bombs) |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/namanagrawal3/LeetCode/tree/master/2575-minimum-cuts-to-divide-a-circle) |
 ## Database
