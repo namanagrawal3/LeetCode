@@ -716,6 +716,7 @@
 | [2456-construct-smallest-number-from-di-string](https://github.com/namanagrawal3/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/namanagrawal3/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2465-shifting-letters-ii](https://github.com/namanagrawal3/LeetCode/tree/master/2465-shifting-letters-ii) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/namanagrawal3/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/namanagrawal3/LeetCode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/namanagrawal3/LeetCode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2580-circular-sentence](https://github.com/namanagrawal3/LeetCode/tree/master/2580-circular-sentence) |
@@ -877,6 +878,7 @@
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/namanagrawal3/LeetCode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/namanagrawal3/LeetCode/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/namanagrawal3/LeetCode/tree/master/2415-count-the-number-of-ideal-arrays) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/namanagrawal3/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2554-minimum-total-distance-traveled](https://github.com/namanagrawal3/LeetCode/tree/master/2554-minimum-total-distance-traveled) |
 | [2562-count-ways-to-build-good-strings](https://github.com/namanagrawal3/LeetCode/tree/master/2562-count-ways-to-build-good-strings) |
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/namanagrawal3/LeetCode/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
@@ -1126,6 +1128,7 @@
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/namanagrawal3/LeetCode/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2300-construct-string-with-repeat-limit](https://github.com/namanagrawal3/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/namanagrawal3/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/namanagrawal3/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/namanagrawal3/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2509-minimize-xor](https://github.com/namanagrawal3/LeetCode/tree/master/2509-minimize-xor) |
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/namanagrawal3/LeetCode/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
@@ -1595,6 +1598,7 @@
 | [2265-partition-array-according-to-given-pivot](https://github.com/namanagrawal3/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/namanagrawal3/LeetCode/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2417-the-latest-time-to-catch-a-bus](https://github.com/namanagrawal3/LeetCode/tree/master/2417-the-latest-time-to-catch-a-bus) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/namanagrawal3/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2481-strictly-palindromic-number](https://github.com/namanagrawal3/LeetCode/tree/master/2481-strictly-palindromic-number) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/namanagrawal3/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2540-minimum-common-value](https://github.com/namanagrawal3/LeetCode/tree/master/2540-minimum-common-value) |
