@@ -470,6 +470,7 @@
 | [0432-all-oone-data-structure](https://github.com/namanagrawal3/LeetCode/tree/master/0432-all-oone-data-structure) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/namanagrawal3/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0454-4sum-ii](https://github.com/namanagrawal3/LeetCode/tree/master/0454-4sum-ii) |
+| [0460-lfu-cache](https://github.com/namanagrawal3/LeetCode/tree/master/0460-lfu-cache) |
 | [0508-most-frequent-subtree-sum](https://github.com/namanagrawal3/LeetCode/tree/master/0508-most-frequent-subtree-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/namanagrawal3/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/namanagrawal3/LeetCode/tree/master/0567-permutation-in-string) |
@@ -1511,6 +1512,7 @@
 | [0355-design-twitter](https://github.com/namanagrawal3/LeetCode/tree/master/0355-design-twitter) |
 | [0380-insert-delete-getrandom-o1](https://github.com/namanagrawal3/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0432-all-oone-data-structure](https://github.com/namanagrawal3/LeetCode/tree/master/0432-all-oone-data-structure) |
+| [0460-lfu-cache](https://github.com/namanagrawal3/LeetCode/tree/master/0460-lfu-cache) |
 | [0676-implement-magic-dictionary](https://github.com/namanagrawal3/LeetCode/tree/master/0676-implement-magic-dictionary) |
 | [0729-my-calendar-i](https://github.com/namanagrawal3/LeetCode/tree/master/0729-my-calendar-i) |
 | [0732-my-calendar-iii](https://github.com/namanagrawal3/LeetCode/tree/master/0732-my-calendar-iii) |
@@ -1745,6 +1747,7 @@
 | [0146-lru-cache](https://github.com/namanagrawal3/LeetCode/tree/master/0146-lru-cache) |
 | [0355-design-twitter](https://github.com/namanagrawal3/LeetCode/tree/master/0355-design-twitter) |
 | [0432-all-oone-data-structure](https://github.com/namanagrawal3/LeetCode/tree/master/0432-all-oone-data-structure) |
+| [0460-lfu-cache](https://github.com/namanagrawal3/LeetCode/tree/master/0460-lfu-cache) |
 | [1582-design-browser-history](https://github.com/namanagrawal3/LeetCode/tree/master/1582-design-browser-history) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/namanagrawal3/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/namanagrawal3/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -1753,6 +1756,7 @@
 | ------- |
 | [0146-lru-cache](https://github.com/namanagrawal3/LeetCode/tree/master/0146-lru-cache) |
 | [0432-all-oone-data-structure](https://github.com/namanagrawal3/LeetCode/tree/master/0432-all-oone-data-structure) |
+| [0460-lfu-cache](https://github.com/namanagrawal3/LeetCode/tree/master/0460-lfu-cache) |
 | [1582-design-browser-history](https://github.com/namanagrawal3/LeetCode/tree/master/1582-design-browser-history) |
 ## Stack
 |  |
