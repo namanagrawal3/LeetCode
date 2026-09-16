@@ -1262,6 +1262,7 @@
 | [1396-count-servers-that-communicate](https://github.com/namanagrawal3/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/namanagrawal3/LeetCode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1502-construct-k-palindrome-strings](https://github.com/namanagrawal3/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
+| [1603-design-parking-system](https://github.com/namanagrawal3/LeetCode/tree/master/1603-design-parking-system) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/namanagrawal3/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1854-maximum-population-year](https://github.com/namanagrawal3/LeetCode/tree/master/1854-maximum-population-year) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/namanagrawal3/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -1524,6 +1525,7 @@
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/namanagrawal3/LeetCode/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/namanagrawal3/LeetCode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1582-design-browser-history](https://github.com/namanagrawal3/LeetCode/tree/master/1582-design-browser-history) |
+| [1603-design-parking-system](https://github.com/namanagrawal3/LeetCode/tree/master/1603-design-parking-system) |
 | [2104-operations-on-tree](https://github.com/namanagrawal3/LeetCode/tree/master/2104-operations-on-tree) |
 | [2169-simple-bank-system](https://github.com/namanagrawal3/LeetCode/tree/master/2169-simple-bank-system) |
 | [2434-design-a-number-container-system](https://github.com/namanagrawal3/LeetCode/tree/master/2434-design-a-number-container-system) |
@@ -1879,6 +1881,7 @@
 | [0415-add-strings](https://github.com/namanagrawal3/LeetCode/tree/master/0415-add-strings) |
 | [0657-robot-return-to-origin](https://github.com/namanagrawal3/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [1094-car-pooling](https://github.com/namanagrawal3/LeetCode/tree/master/1094-car-pooling) |
+| [1603-design-parking-system](https://github.com/namanagrawal3/LeetCode/tree/master/1603-design-parking-system) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/namanagrawal3/LeetCode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/namanagrawal3/LeetCode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/namanagrawal3/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
