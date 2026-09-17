@@ -604,6 +604,7 @@
 | [3797-design-spreadsheet](https://github.com/namanagrawal3/LeetCode/tree/master/3797-design-spreadsheet) |
 | [3809-properties-graph](https://github.com/namanagrawal3/LeetCode/tree/master/3809-properties-graph) |
 | [3827-implement-router](https://github.com/namanagrawal3/LeetCode/tree/master/3827-implement-router) |
+| [3829-design-ride-sharing-system](https://github.com/namanagrawal3/LeetCode/tree/master/3829-design-ride-sharing-system) |
 | [3839-number-of-prefix-connected-groups](https://github.com/namanagrawal3/LeetCode/tree/master/3839-number-of-prefix-connected-groups) |
 | [3885-design-event-manager](https://github.com/namanagrawal3/LeetCode/tree/master/3885-design-event-manager) |
 ## String
@@ -1537,6 +1538,7 @@
 | [2434-design-a-number-container-system](https://github.com/namanagrawal3/LeetCode/tree/master/2434-design-a-number-container-system) |
 | [3797-design-spreadsheet](https://github.com/namanagrawal3/LeetCode/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/namanagrawal3/LeetCode/tree/master/3827-implement-router) |
+| [3829-design-ride-sharing-system](https://github.com/namanagrawal3/LeetCode/tree/master/3829-design-ride-sharing-system) |
 | [3885-design-event-manager](https://github.com/namanagrawal3/LeetCode/tree/master/3885-design-event-manager) |
 ## Segment Tree
 |  |
@@ -2213,6 +2215,7 @@
 | [2868-continuous-subarrays](https://github.com/namanagrawal3/LeetCode/tree/master/2868-continuous-subarrays) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/namanagrawal3/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3827-implement-router](https://github.com/namanagrawal3/LeetCode/tree/master/3827-implement-router) |
+| [3829-design-ride-sharing-system](https://github.com/namanagrawal3/LeetCode/tree/master/3829-design-ride-sharing-system) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -2323,6 +2326,7 @@
 | ------- |
 | [1477-product-of-the-last-k-numbers](https://github.com/namanagrawal3/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1582-design-browser-history](https://github.com/namanagrawal3/LeetCode/tree/master/1582-design-browser-history) |
+| [3829-design-ride-sharing-system](https://github.com/namanagrawal3/LeetCode/tree/master/3829-design-ride-sharing-system) |
 ## Geometry
 |  |
 | ------- |
