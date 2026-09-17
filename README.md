@@ -441,6 +441,7 @@
 | [3838-weighted-word-mapping](https://github.com/namanagrawal3/LeetCode/tree/master/3838-weighted-word-mapping) |
 | [3839-number-of-prefix-connected-groups](https://github.com/namanagrawal3/LeetCode/tree/master/3839-number-of-prefix-connected-groups) |
 | [3862-find-the-smallest-balanced-index](https://github.com/namanagrawal3/LeetCode/tree/master/3862-find-the-smallest-balanced-index) |
+| [3885-design-event-manager](https://github.com/namanagrawal3/LeetCode/tree/master/3885-design-event-manager) |
 ## Hash Table
 |  |
 | ------- |
@@ -604,6 +605,7 @@
 | [3809-properties-graph](https://github.com/namanagrawal3/LeetCode/tree/master/3809-properties-graph) |
 | [3827-implement-router](https://github.com/namanagrawal3/LeetCode/tree/master/3827-implement-router) |
 | [3839-number-of-prefix-connected-groups](https://github.com/namanagrawal3/LeetCode/tree/master/3839-number-of-prefix-connected-groups) |
+| [3885-design-event-manager](https://github.com/namanagrawal3/LeetCode/tree/master/3885-design-event-manager) |
 ## String
 |  |
 | ------- |
@@ -1250,6 +1252,7 @@
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/namanagrawal3/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/namanagrawal3/LeetCode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/namanagrawal3/LeetCode/tree/master/3647-zero-array-transformation-iii) |
+| [3885-design-event-manager](https://github.com/namanagrawal3/LeetCode/tree/master/3885-design-event-manager) |
 ## Counting
 |  |
 | ------- |
@@ -1534,6 +1537,7 @@
 | [2434-design-a-number-container-system](https://github.com/namanagrawal3/LeetCode/tree/master/2434-design-a-number-container-system) |
 | [3797-design-spreadsheet](https://github.com/namanagrawal3/LeetCode/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/namanagrawal3/LeetCode/tree/master/3827-implement-router) |
+| [3885-design-event-manager](https://github.com/namanagrawal3/LeetCode/tree/master/3885-design-event-manager) |
 ## Segment Tree
 |  |
 | ------- |
@@ -1564,6 +1568,7 @@
 | [3790-fruits-into-baskets-ii](https://github.com/namanagrawal3/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/namanagrawal3/LeetCode/tree/master/3791-fruits-into-baskets-iii) |
 | [3827-implement-router](https://github.com/namanagrawal3/LeetCode/tree/master/3827-implement-router) |
+| [3885-design-event-manager](https://github.com/namanagrawal3/LeetCode/tree/master/3885-design-event-manager) |
 ## Two Pointers
 |  |
 | ------- |
