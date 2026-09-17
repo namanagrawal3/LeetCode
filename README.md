@@ -268,6 +268,7 @@
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/namanagrawal3/LeetCode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2232-adding-spaces-to-a-string](https://github.com/namanagrawal3/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/namanagrawal3/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2241-design-an-atm-machine](https://github.com/namanagrawal3/LeetCode/tree/master/2241-design-an-atm-machine) |
 | [2249-count-the-hidden-sequences](https://github.com/namanagrawal3/LeetCode/tree/master/2249-count-the-hidden-sequences) |
 | [2250-k-highest-ranked-items-within-a-price-range](https://github.com/namanagrawal3/LeetCode/tree/master/2250-k-highest-ranked-items-within-a-price-range) |
 | [2256-minimum-average-difference](https://github.com/namanagrawal3/LeetCode/tree/master/2256-minimum-average-difference) |
@@ -1126,6 +1127,7 @@
 | [2199-two-furthest-houses-with-different-colors](https://github.com/namanagrawal3/LeetCode/tree/master/2199-two-furthest-houses-with-different-colors) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/namanagrawal3/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/namanagrawal3/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2241-design-an-atm-machine](https://github.com/namanagrawal3/LeetCode/tree/master/2241-design-an-atm-machine) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/namanagrawal3/LeetCode/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2300-construct-string-with-repeat-limit](https://github.com/namanagrawal3/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/namanagrawal3/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
@@ -1528,6 +1530,7 @@
 | [1603-design-parking-system](https://github.com/namanagrawal3/LeetCode/tree/master/1603-design-parking-system) |
 | [2104-operations-on-tree](https://github.com/namanagrawal3/LeetCode/tree/master/2104-operations-on-tree) |
 | [2169-simple-bank-system](https://github.com/namanagrawal3/LeetCode/tree/master/2169-simple-bank-system) |
+| [2241-design-an-atm-machine](https://github.com/namanagrawal3/LeetCode/tree/master/2241-design-an-atm-machine) |
 | [2434-design-a-number-container-system](https://github.com/namanagrawal3/LeetCode/tree/master/2434-design-a-number-container-system) |
 | [3797-design-spreadsheet](https://github.com/namanagrawal3/LeetCode/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/namanagrawal3/LeetCode/tree/master/3827-implement-router) |
