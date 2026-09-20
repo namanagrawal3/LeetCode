@@ -756,6 +756,7 @@
 | [3451-string-compression-iii](https://github.com/namanagrawal3/LeetCode/tree/master/3451-string-compression-iii) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/namanagrawal3/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/namanagrawal3/LeetCode/tree/master/3474-lexicographically-smallest-generated-string) |
+| [3498-reverse-degree-of-a-string](https://github.com/namanagrawal3/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 | [3502-count-substrings-with-k-frequency-characters-i](https://github.com/namanagrawal3/LeetCode/tree/master/3502-count-substrings-with-k-frequency-characters-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/namanagrawal3/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3522-calculate-score-after-performing-instructions](https://github.com/namanagrawal3/LeetCode/tree/master/3522-calculate-score-after-performing-instructions) |
@@ -1915,6 +1916,7 @@
 | [3413-find-the-first-player-to-win-k-games-in-a-row](https://github.com/namanagrawal3/LeetCode/tree/master/3413-find-the-first-player-to-win-k-games-in-a-row) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/namanagrawal3/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/namanagrawal3/LeetCode/tree/master/3447-clear-digits) |
+| [3498-reverse-degree-of-a-string](https://github.com/namanagrawal3/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 | [3522-calculate-score-after-performing-instructions](https://github.com/namanagrawal3/LeetCode/tree/master/3522-calculate-score-after-performing-instructions) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/namanagrawal3/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/namanagrawal3/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
