@@ -474,6 +474,7 @@
 | [0454-4sum-ii](https://github.com/namanagrawal3/LeetCode/tree/master/0454-4sum-ii) |
 | [0460-lfu-cache](https://github.com/namanagrawal3/LeetCode/tree/master/0460-lfu-cache) |
 | [0508-most-frequent-subtree-sum](https://github.com/namanagrawal3/LeetCode/tree/master/0508-most-frequent-subtree-sum) |
+| [0535-encode-and-decode-tinyurl](https://github.com/namanagrawal3/LeetCode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0560-subarray-sum-equals-k](https://github.com/namanagrawal3/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/namanagrawal3/LeetCode/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/namanagrawal3/LeetCode/tree/master/0621-task-scheduler) |
@@ -649,6 +650,7 @@
 | [0474-ones-and-zeroes](https://github.com/namanagrawal3/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0516-longest-palindromic-subsequence](https://github.com/namanagrawal3/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/namanagrawal3/LeetCode/tree/master/0524-longest-word-in-dictionary-through-deleting) |
+| [0535-encode-and-decode-tinyurl](https://github.com/namanagrawal3/LeetCode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0567-permutation-in-string](https://github.com/namanagrawal3/LeetCode/tree/master/0567-permutation-in-string) |
 | [0583-delete-operation-for-two-strings](https://github.com/namanagrawal3/LeetCode/tree/master/0583-delete-operation-for-two-strings) |
 | [0647-palindromic-substrings](https://github.com/namanagrawal3/LeetCode/tree/master/0647-palindromic-substrings) |
@@ -1521,6 +1523,7 @@
 | [0380-insert-delete-getrandom-o1](https://github.com/namanagrawal3/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0432-all-oone-data-structure](https://github.com/namanagrawal3/LeetCode/tree/master/0432-all-oone-data-structure) |
 | [0460-lfu-cache](https://github.com/namanagrawal3/LeetCode/tree/master/0460-lfu-cache) |
+| [0535-encode-and-decode-tinyurl](https://github.com/namanagrawal3/LeetCode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0676-implement-magic-dictionary](https://github.com/namanagrawal3/LeetCode/tree/master/0676-implement-magic-dictionary) |
 | [0729-my-calendar-i](https://github.com/namanagrawal3/LeetCode/tree/master/0729-my-calendar-i) |
 | [0732-my-calendar-iii](https://github.com/namanagrawal3/LeetCode/tree/master/0732-my-calendar-iii) |
@@ -2263,6 +2266,7 @@
 ## Hash Function
 |  |
 | ------- |
+| [0535-encode-and-decode-tinyurl](https://github.com/namanagrawal3/LeetCode/tree/master/0535-encode-and-decode-tinyurl) |
 | [1508-longest-happy-prefix](https://github.com/namanagrawal3/LeetCode/tree/master/1508-longest-happy-prefix) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/namanagrawal3/LeetCode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/namanagrawal3/LeetCode/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
