@@ -425,6 +425,7 @@
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/namanagrawal3/LeetCode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3689-maximum-total-subarray-value-i](https://github.com/namanagrawal3/LeetCode/tree/master/3689-maximum-total-subarray-value-i) |
 | [3690-smallest-substring-with-identical-characters-i](https://github.com/namanagrawal3/LeetCode/tree/master/3690-smallest-substring-with-identical-characters-i) |
+| [3709-design-exam-scores-tracker](https://github.com/namanagrawal3/LeetCode/tree/master/3709-design-exam-scores-tracker) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/namanagrawal3/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/namanagrawal3/LeetCode/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/namanagrawal3/LeetCode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
@@ -984,6 +985,7 @@
 | [3643-zero-array-transformation-ii](https://github.com/namanagrawal3/LeetCode/tree/master/3643-zero-array-transformation-ii) |
 | [3690-smallest-substring-with-identical-characters-i](https://github.com/namanagrawal3/LeetCode/tree/master/3690-smallest-substring-with-identical-characters-i) |
 | [3706-smallest-substring-with-identical-characters-ii](https://github.com/namanagrawal3/LeetCode/tree/master/3706-smallest-substring-with-identical-characters-ii) |
+| [3709-design-exam-scores-tracker](https://github.com/namanagrawal3/LeetCode/tree/master/3709-design-exam-scores-tracker) |
 | [3790-fruits-into-baskets-ii](https://github.com/namanagrawal3/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/namanagrawal3/LeetCode/tree/master/3791-fruits-into-baskets-iii) |
 | [3827-implement-router](https://github.com/namanagrawal3/LeetCode/tree/master/3827-implement-router) |
@@ -1540,6 +1542,7 @@
 | [2169-simple-bank-system](https://github.com/namanagrawal3/LeetCode/tree/master/2169-simple-bank-system) |
 | [2241-design-an-atm-machine](https://github.com/namanagrawal3/LeetCode/tree/master/2241-design-an-atm-machine) |
 | [2434-design-a-number-container-system](https://github.com/namanagrawal3/LeetCode/tree/master/2434-design-a-number-container-system) |
+| [3709-design-exam-scores-tracker](https://github.com/namanagrawal3/LeetCode/tree/master/3709-design-exam-scores-tracker) |
 | [3797-design-spreadsheet](https://github.com/namanagrawal3/LeetCode/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/namanagrawal3/LeetCode/tree/master/3827-implement-router) |
 | [3829-design-ride-sharing-system](https://github.com/namanagrawal3/LeetCode/tree/master/3829-design-ride-sharing-system) |
@@ -1883,6 +1886,7 @@
 | [3639-zero-array-transformation-i](https://github.com/namanagrawal3/LeetCode/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/namanagrawal3/LeetCode/tree/master/3643-zero-array-transformation-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/namanagrawal3/LeetCode/tree/master/3647-zero-array-transformation-iii) |
+| [3709-design-exam-scores-tracker](https://github.com/namanagrawal3/LeetCode/tree/master/3709-design-exam-scores-tracker) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/namanagrawal3/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/namanagrawal3/LeetCode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3862-find-the-smallest-balanced-index](https://github.com/namanagrawal3/LeetCode/tree/master/3862-find-the-smallest-balanced-index) |
