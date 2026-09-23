@@ -605,6 +605,7 @@
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/namanagrawal3/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3797-design-spreadsheet](https://github.com/namanagrawal3/LeetCode/tree/master/3797-design-spreadsheet) |
 | [3809-properties-graph](https://github.com/namanagrawal3/LeetCode/tree/master/3809-properties-graph) |
+| [3815-design-auction-system](https://github.com/namanagrawal3/LeetCode/tree/master/3815-design-auction-system) |
 | [3827-implement-router](https://github.com/namanagrawal3/LeetCode/tree/master/3827-implement-router) |
 | [3829-design-ride-sharing-system](https://github.com/namanagrawal3/LeetCode/tree/master/3829-design-ride-sharing-system) |
 | [3839-number-of-prefix-connected-groups](https://github.com/namanagrawal3/LeetCode/tree/master/3839-number-of-prefix-connected-groups) |
@@ -1258,6 +1259,7 @@
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/namanagrawal3/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/namanagrawal3/LeetCode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/namanagrawal3/LeetCode/tree/master/3647-zero-array-transformation-iii) |
+| [3815-design-auction-system](https://github.com/namanagrawal3/LeetCode/tree/master/3815-design-auction-system) |
 | [3885-design-event-manager](https://github.com/namanagrawal3/LeetCode/tree/master/3885-design-event-manager) |
 ## Counting
 |  |
@@ -1544,6 +1546,7 @@
 | [2434-design-a-number-container-system](https://github.com/namanagrawal3/LeetCode/tree/master/2434-design-a-number-container-system) |
 | [3709-design-exam-scores-tracker](https://github.com/namanagrawal3/LeetCode/tree/master/3709-design-exam-scores-tracker) |
 | [3797-design-spreadsheet](https://github.com/namanagrawal3/LeetCode/tree/master/3797-design-spreadsheet) |
+| [3815-design-auction-system](https://github.com/namanagrawal3/LeetCode/tree/master/3815-design-auction-system) |
 | [3827-implement-router](https://github.com/namanagrawal3/LeetCode/tree/master/3827-implement-router) |
 | [3829-design-ride-sharing-system](https://github.com/namanagrawal3/LeetCode/tree/master/3829-design-ride-sharing-system) |
 | [3885-design-event-manager](https://github.com/namanagrawal3/LeetCode/tree/master/3885-design-event-manager) |
@@ -1576,6 +1579,7 @@
 | [2868-continuous-subarrays](https://github.com/namanagrawal3/LeetCode/tree/master/2868-continuous-subarrays) |
 | [3790-fruits-into-baskets-ii](https://github.com/namanagrawal3/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/namanagrawal3/LeetCode/tree/master/3791-fruits-into-baskets-iii) |
+| [3815-design-auction-system](https://github.com/namanagrawal3/LeetCode/tree/master/3815-design-auction-system) |
 | [3827-implement-router](https://github.com/namanagrawal3/LeetCode/tree/master/3827-implement-router) |
 | [3885-design-event-manager](https://github.com/namanagrawal3/LeetCode/tree/master/3885-design-event-manager) |
 ## Two Pointers
