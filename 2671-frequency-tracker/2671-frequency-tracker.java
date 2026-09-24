@@ -1,4 +1,6 @@
 class FrequencyTracker {
+// Simply track both the number with their freq and vice-versa
+ 
     private Map<Integer, Integer> currMap = new HashMap<>();
     private Map<Integer, HashSet<Integer>> freqMap = new HashMap<>();
 
