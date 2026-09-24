@@ -562,6 +562,7 @@
 | [2615-sum-of-distances](https://github.com/namanagrawal3/LeetCode/tree/master/2615-sum-of-distances) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/namanagrawal3/LeetCode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/namanagrawal3/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2671-frequency-tracker](https://github.com/namanagrawal3/LeetCode/tree/master/2671-frequency-tracker) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/namanagrawal3/LeetCode/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2685-first-completely-painted-row-or-column](https://github.com/namanagrawal3/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2689-rearranging-fruits](https://github.com/namanagrawal3/LeetCode/tree/master/2689-rearranging-fruits) |
@@ -1544,6 +1545,7 @@
 | [2169-simple-bank-system](https://github.com/namanagrawal3/LeetCode/tree/master/2169-simple-bank-system) |
 | [2241-design-an-atm-machine](https://github.com/namanagrawal3/LeetCode/tree/master/2241-design-an-atm-machine) |
 | [2434-design-a-number-container-system](https://github.com/namanagrawal3/LeetCode/tree/master/2434-design-a-number-container-system) |
+| [2671-frequency-tracker](https://github.com/namanagrawal3/LeetCode/tree/master/2671-frequency-tracker) |
 | [3709-design-exam-scores-tracker](https://github.com/namanagrawal3/LeetCode/tree/master/3709-design-exam-scores-tracker) |
 | [3797-design-spreadsheet](https://github.com/namanagrawal3/LeetCode/tree/master/3797-design-spreadsheet) |
 | [3815-design-auction-system](https://github.com/namanagrawal3/LeetCode/tree/master/3815-design-auction-system) |
