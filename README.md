@@ -300,6 +300,7 @@
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/namanagrawal3/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/namanagrawal3/LeetCode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/namanagrawal3/LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
+| [2502-design-memory-allocator](https://github.com/namanagrawal3/LeetCode/tree/master/2502-design-memory-allocator) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/namanagrawal3/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2508-maximum-sum-of-an-hourglass](https://github.com/namanagrawal3/LeetCode/tree/master/2508-maximum-sum-of-an-hourglass) |
 | [2509-cycle-length-queries-in-a-tree](https://github.com/namanagrawal3/LeetCode/tree/master/2509-cycle-length-queries-in-a-tree) |
@@ -553,6 +554,7 @@
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/namanagrawal3/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2479-meeting-rooms-iii](https://github.com/namanagrawal3/LeetCode/tree/master/2479-meeting-rooms-iii) |
 | [2483-task-scheduler-ii](https://github.com/namanagrawal3/LeetCode/tree/master/2483-task-scheduler-ii) |
+| [2502-design-memory-allocator](https://github.com/namanagrawal3/LeetCode/tree/master/2502-design-memory-allocator) |
 | [2540-minimum-common-value](https://github.com/namanagrawal3/LeetCode/tree/master/2540-minimum-common-value) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/namanagrawal3/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/namanagrawal3/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -1545,6 +1547,7 @@
 | [2169-simple-bank-system](https://github.com/namanagrawal3/LeetCode/tree/master/2169-simple-bank-system) |
 | [2241-design-an-atm-machine](https://github.com/namanagrawal3/LeetCode/tree/master/2241-design-an-atm-machine) |
 | [2434-design-a-number-container-system](https://github.com/namanagrawal3/LeetCode/tree/master/2434-design-a-number-container-system) |
+| [2502-design-memory-allocator](https://github.com/namanagrawal3/LeetCode/tree/master/2502-design-memory-allocator) |
 | [2671-frequency-tracker](https://github.com/namanagrawal3/LeetCode/tree/master/2671-frequency-tracker) |
 | [3709-design-exam-scores-tracker](https://github.com/namanagrawal3/LeetCode/tree/master/3709-design-exam-scores-tracker) |
 | [3797-design-spreadsheet](https://github.com/namanagrawal3/LeetCode/tree/master/3797-design-spreadsheet) |
@@ -1919,6 +1922,7 @@
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/namanagrawal3/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2479-meeting-rooms-iii](https://github.com/namanagrawal3/LeetCode/tree/master/2479-meeting-rooms-iii) |
 | [2483-task-scheduler-ii](https://github.com/namanagrawal3/LeetCode/tree/master/2483-task-scheduler-ii) |
+| [2502-design-memory-allocator](https://github.com/namanagrawal3/LeetCode/tree/master/2502-design-memory-allocator) |
 | [2551-apply-operations-to-an-array](https://github.com/namanagrawal3/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/namanagrawal3/LeetCode/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/namanagrawal3/LeetCode/tree/master/2692-take-gifts-from-the-richest-pile) |
